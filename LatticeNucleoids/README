@@ -1,0 +1,29 @@
+NucleoidLattice: programs for generating lattice-based models of supercoiled mycoplasma nucleoids
+2021 David S. Goodsell, the Scripps Research Institute
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License
+
+This work was supported in part by the US National Institutes of Health R01-GM120604
+
+This release includes files for generating models described in:
+Maritan M, Autin L, Karr J, Covert M, Olson AJ, Goodsell DS (2021) Building Structure Models
+of a Whole Mycoplasma Cell. J. Mol. Biol., in review.
+
+Programs are written in Fortran, and include:
+make_mRNA.f, make_segments.f, make_const.f, prot_const.f -- programs for preparing input files
+circle_segments.f, relax_circle.f -- programs for creating model on non-plectonemic region
+lattice.f -- program for creating lattice model of nucleic acids
+relax.f -- program for relaxing nucleic acid model and adding spheres for proteins and ribosomes
+More information is given in the header of each program.
+
+DNA, RNA, polymerases, ribosomes, etc are specified by information from WholeCell models,
+exported into custom csv files. Files for three timepoints are included in the release, along with
+script files for the entire modeling pipeline for each, and a small proteins.dat file that 
+specifies names and radii.

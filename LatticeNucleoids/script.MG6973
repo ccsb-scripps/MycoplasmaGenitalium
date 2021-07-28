@@ -1,0 +1,68 @@
+#! /usr/bin/env bash
+# Frame #6973_6960
+# read .csv file and define DNA, plectonemes, and RNA
+./make_mRNA<MG_6973_6960_1apr21.csv>MG6973.transcript
+# read .transcript file and sort out size of non-supercoiled regions and assign all bead numbers
+./make_segments<MG6973.transcript>MG6973.segments
+# using bead numbers, assign all the constraints for DNA/RNA
+./make_const<MG6973.segments>MG6973.const
+# assign all the constraints for the proteins
+./prot_const << EOF
+MG_6973_6960_1apr21.csv
+MG6973.segments
+proteins.dat
+MG6973.protconst
+EOF
+cat MG6973.protconst>>MG6973.const
+echo "done with input files"
+#exit
+
+seedinc=50
+seed=10
+seedstep=10
+
+for (( step=1; step<=1; step++)); do
+  seed=$((seed+seedinc))
+  echo "----------starting step $step ----------------"
+
+# ------make unsupercoiled circle--------
+./circle_segments << EOF
+MG6973.segments
+MG6973_circle.$step.pdb
+MG6973_circle.$step.const
+15.,5.,$seed
+EOF
+
+# ------relax circle-------
+./relax_circle << EOF
+MG6973_circle.$step.pdb
+MG6973_circle.$step.const
+MG6973_circle_relax.$step.pdb
+2.
+1,42.6,42.6
+20000,$seed
+EOF
+
+# ------add lattice plectonemes-------
+./lattice << EOF
+MG6973_lattice.$step.pdb
+MG6973_lattice.$step.chain
+2       #passes
+MG6973_circle_relax.$step.pdb
+MG6973.segments
+$seed	#random seed
+60,5	#percent bias for straight plectoneme (0-100)
+6	#lattice units per supercoil
+42.6,42.6	#radius and half length of cell (lattice units)
+EOF
+
+# ------relax model and add proteins-------
+./relax << EOF
+MG6973_lattice.$step.pdb
+MG6973.const
+MG6973_relax.$step.pdb
+80.             #weight for repulsion
+1,42.6,42.6       #cell size (lattice units)
+3000,$seed            #steps
+EOF
+done
