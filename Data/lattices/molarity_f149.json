@@ -1,0 +1,2786 @@
+{
+  "root.proteins.MG_032_MONOMER": {
+    "molarity": 0,
+    "count": 2
+  },
+  "root.proteins.MG_074_MONOMER": {
+    "molarity": 0,
+    "count": 50
+  },
+  "root.proteins.MG_096_MONOMER": {
+    "molarity": 0,
+    "count": 21
+  },
+  "root.proteins.MG_129_MONOMER": {
+    "molarity": 0,
+    "count": 14
+  },
+  "root.proteins.MG_146_MONOMER": {
+    "molarity": 0,
+    "count": 11
+  },
+  "root.proteins.MG_220_MONOMER": {
+    "molarity": 0,
+    "count": 7
+  },
+  "root.proteins.MG_286_MONOMER": {
+    "molarity": 0,
+    "count": 30
+  },
+  "root.proteins.MG_310_MONOMER": {
+    "molarity": 0,
+    "count": 48
+  },
+  "root.proteins.MG_327_MONOMER": {
+    "molarity": 0,
+    "count": 38
+  },
+  "root.proteins.MG_344_MONOMER": {
+    "molarity": 0,
+    "count": 14
+  },
+  "root.proteins.MG_389_MONOMER": {
+    "molarity": 0,
+    "count": 33
+  },
+  "root.proteins.MG_397_MONOMER": {
+    "molarity": 0,
+    "count": 47
+  },
+  "root.proteins.MG_414_MONOMER": {
+    "molarity": 0,
+    "count": 7
+  },
+  "root.proteins.MG_525_MONOMER": {
+    "molarity": 0,
+    "count": 9
+  },
+  "root.mge.surface.proteins.MG_281_MONOMER": {
+    "molarity": 0,
+    "count": 46
+  },
+  "root.mge.surface.proteins.MG_028_MONOMER": {
+    "molarity": 0,
+    "count": 167
+  },
+  "root.mge.surface.proteins.MG_061_MONOMER": {
+    "molarity": 0,
+    "count": 31
+  },
+  "root.mge.surface.proteins.MG_067_MONOMER": {
+    "molarity": 0,
+    "count": 33
+  },
+  "root.mge.surface.proteins.MG_068_MONOMER": {
+    "molarity": 0,
+    "count": 45
+  },
+  "root.mge.surface.proteins.MG_071_MONOMER": {
+    "molarity": 0,
+    "count": 13
+  },
+  "root.mge.surface.proteins.MG_075_MONOMER": {
+    "molarity": 0,
+    "count": 10
+  },
+  "root.mge.surface.proteins.MG_076_MONOMER": {
+    "molarity": 0,
+    "count": 19
+  },
+  "root.mge.surface.proteins.MG_086_MONOMER": {
+    "molarity": 0,
+    "count": 374
+  },
+  "root.mge.surface.proteins.MG_095_MONOMER": {
+    "molarity": 0,
+    "count": 366
+  },
+  "root.mge.surface.proteins.MG_130_MONOMER": {
+    "molarity": 0,
+    "count": 54
+  },
+  "root.mge.surface.proteins.MG_131_MONOMER": {
+    "molarity": 0,
+    "count": 2
+  },
+  "root.mge.surface.proteins.MG_133_MONOMER": {
+    "molarity": 0,
+    "count": 7
+  },
+  "root.mge.surface.proteins.MG_135_MONOMER": {
+    "molarity": 0,
+    "count": 10
+  },
+  "root.mge.surface.proteins.MG_144_MONOMER": {
+    "molarity": 0,
+    "count": 33
+  },
+  "root.mge.surface.proteins.MG_147_MONOMER": {
+    "molarity": 0,
+    "count": 10
+  },
+  "root.mge.surface.proteins.MG_148_MONOMER": {
+    "molarity": 0,
+    "count": 10
+  },
+  "root.mge.surface.proteins.MG_149_MONOMER": {
+    "molarity": 0,
+    "count": 13
+  },
+  "root.mge.surface.proteins.MG_185_MONOMER": {
+    "molarity": 0,
+    "count": 11
+  },
+  "root.mge.surface.proteins.MG_191_MONOMER": {
+    "molarity": 0,
+    "count": 17
+  },
+  "root.mge.surface.proteins.MG_192_MONOMER": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.surface.proteins.MG_210_MONOMER": {
+    "molarity": 0,
+    "count": 29
+  },
+  "root.mge.surface.proteins.MG_212_MONOMER": {
+    "molarity": 0,
+    "count": 52
+  },
+  "root.mge.surface.proteins.MG_241_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.surface.proteins.MG_242_MONOMER": {
+    "molarity": 0,
+    "count": 4
+  },
+  "root.mge.surface.proteins.MG_243_MONOMER": {
+    "molarity": 0,
+    "count": 28
+  },
+  "root.mge.surface.proteins.MG_247_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.surface.proteins.MG_255_MONOMER": {
+    "molarity": 0,
+    "count": 26
+  },
+  "root.mge.surface.proteins.MG_256_MONOMER": {
+    "molarity": 0,
+    "count": 19
+  },
+  "root.mge.surface.proteins.MG_260_MONOMER": {
+    "molarity": 0,
+    "count": 17
+  },
+  "root.mge.surface.proteins.MG_267_MONOMER": {
+    "molarity": 0,
+    "count": 92
+  },
+  "root.mge.surface.proteins.MG_279_MONOMER": {
+    "molarity": 0,
+    "count": 40
+  },
+  "root.mge.surface.proteins.MG_280_MONOMER": {
+    "molarity": 0,
+    "count": 40
+  },
+  "root.mge.surface.proteins.MG_294_MONOMER": {
+    "molarity": 0,
+    "count": 124
+  },
+  "root.mge.surface.proteins.MG_306_MONOMER": {
+    "molarity": 0,
+    "count": 14
+  },
+  "root.mge.surface.proteins.MG_307_MONOMER": {
+    "molarity": 0,
+    "count": 25
+  },
+  "root.mge.surface.proteins.MG_309_MONOMER": {
+    "molarity": 0,
+    "count": 17
+  },
+  "root.mge.surface.proteins.MG_313_MONOMER": {
+    "molarity": 0,
+    "count": 19
+  },
+  "root.mge.surface.proteins.MG_314_MONOMER": {
+    "molarity": 0,
+    "count": 23
+  },
+  "root.mge.surface.proteins.MG_318_MONOMER": {
+    "molarity": 0,
+    "count": 32
+  },
+  "root.mge.surface.proteins.MG_319_MONOMER": {
+    "molarity": 0,
+    "count": 45
+  },
+  "root.mge.surface.proteins.MG_320_MONOMER": {
+    "molarity": 0,
+    "count": 25
+  },
+  "root.mge.surface.proteins.MG_331_MONOMER": {
+    "molarity": 0,
+    "count": 48
+  },
+  "root.mge.surface.proteins.MG_338_MONOMER": {
+    "molarity": 0,
+    "count": 8
+  },
+  "root.mge.surface.proteins.MG_348_MONOMER": {
+    "molarity": 0,
+    "count": 37
+  },
+  "root.mge.surface.proteins.MG_354_MONOMER": {
+    "molarity": 0,
+    "count": 23
+  },
+  "root.mge.surface.proteins.MG_364_MONOMER": {
+    "molarity": 0,
+    "count": 19
+  },
+  "root.mge.surface.proteins.MG_395_MONOMER": {
+    "molarity": 0,
+    "count": 9
+  },
+  "root.mge.surface.proteins.MG_406_MONOMER": {
+    "molarity": 0,
+    "count": 18
+  },
+  "root.mge.surface.proteins.MG_432_MONOMER": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.surface.proteins.MG_439_MONOMER": {
+    "molarity": 0,
+    "count": 20
+  },
+  "root.mge.surface.proteins.MG_440_MONOMER": {
+    "molarity": 0,
+    "count": 7
+  },
+  "root.mge.surface.proteins.MG_441_MONOMER": {
+    "molarity": 0,
+    "count": 5
+  },
+  "root.mge.surface.proteins.MG_443_MONOMER": {
+    "molarity": 0,
+    "count": 19
+  },
+  "root.mge.surface.proteins.MG_447_MONOMER": {
+    "molarity": 0,
+    "count": 24
+  },
+  "root.mge.surface.proteins.MG_452_MONOMER": {
+    "molarity": 0,
+    "count": 83
+  },
+  "root.mge.surface.proteins.MG_456_MONOMER": {
+    "molarity": 0,
+    "count": 7
+  },
+  "root.mge.surface.proteins.MG_474_MONOMER": {
+    "molarity": 0,
+    "count": 13
+  },
+  "root.mge.surface.proteins.MG_478_MONOMER": {
+    "molarity": 0,
+    "count": 19
+  },
+  "root.mge.surface.proteins.MG_515_MONOMER": {
+    "molarity": 0,
+    "count": 318
+  },
+  "root.mge.surface.proteins.MG_521_MONOMER": {
+    "molarity": 0,
+    "count": 5
+  },
+  "root.mge.surface.proteins.MG_524_MONOMER": {
+    "molarity": 0,
+    "count": 42
+  },
+  "root.mge.surface.proteins.MG_014_015_DIMER": {
+    "molarity": 0,
+    "count": 18
+  },
+  "root.mge.surface.proteins.MG_033_TETRAMER": {
+    "molarity": 0,
+    "count": 14
+  },
+  "root.mge.surface.proteins.MG_040_119_120_121_PENTAMER": {
+    "molarity": 0,
+    "count": 28
+  },
+  "root.mge.surface.proteins.MG_041_062_429_PENTAMER": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.surface.proteins.MG_041_069_429_PENTAMER": {
+    "molarity": 0,
+    "count": 16
+  },
+  "root.mge.surface.proteins.MG_042_043_044_045_PENTAMER": {
+    "molarity": 0,
+    "count": 13
+  },
+  "root.mge.surface.proteins.MG_055_170_277_464_476_20MER": {
+    "molarity": 0,
+    "count": 12
+  },
+  "root.mge.surface.proteins.MG_064_065_TETRAMER": {
+    "molarity": 0,
+    "count": 29
+  },
+  "root.mge.surface.proteins.MG_077_078_079_080_321_PENTAMER": {
+    "molarity": 0,
+    "count": 19
+  },
+  "root.mge.surface.proteins.MG_109_DIMER": {
+    "molarity": 0,
+    "count": 30
+  },
+  "root.mge.surface.proteins.MG_114_DIMER": {
+    "molarity": 0,
+    "count": 24
+  },
+  "root.mge.surface.proteins.MG_123_DIMER": {
+    "molarity": 0,
+    "count": 18
+  },
+  "root.mge.surface.proteins.MG_179_180_181_TETRAMER": {
+    "molarity": 0,
+    "count": 16
+  },
+  "root.mge.surface.proteins.MG_186_187_188_189_PENTAMER": {
+    "molarity": 0,
+    "count": 28
+  },
+  "root.mge.surface.proteins.MG_225_DIMER": {
+    "molarity": 0,
+    "count": 13
+  },
+  "root.mge.surface.proteins.MG_226_DIMER": {
+    "molarity": 0,
+    "count": 16
+  },
+  "root.mge.surface.proteins.MG_289_290_291_PENTAMER": {
+    "molarity": 0,
+    "count": 23
+  },
+  "root.mge.surface.proteins.MG_302_303_304_TETRAMER": {
+    "molarity": 0,
+    "count": 12
+  },
+  "root.mge.surface.proteins.MG_316_DIMER": {
+    "molarity": 0,
+    "count": 35
+  },
+  "root.mge.surface.proteins.MG_322_323_TETRAMER": {
+    "molarity": 0,
+    "count": 13
+  },
+  "root.mge.surface.proteins.MG_390_DIMER": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.surface.proteins.MG_398_399_400_401_402_403_404_405_22MER": {
+    "molarity": 0,
+    "count": 11
+  },
+  "root.mge.surface.proteins.MG_410_411_412_PENTAMER": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.surface.proteins.MG_437_DIMER": {
+    "molarity": 0,
+    "count": 25
+  },
+  "root.mge.surface.proteins.MG_457_HEXAMER": {
+    "molarity": 0,
+    "count": 77
+  },
+  "root.mge.surface.proteins.MG_467_468_526_TETRAMER": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.surface.proteins.MG_014_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.surface.proteins.MG_015_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.surface.proteins.MG_033_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.surface.proteins.MG_040_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.surface.proteins.MG_045_MONOMER": {
+    "molarity": 0,
+    "count": 6
+  },
+  "root.mge.surface.proteins.MG_098_MONOMER": {
+    "molarity": 0,
+    "count": 11
+  },
+  "root.mge.surface.proteins.MG_109_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.surface.proteins.MG_123_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.surface.proteins.MG_225_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.surface.proteins.MG_321_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.surface.proteins.MG_390_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.surface.proteins.MG_437_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.surface.proteins.MG_468_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.surface.proteins.MG_043_MONOMER": {
+    "molarity": 0,
+    "count": 26
+  },
+  "root.mge.surface.proteins.MG_044_MONOMER": {
+    "molarity": 0,
+    "count": 20
+  },
+  "root.mge.surface.proteins.MG_055_MONOMER": {
+    "molarity": 0,
+    "count": 242
+  },
+  "root.mge.surface.proteins.MG_062_MONOMER": {
+    "molarity": 0,
+    "count": 34
+  },
+  "root.mge.surface.proteins.MG_064_MONOMER": {
+    "molarity": 0,
+    "count": 23
+  },
+  "root.mge.surface.proteins.MG_069_MONOMER": {
+    "molarity": 0,
+    "count": 30
+  },
+  "root.mge.surface.proteins.MG_077_MONOMER": {
+    "molarity": 0,
+    "count": 13
+  },
+  "root.mge.surface.proteins.MG_078_MONOMER": {
+    "molarity": 0,
+    "count": 10
+  },
+  "root.mge.surface.proteins.MG_114_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.surface.proteins.MG_120_MONOMER": {
+    "molarity": 0,
+    "count": 183
+  },
+  "root.mge.surface.proteins.MG_121_MONOMER": {
+    "molarity": 0,
+    "count": 194
+  },
+  "root.mge.surface.proteins.MG_170_MONOMER": {
+    "molarity": 0,
+    "count": 10
+  },
+  "root.mge.surface.proteins.MG_181_MONOMER": {
+    "molarity": 0,
+    "count": 32
+  },
+  "root.mge.surface.proteins.MG_188_MONOMER": {
+    "molarity": 0,
+    "count": 6
+  },
+  "root.mge.surface.proteins.MG_189_MONOMER": {
+    "molarity": 0,
+    "count": 7
+  },
+  "root.mge.surface.proteins.MG_226_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.surface.proteins.MG_277_MONOMER": {
+    "molarity": 0,
+    "count": 32
+  },
+  "root.mge.surface.proteins.MG_291_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.surface.proteins.MG_302_MONOMER": {
+    "molarity": 0,
+    "count": 3
+  },
+  "root.mge.surface.proteins.MG_316_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.surface.proteins.MG_322_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.surface.proteins.MG_403_MONOMER": {
+    "molarity": 0,
+    "count": 125
+  },
+  "root.mge.surface.proteins.MG_404_MONOMER": {
+    "molarity": 0,
+    "count": 35
+  },
+  "root.mge.surface.proteins.MG_405_MONOMER": {
+    "molarity": 0,
+    "count": 152
+  },
+  "root.mge.surface.proteins.MG_411_MONOMER": {
+    "molarity": 0,
+    "count": 26
+  },
+  "root.mge.surface.proteins.MG_457_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.surface.proteins.MG_464_MONOMER": {
+    "molarity": 0,
+    "count": 9
+  },
+  "root.mge.surface.proteins.MG_476_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_275_TETRAMER": {
+    "molarity": 0,
+    "count": 284
+  },
+  "root.mge.interior.proteins.MG_001_MONOMER": {
+    "molarity": 0,
+    "count": 64
+  },
+  "root.mge.interior.proteins.MG_002_MONOMER": {
+    "molarity": 0,
+    "count": 68
+  },
+  "root.mge.interior.proteins.MG_003_MONOMER": {
+    "molarity": 0,
+    "count": 17
+  },
+  "root.mge.interior.proteins.MG_004_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_005_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_006_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_007_MONOMER": {
+    "molarity": 0,
+    "count": 320
+  },
+  "root.mge.interior.proteins.MG_008_MONOMER": {
+    "molarity": 0,
+    "count": 297
+  },
+  "root.mge.interior.proteins.MG_009_MONOMER": {
+    "molarity": 0,
+    "count": 324
+  },
+  "root.mge.interior.proteins.MG_010_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_011_MONOMER": {
+    "molarity": 0,
+    "count": 29
+  },
+  "root.mge.interior.proteins.MG_012_MONOMER": {
+    "molarity": 0,
+    "count": 29
+  },
+  "root.mge.interior.proteins.MG_013_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_018_MONOMER": {
+    "molarity": 0,
+    "count": 7
+  },
+  "root.mge.interior.proteins.MG_019_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_020_MONOMER": {
+    "molarity": 0,
+    "count": 31
+  },
+  "root.mge.interior.proteins.MG_021_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_022_MONOMER": {
+    "molarity": 0,
+    "count": 197
+  },
+  "root.mge.interior.proteins.MG_023_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_024_MONOMER": {
+    "molarity": 0,
+    "count": 256
+  },
+  "root.mge.interior.proteins.MG_025_MONOMER": {
+    "molarity": 0,
+    "count": 6
+  },
+  "root.mge.interior.proteins.MG_026_MONOMER": {
+    "molarity": 0,
+    "count": 106
+  },
+  "root.mge.interior.proteins.MG_027_MONOMER": {
+    "molarity": 0,
+    "count": 102
+  },
+  "root.mge.interior.proteins.MG_029_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_030_MONOMER": {
+    "molarity": 0,
+    "count": 2
+  },
+  "root.mge.interior.proteins.MG_031_MONOMER": {
+    "molarity": 0,
+    "count": 37
+  },
+  "root.mge.interior.proteins.MG_034_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_035_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_036_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_037_MONOMER": {
+    "molarity": 0,
+    "count": 23
+  },
+  "root.mge.interior.proteins.MG_038_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_039_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_041_MONOMER": {
+    "molarity": 0,
+    "count": 69
+  },
+  "root.mge.interior.proteins.MG_042_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_046_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_047_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_048_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_049_MONOMER": {
+    "molarity": 0,
+    "count": 5
+  },
+  "root.mge.interior.proteins.MG_050_MONOMER": {
+    "molarity": 0,
+    "count": 114
+  },
+  "root.mge.interior.proteins.MG_051_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_052_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_053_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_054_MONOMER": {
+    "molarity": 0,
+    "count": 205
+  },
+  "root.mge.interior.proteins.MG_056_MONOMER": {
+    "molarity": 0,
+    "count": 10
+  },
+  "root.mge.interior.proteins.MG_057_MONOMER": {
+    "molarity": 0,
+    "count": 11
+  },
+  "root.mge.interior.proteins.MG_058_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_059_MONOMER": {
+    "molarity": 0,
+    "count": 26
+  },
+  "root.mge.interior.proteins.MG_060_MONOMER": {
+    "molarity": 0,
+    "count": 11
+  },
+  "root.mge.interior.proteins.MG_063_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_065_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_066_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_070_MONOMER": {
+    "molarity": 0,
+    "count": 132
+  },
+  "root.mge.interior.proteins.MG_072_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_073_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_079_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_080_MONOMER": {
+    "molarity": 0,
+    "count": 4
+  },
+  "root.mge.interior.proteins.MG_081_MONOMER": {
+    "molarity": 0,
+    "count": 156
+  },
+  "root.mge.interior.proteins.MG_082_MONOMER": {
+    "molarity": 0,
+    "count": 128
+  },
+  "root.mge.interior.proteins.MG_083_MONOMER": {
+    "molarity": 0,
+    "count": 26
+  },
+  "root.mge.interior.proteins.MG_084_MONOMER": {
+    "molarity": 0,
+    "count": 2
+  },
+  "root.mge.interior.proteins.MG_085_MONOMER": {
+    "molarity": 0,
+    "count": 5
+  },
+  "root.mge.interior.proteins.MG_087_MONOMER": {
+    "molarity": 0,
+    "count": 170
+  },
+  "root.mge.interior.proteins.MG_088_MONOMER": {
+    "molarity": 0,
+    "count": 190
+  },
+  "root.mge.interior.proteins.MG_089_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_090_MONOMER": {
+    "molarity": 0,
+    "count": 169
+  },
+  "root.mge.interior.proteins.MG_091_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_092_MONOMER": {
+    "molarity": 0,
+    "count": 131
+  },
+  "root.mge.interior.proteins.MG_093_MONOMER": {
+    "molarity": 0,
+    "count": 167
+  },
+  "root.mge.interior.proteins.MG_094_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_097_MONOMER": {
+    "molarity": 0,
+    "count": 31
+  },
+  "root.mge.interior.proteins.MG_099_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_100_MONOMER": {
+    "molarity": 0,
+    "count": 12
+  },
+  "root.mge.interior.proteins.MG_101_MONOMER": {
+    "molarity": 10,
+    "count": 40
+  },
+  "root.mge.interior.proteins.MG_102_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_103_MONOMER": {
+    "molarity": 0,
+    "count": 33
+  },
+  "root.mge.interior.proteins.MG_104_MONOMER": {
+    "molarity": 0,
+    "count": 34
+  },
+  "root.mge.interior.proteins.MG_105_MONOMER": {
+    "molarity": 0,
+    "count": 4
+  },
+  "root.mge.interior.proteins.MG_106_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_107_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_108_MONOMER": {
+    "molarity": 0,
+    "count": 40
+  },
+  "root.mge.interior.proteins.MG_110_MONOMER": {
+    "molarity": 0,
+    "count": 40
+  },
+  "root.mge.interior.proteins.MG_111_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_112_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_113_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_115_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_116_MONOMER": {
+    "molarity": 0,
+    "count": 27
+  },
+  "root.mge.interior.proteins.MG_117_MONOMER": {
+    "molarity": 0,
+    "count": 35
+  },
+  "root.mge.interior.proteins.MG_118_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_119_MONOMER": {
+    "molarity": 0,
+    "count": 87
+  },
+  "root.mge.interior.proteins.MG_122_MONOMER": {
+    "molarity": 0,
+    "count": 138
+  },
+  "root.mge.interior.proteins.MG_124_MONOMER": {
+    "molarity": 0,
+    "count": 26
+  },
+  "root.mge.interior.proteins.MG_125_MONOMER": {
+    "molarity": 0,
+    "count": 22
+  },
+  "root.mge.interior.proteins.MG_126_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_127_MONOMER": {
+    "molarity": 0,
+    "count": 62
+  },
+  "root.mge.interior.proteins.MG_128_MONOMER": {
+    "molarity": 0,
+    "count": 3
+  },
+  "root.mge.interior.proteins.MG_132_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_134_MONOMER": {
+    "molarity": 0,
+    "count": 12
+  },
+  "root.mge.interior.proteins.MG_136_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_137_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_138_MONOMER": {
+    "molarity": 0,
+    "count": 72
+  },
+  "root.mge.interior.proteins.MG_139_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_140_MONOMER": {
+    "molarity": 0,
+    "count": 12
+  },
+  "root.mge.interior.proteins.MG_141_MONOMER": {
+    "molarity": 0,
+    "count": 12
+  },
+  "root.mge.interior.proteins.MG_142_MONOMER": {
+    "molarity": 0,
+    "count": 14
+  },
+  "root.mge.interior.proteins.MG_143_MONOMER": {
+    "molarity": 0,
+    "count": 14
+  },
+  "root.mge.interior.proteins.MG_145_MONOMER": {
+    "molarity": 0,
+    "count": 21
+  },
+  "root.mge.interior.proteins.MG_150_MONOMER": {
+    "molarity": 0,
+    "count": 160
+  },
+  "root.mge.interior.proteins.MG_151_MONOMER": {
+    "molarity": 0,
+    "count": 182
+  },
+  "root.mge.interior.proteins.MG_152_MONOMER": {
+    "molarity": 0,
+    "count": 124
+  },
+  "root.mge.interior.proteins.MG_153_MONOMER": {
+    "molarity": 0,
+    "count": 126
+  },
+  "root.mge.interior.proteins.MG_154_MONOMER": {
+    "molarity": 0,
+    "count": 90
+  },
+  "root.mge.interior.proteins.MG_155_MONOMER": {
+    "molarity": 0,
+    "count": 144
+  },
+  "root.mge.interior.proteins.MG_156_MONOMER": {
+    "molarity": 0,
+    "count": 121
+  },
+  "root.mge.interior.proteins.MG_157_MONOMER": {
+    "molarity": 0,
+    "count": 120
+  },
+  "root.mge.interior.proteins.MG_158_MONOMER": {
+    "molarity": 0,
+    "count": 99
+  },
+  "root.mge.interior.proteins.MG_159_MONOMER": {
+    "molarity": 0,
+    "count": 104
+  },
+  "root.mge.interior.proteins.MG_160_MONOMER": {
+    "molarity": 0,
+    "count": 111
+  },
+  "root.mge.interior.proteins.MG_161_MONOMER": {
+    "molarity": 0,
+    "count": 99
+  },
+  "root.mge.interior.proteins.MG_162_MONOMER": {
+    "molarity": 0,
+    "count": 107
+  },
+  "root.mge.interior.proteins.MG_163_MONOMER": {
+    "molarity": 0,
+    "count": 122
+  },
+  "root.mge.interior.proteins.MG_164_MONOMER": {
+    "molarity": 0,
+    "count": 109
+  },
+  "root.mge.interior.proteins.MG_165_MONOMER": {
+    "molarity": 0,
+    "count": 108
+  },
+  "root.mge.interior.proteins.MG_166_MONOMER": {
+    "molarity": 0,
+    "count": 105
+  },
+  "root.mge.interior.proteins.MG_167_MONOMER": {
+    "molarity": 0,
+    "count": 140
+  },
+  "root.mge.interior.proteins.MG_168_MONOMER": {
+    "molarity": 0,
+    "count": 126
+  },
+  "root.mge.interior.proteins.MG_169_MONOMER": {
+    "molarity": 0,
+    "count": 117
+  },
+  "root.mge.interior.proteins.MG_171_MONOMER": {
+    "molarity": 0,
+    "count": 50
+  },
+  "root.mge.interior.proteins.MG_172_MONOMER": {
+    "molarity": 0,
+    "count": 50
+  },
+  "root.mge.interior.proteins.MG_173_MONOMER": {
+    "molarity": 0,
+    "count": 44
+  },
+  "root.mge.interior.proteins.MG_174_MONOMER": {
+    "molarity": 0,
+    "count": 97
+  },
+  "root.mge.interior.proteins.MG_175_MONOMER": {
+    "molarity": 0,
+    "count": 135
+  },
+  "root.mge.interior.proteins.MG_176_MONOMER": {
+    "molarity": 0,
+    "count": 118
+  },
+  "root.mge.interior.proteins.MG_177_MONOMER": {
+    "molarity": 0,
+    "count": 29
+  },
+  "root.mge.interior.proteins.MG_178_MONOMER": {
+    "molarity": 0,
+    "count": 124
+  },
+  "root.mge.interior.proteins.MG_179_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_180_MONOMER": {
+    "molarity": 0,
+    "count": 6
+  },
+  "root.mge.interior.proteins.MG_182_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_183_MONOMER": {
+    "molarity": 0,
+    "count": 76
+  },
+  "root.mge.interior.proteins.MG_184_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_186_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_187_MONOMER": {
+    "molarity": 0,
+    "count": 2
+  },
+  "root.mge.interior.proteins.MG_190_MONOMER": {
+    "molarity": 0,
+    "count": 20
+  },
+  "root.mge.interior.proteins.MG_194_MONOMER": {
+    "molarity": 0,
+    "count": 5
+  },
+  "root.mge.interior.proteins.MG_195_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_196_MONOMER": {
+    "molarity": 0,
+    "count": 188
+  },
+  "root.mge.interior.proteins.MG_197_MONOMER": {
+    "molarity": 0,
+    "count": 99
+  },
+  "root.mge.interior.proteins.MG_198_MONOMER": {
+    "molarity": 0,
+    "count": 105
+  },
+  "root.mge.interior.proteins.MG_199_MONOMER": {
+    "molarity": 0,
+    "count": 14
+  },
+  "root.mge.interior.proteins.MG_200_MONOMER": {
+    "molarity": 0,
+    "count": 47
+  },
+  "root.mge.interior.proteins.MG_201_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_202_MONOMER": {
+    "molarity": 0,
+    "count": 42
+  },
+  "root.mge.interior.proteins.MG_203_MONOMER": {
+    "molarity": 0,
+    "count": 17
+  },
+  "root.mge.interior.proteins.MG_204_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_205_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_206_MONOMER": {
+    "molarity": 0,
+    "count": 7
+  },
+  "root.mge.interior.proteins.MG_207_MONOMER": {
+    "molarity": 0,
+    "count": 28
+  },
+  "root.mge.interior.proteins.MG_208_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_209_MONOMER": {
+    "molarity": 0,
+    "count": 19
+  },
+  "root.mge.interior.proteins.MG_211_MONOMER": {
+    "molarity": 0,
+    "count": 30
+  },
+  "root.mge.interior.proteins.MG_213_MONOMER": {
+    "molarity": 0,
+    "count": 31
+  },
+  "root.mge.interior.proteins.MG_214_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_215_MONOMER": {
+    "molarity": 0,
+    "count": 3
+  },
+  "root.mge.interior.proteins.MG_216_MONOMER": {
+    "molarity": 0,
+    "count": 3
+  },
+  "root.mge.interior.proteins.MG_217_MONOMER": {
+    "molarity": 0,
+    "count": 16
+  },
+  "root.mge.surface.proteins.MG_218_MONOMER": {
+    "molarity": 0,
+    "count": 40
+  },
+  "root.mge.interior.proteins.MG_219_MONOMER": {
+    "molarity": 0,
+    "count": 31
+  },
+  "root.mge.interior.proteins.MG_221_MONOMER": {
+    "molarity": 0,
+    "count": 4
+  },
+  "root.mge.interior.proteins.MG_222_MONOMER": {
+    "molarity": 0,
+    "count": 147
+  },
+  "root.mge.interior.proteins.MG_223_MONOMER": {
+    "molarity": 0,
+    "count": 131
+  },
+  "root.mge.interior.proteins.MG_224_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_227_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_228_MONOMER": {
+    "molarity": 0,
+    "count": 2
+  },
+  "root.mge.interior.proteins.MG_229_MONOMER": {
+    "molarity": 0,
+    "count": 14
+  },
+  "root.mge.interior.proteins.MG_230_MONOMER": {
+    "molarity": 0,
+    "count": 68
+  },
+  "root.mge.interior.proteins.MG_231_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_232_MONOMER": {
+    "molarity": 0,
+    "count": 110
+  },
+  "root.mge.interior.proteins.MG_233_MONOMER": {
+    "molarity": 0,
+    "count": 222
+  },
+  "root.mge.interior.proteins.MG_234_MONOMER": {
+    "molarity": 0,
+    "count": 142
+  },
+  "root.mge.interior.proteins.MG_235_MONOMER": {
+    "molarity": 0,
+    "count": 211
+  },
+  "root.mge.interior.proteins.MG_236_MONOMER": {
+    "molarity": 0,
+    "count": 204
+  },
+  "root.mge.interior.proteins.MG_237_MONOMER": {
+    "molarity": 0,
+    "count": 4
+  },
+  "root.mge.interior.proteins.MG_238_MONOMER": {
+    "molarity": 0,
+    "count": 48
+  },
+  "root.mge.interior.proteins.MG_239_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_240_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_244_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_245_MONOMER": {
+    "molarity": 0,
+    "count": 26
+  },
+  "root.mge.interior.proteins.MG_246_MONOMER": {
+    "molarity": 0,
+    "count": 3
+  },
+  "root.mge.interior.proteins.MG_248_MONOMER": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.interior.proteins.MG_249_MONOMER": {
+    "molarity": 0,
+    "count": 12
+  },
+  "root.mge.interior.proteins.MG_250_MONOMER": {
+    "molarity": 0,
+    "count": 45
+  },
+  "root.mge.interior.proteins.MG_251_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_252_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_253_MONOMER": {
+    "molarity": 0,
+    "count": 33
+  },
+  "root.mge.interior.proteins.MG_254_MONOMER": {
+    "molarity": 0,
+    "count": 40
+  },
+  "root.mge.interior.proteins.MG_257_MONOMER": {
+    "molarity": 0,
+    "count": 135
+  },
+  "root.mge.interior.proteins.MG_258_MONOMER": {
+    "molarity": 0,
+    "count": 232
+  },
+  "root.mge.interior.proteins.MG_259_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_261_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_262_MONOMER": {
+    "molarity": 0,
+    "count": 24
+  },
+  "root.mge.interior.proteins.MG_263_MONOMER": {
+    "molarity": 0,
+    "count": 8
+  },
+  "root.mge.interior.proteins.MG_264_MONOMER": {
+    "molarity": 0,
+    "count": 20
+  },
+  "root.mge.interior.proteins.MG_265_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_266_MONOMER": {
+    "molarity": 0,
+    "count": 58
+  },
+  "root.mge.interior.proteins.MG_268_MONOMER": {
+    "molarity": 0,
+    "count": 42
+  },
+  "root.mge.interior.proteins.MG_269_MONOMER": {
+    "molarity": 0,
+    "count": 16
+  },
+  "root.mge.interior.proteins.MG_270_MONOMER": {
+    "molarity": 0,
+    "count": 751
+  },
+  "root.mge.interior.proteins.MG_271_MONOMER": {
+    "molarity": 0,
+    "count": 631
+  },
+  "root.mge.interior.proteins.MG_272_MONOMER": {
+    "molarity": 0,
+    "count": 34
+  },
+  "root.mge.interior.proteins.MG_273_MONOMER": {
+    "molarity": 0,
+    "count": 101
+  },
+  "root.mge.interior.proteins.MG_274_MONOMER": {
+    "molarity": 0,
+    "count": 100
+  },
+  "root.mge.interior.proteins.MG_275_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_276_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_278_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_282_MONOMER": {
+    "molarity": 0,
+    "count": 53
+  },
+  "root.mge.interior.proteins.MG_283_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_284_MONOMER": {
+    "molarity": 0,
+    "count": 10
+  },
+  "root.mge.interior.proteins.MG_285_MONOMER": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.interior.proteins.MG_287_MONOMER": {
+    "molarity": 0,
+    "count": 23
+  },
+  "root.mge.interior.proteins.MG_288_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_289_MONOMER": {
+    "molarity": 0,
+    "count": 32
+  },
+  "root.mge.interior.proteins.MG_290_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_292_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_293_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_295_MONOMER": {
+    "molarity": 0,
+    "count": 35
+  },
+  "root.mge.interior.proteins.MG_296_MONOMER": {
+    "molarity": 0,
+    "count": 7
+  },
+  "root.mge.interior.proteins.MG_297_MONOMER": {
+    "molarity": 0,
+    "count": 10
+  },
+  "root.mge.interior.proteins.MG_298_MONOMER": {
+    "molarity": 0,
+    "count": 13
+  },
+  "root.mge.interior.proteins.MG_299_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_300_MONOMER": {
+    "molarity": 0,
+    "count": 92
+  },
+  "root.mge.interior.proteins.MG_301_MONOMER": {
+    "molarity": 0,
+    "count": 3
+  },
+  "root.mge.interior.proteins.MG_303_MONOMER": {
+    "molarity": 0,
+    "count": 27
+  },
+  "root.mge.interior.proteins.MG_304_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_305_MONOMER": {
+    "molarity": 0,
+    "count": 29
+  },
+  "root.mge.interior.proteins.MG_308_MONOMER": {
+    "molarity": 0,
+    "count": 13
+  },
+  "root.mge.interior.proteins.MG_311_MONOMER": {
+    "molarity": 0,
+    "count": 111
+  },
+  "root.mge.interior.proteins.MG_312_MONOMER": {
+    "molarity": 0,
+    "count": 43
+  },
+  "root.mge.interior.proteins.MG_315_MONOMER": {
+    "molarity": 0,
+    "count": 7
+  },
+  "root.mge.interior.proteins.MG_317_MONOMER": {
+    "molarity": 0,
+    "count": 29
+  },
+  "root.mge.interior.proteins.MG_323_MONOMER": {
+    "molarity": 0,
+    "count": 8
+  },
+  "root.mge.interior.proteins.MG_324_MONOMER": {
+    "molarity": 0,
+    "count": 218
+  },
+  "root.mge.interior.proteins.MG_325_MONOMER": {
+    "molarity": 0,
+    "count": 142
+  },
+  "root.mge.interior.proteins.MG_326_MONOMER": {
+    "molarity": 0,
+    "count": 8
+  },
+  "root.mge.interior.proteins.MG_328_MONOMER": {
+    "molarity": 0,
+    "count": 21
+  },
+  "root.mge.interior.proteins.MG_329_MONOMER": {
+    "molarity": 0,
+    "count": 11
+  },
+  "root.mge.interior.proteins.MG_330_MONOMER": {
+    "molarity": 0,
+    "count": 29
+  },
+  "root.mge.interior.proteins.MG_332_MONOMER": {
+    "molarity": 0,
+    "count": 28
+  },
+  "root.mge.interior.proteins.MG_333_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_334_MONOMER": {
+    "molarity": 0,
+    "count": 34
+  },
+  "root.mge.interior.proteins.MG_335_MONOMER": {
+    "molarity": 0,
+    "count": 21
+  },
+  "root.mge.interior.proteins.MG_336_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_337_MONOMER": {
+    "molarity": 0,
+    "count": 11
+  },
+  "root.mge.interior.proteins.MG_339_MONOMER": {
+    "molarity": 0,
+    "count": 11
+  },
+  "root.mge.interior.proteins.MG_340_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_341_MONOMER": {
+    "molarity": 0,
+    "count": 3
+  },
+  "root.mge.interior.proteins.MG_342_MONOMER": {
+    "molarity": 0,
+    "count": 34
+  },
+  "root.mge.interior.proteins.MG_343_MONOMER": {
+    "molarity": 0,
+    "count": 34
+  },
+  "root.mge.interior.proteins.MG_345_MONOMER": {
+    "molarity": 0,
+    "count": 53
+  },
+  "root.mge.interior.proteins.MG_346_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_347_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_349_MONOMER": {
+    "molarity": 0,
+    "count": 3
+  },
+  "root.mge.interior.proteins.MG_350_MONOMER": {
+    "molarity": 0,
+    "count": 84
+  },
+  "root.mge.interior.proteins.MG_351_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_352_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_353_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_355_MONOMER": {
+    "molarity": 0,
+    "count": 5
+  },
+  "root.mge.interior.proteins.MG_356_MONOMER": {
+    "molarity": 0,
+    "count": 57
+  },
+  "root.mge.interior.proteins.MG_357_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_358_MONOMER": {
+    "molarity": 0,
+    "count": 26
+  },
+  "root.mge.interior.proteins.MG_359_MONOMER": {
+    "molarity": 0,
+    "count": 4
+  },
+  "root.mge.interior.proteins.MG_360_MONOMER": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.interior.proteins.MG_361_MONOMER": {
+    "molarity": 0,
+    "count": 134
+  },
+  "root.mge.interior.proteins.MG_362_MONOMER": {
+    "molarity": 0,
+    "count": 134
+  },
+  "root.mge.interior.proteins.MG_363_MONOMER": {
+    "molarity": 0,
+    "count": 125
+  },
+  "root.mge.interior.proteins.MG_365_MONOMER": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.interior.proteins.MG_366_MONOMER": {
+    "molarity": 0,
+    "count": 6
+  },
+  "root.mge.interior.proteins.MG_367_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_368_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_369_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_370_MONOMER": {
+    "molarity": 0,
+    "count": 9
+  },
+  "root.mge.interior.proteins.MG_371_MONOMER": {
+    "molarity": 0,
+    "count": 12
+  },
+  "root.mge.interior.proteins.MG_372_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_373_MONOMER": {
+    "molarity": 0,
+    "count": 221
+  },
+  "root.mge.interior.proteins.MG_374_MONOMER": {
+    "molarity": 0,
+    "count": 205
+  },
+  "root.mge.interior.proteins.MG_375_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_376_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_377_MONOMER": {
+    "molarity": 0,
+    "count": 32
+  },
+  "root.mge.interior.proteins.MG_378_MONOMER": {
+    "molarity": 0,
+    "count": 34
+  },
+  "root.mge.interior.proteins.MG_379_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_380_MONOMER": {
+    "molarity": 0,
+    "count": 30
+  },
+  "root.mge.interior.proteins.MG_381_MONOMER": {
+    "molarity": 0,
+    "count": 34
+  },
+  "root.mge.interior.proteins.MG_382_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_383_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_384_MONOMER": {
+    "molarity": 0,
+    "count": 14
+  },
+  "root.mge.interior.proteins.MG_385_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_386_MONOMER": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.interior.proteins.MG_387_MONOMER": {
+    "molarity": 0,
+    "count": 23
+  },
+  "root.mge.interior.proteins.MG_388_MONOMER": {
+    "molarity": 0,
+    "count": 16
+  },
+  "root.mge.interior.proteins.MG_391_MONOMER": {
+    "molarity": 0,
+    "count": 3
+  },
+  "root.mge.interior.proteins.MG_392_MONOMER": {
+    "molarity": 0,
+    "count": 3
+  },
+  "root.mge.interior.proteins.MG_393_MONOMER": {
+    "molarity": 0,
+    "count": 87
+  },
+  "root.mge.interior.proteins.MG_394_MONOMER": {
+    "molarity": 0,
+    "count": 3
+  },
+  "root.mge.interior.proteins.MG_396_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_398_MONOMER": {
+    "molarity": 0,
+    "count": 2
+  },
+  "root.mge.interior.proteins.MG_399_MONOMER": {
+    "molarity": 0,
+    "count": 2
+  },
+  "root.mge.interior.proteins.MG_400_MONOMER": {
+    "molarity": 0,
+    "count": 23
+  },
+  "root.mge.interior.proteins.MG_401_MONOMER": {
+    "molarity": 0,
+    "count": 6
+  },
+  "root.mge.interior.proteins.MG_402_MONOMER": {
+    "molarity": 0,
+    "count": 89
+  },
+  "root.mge.interior.proteins.MG_407_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_408_MONOMER": {
+    "molarity": 0,
+    "count": 39
+  },
+  "root.mge.interior.proteins.MG_409_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_410_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_412_MONOMER": {
+    "molarity": 0,
+    "count": 33
+  },
+  "root.mge.interior.proteins.MG_417_MONOMER": {
+    "molarity": 0,
+    "count": 157
+  },
+  "root.mge.interior.proteins.MG_418_MONOMER": {
+    "molarity": 0,
+    "count": 113
+  },
+  "root.mge.interior.proteins.MG_419_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_421_MONOMER": {
+    "molarity": 0,
+    "count": 25
+  },
+  "root.mge.interior.proteins.MG_422_MONOMER": {
+    "molarity": 0,
+    "count": 46
+  },
+  "root.mge.interior.proteins.MG_423_MONOMER": {
+    "molarity": 0,
+    "count": 42
+  },
+  "root.mge.interior.proteins.MG_424_MONOMER": {
+    "molarity": 0,
+    "count": 187
+  },
+  "root.mge.interior.proteins.MG_425_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_426_MONOMER": {
+    "molarity": 0,
+    "count": 135
+  },
+  "root.mge.interior.proteins.MG_427_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_428_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_429_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_430_MONOMER": {
+    "molarity": 0,
+    "count": 62
+  },
+  "root.mge.interior.proteins.MG_431_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_433_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_434_MONOMER": {
+    "molarity": 0,
+    "count": 3
+  },
+  "root.mge.interior.proteins.MG_435_MONOMER": {
+    "molarity": 0,
+    "count": 31
+  },
+  "root.mge.interior.proteins.MG_438_MONOMER": {
+    "molarity": 0,
+    "count": 18
+  },
+  "root.mge.interior.proteins.MG_442_MONOMER": {
+    "molarity": 0,
+    "count": 16
+  },
+  "root.mge.interior.proteins.MG_444_MONOMER": {
+    "molarity": 0,
+    "count": 108
+  },
+  "root.mge.interior.proteins.MG_445_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_446_MONOMER": {
+    "molarity": 0,
+    "count": 127
+  },
+  "root.mge.interior.proteins.MG_448_MONOMER": {
+    "molarity": 0,
+    "count": 19
+  },
+  "root.mge.interior.proteins.MG_449_MONOMER": {
+    "molarity": 0,
+    "count": 2
+  },
+  "root.mge.interior.proteins.MG_450_MONOMER": {
+    "molarity": 0,
+    "count": 237
+  },
+  "root.mge.interior.proteins.MG_451_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_453_MONOMER": {
+    "molarity": 0,
+    "count": 3
+  },
+  "root.mge.interior.proteins.MG_454_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_455_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_458_MONOMER": {
+    "molarity": 0,
+    "count": 2
+  },
+  "root.mge.interior.proteins.MG_459_MONOMER": {
+    "molarity": 0,
+    "count": 14
+  },
+  "root.mge.interior.proteins.MG_460_MONOMER": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_461_MONOMER": {
+    "molarity": 0,
+    "count": 57
+  },
+  "root.mge.interior.proteins.MG_462_MONOMER": {
+    "molarity": 0,
+    "count": 56
+  },
+  "root.mge.interior.proteins.MG_463_MONOMER": {
+    "molarity": 0,
+    "count": 46
+  },
+  "root.mge.interior.proteins.MG_465_MONOMER": {
+    "molarity": 0,
+    "count": 14
+  },
+  "root.mge.interior.proteins.MG_466_MONOMER": {
+    "molarity": 0,
+    "count": 116
+  },
+  "root.mge.interior.proteins.MG_467_MONOMER": {
+    "molarity": 0,
+    "count": 10
+  },
+  "root.mge.interior.proteins.MG_469_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_470_MONOMER": {
+    "molarity": 0,
+    "count": 61
+  },
+  "root.mge.interior.proteins.MG_473_MONOMER": {
+    "molarity": 0,
+    "count": 127
+  },
+  "root.mge.interior.proteins.MG_477_MONOMER": {
+    "molarity": 0,
+    "count": 7
+  },
+  "root.mge.interior.proteins.MG_480_MONOMER": {
+    "molarity": 0,
+    "count": 37
+  },
+  "root.mge.interior.proteins.MG_481_MONOMER": {
+    "molarity": 0,
+    "count": 167
+  },
+  "root.mge.interior.proteins.MG_482_MONOMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_491_MONOMER": {
+    "molarity": 0,
+    "count": 35
+  },
+  "root.mge.interior.proteins.MG_494_MONOMER": {
+    "molarity": 0,
+    "count": 12
+  },
+  "root.mge.interior.proteins.MG_498_MONOMER": {
+    "molarity": 0,
+    "count": 20
+  },
+  "root.mge.interior.proteins.MG_505_MONOMER": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.interior.proteins.MG_516_MONOMER": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.interior.proteins.MG_517_MONOMER": {
+    "molarity": 0,
+    "count": 23
+  },
+  "root.mge.interior.proteins.MG_522_MONOMER": {
+    "molarity": 0,
+    "count": 148
+  },
+  "root.mge.interior.proteins.MG_526_MONOMER": {
+    "molarity": 0,
+    "count": 25
+  },
+  "root.mge.interior.proteins.DNA_GYRASE": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.DNA_POLYMERASE_2CORE_BETA_CLAMP_GAMMA_COMPLEX_PRIMASE": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.DNA_POLYMERASE_CORE": {
+    "molarity": 0,
+    "count": 11
+  },
+  "root.mge.interior.proteins.DNA_POLYMERASE_CORE_BETA_CLAMP_GAMMA_COMPLEX": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.DNA_POLYMERASE_CORE_BETA_CLAMP_PRIMASE": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.DNA_POLYMERASE_GAMMA_COMPLEX": {
+    "molarity": 0,
+    "count": 10
+  },
+  "root.mge.interior.proteins.DNA_POLYMERASE_HOLOENZYME": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_0001_048": {
+    "molarity": 0,
+    "count": 32
+  },
+  "root.mge.interior.proteins.MG_0003_465": {
+    "molarity": 0,
+    "count": 22
+  },
+  "root.mge.interior.proteins.MG_001_DIMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_005_DIMER": {
+    "molarity": 0,
+    "count": 160
+  },
+  "root.mge.interior.proteins.MG_006_DIMER": {
+    "molarity": 0,
+    "count": 161
+  },
+  "root.mge.interior.proteins.MG_008_379_TETRAMER": {
+    "molarity": 0,
+    "count": 14
+  },
+  "root.mge.interior.proteins.MG_013_DIMER": {
+    "molarity": 0,
+    "count": 12
+  },
+  "root.mge.interior.proteins.MG_019_DIMER": {
+    "molarity": 0,
+    "count": 12
+  },
+  "root.mge.interior.proteins.MG_021_DIMER": {
+    "molarity": 0,
+    "count": 17
+  },
+  "root.mge.interior.proteins.MG_023_DIMER": {
+    "molarity": 0,
+    "count": 134
+  },
+  "root.mge.interior.proteins.MG_029_DIMER": {
+    "molarity": 0,
+    "count": 20
+  },
+  "root.mge.interior.proteins.MG_030_TRIMER": {
+    "molarity": 0,
+    "count": 16
+  },
+  "root.mge.interior.proteins.MG_034_DIMER": {
+    "molarity": 0,
+    "count": 29
+  },
+  "root.mge.interior.proteins.MG_035_DIMER": {
+    "molarity": 0,
+    "count": 24
+  },
+  "root.mge.interior.proteins.MG_036_DIMER": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.interior.proteins.MG_038_TETRAMER": {
+    "molarity": 0,
+    "count": 25
+  },
+  "root.mge.interior.proteins.MG_039_DIMER": {
+    "molarity": 0,
+    "count": 14
+  },
+  "root.mge.interior.proteins.MG_046_DIMER": {
+    "molarity": 0,
+    "count": 25
+  },
+  "root.mge.interior.proteins.MG_047_TETRAMER": {
+    "molarity": 0,
+    "count": 14
+  },
+  "root.mge.interior.proteins.MG_049_HEXAMER": {
+    "molarity": 0,
+    "count": 17
+  },
+  "root.mge.interior.proteins.MG_051_DIMER": {
+    "molarity": 0,
+    "count": 58
+  },
+  "root.mge.interior.proteins.MG_052_DIMER": {
+    "molarity": 0,
+    "count": 30
+  },
+  "root.mge.interior.proteins.MG_053_TRIMER": {
+    "molarity": 0,
+    "count": 20
+  },
+  "root.mge.interior.proteins.MG_058_HEXAMER": {
+    "molarity": 0,
+    "count": 12
+  },
+  "root.mge.interior.proteins.MG_063_DIMER": {
+    "molarity": 0,
+    "count": 27
+  },
+  "root.mge.interior.proteins.MG_066_DIMER": {
+    "molarity": 0,
+    "count": 40
+  },
+  "root.mge.interior.proteins.MG_072_DIMER": {
+    "molarity": 0,
+    "count": 12
+  },
+  "root.mge.interior.proteins.MG_073_206_421_TETRAMER": {
+    "molarity": 0,
+    "count": 12
+  },
+  "root.mge.interior.proteins.MG_084_TETRAMER": {
+    "molarity": 0,
+    "count": 17
+  },
+  "root.mge.interior.proteins.MG_085_HEXAMER": {
+    "molarity": 0,
+    "count": 10
+  },
+  "root.mge.interior.proteins.MG_089_DIMER": {
+    "molarity": 0,
+    "count": 126
+  },
+  "root.mge.interior.proteins.MG_091_OCTAMER": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_091_TETRAMER": {
+    "molarity": 0,
+    "count": 78
+  },
+  "root.mge.interior.proteins.MG_094_HEXAMER": {
+    "molarity": 0,
+    "count": 41
+  },
+  "root.mge.interior.proteins.MG_098_099_100_TRIMER": {
+    "molarity": 0,
+    "count": 126
+  },
+  "root.mge.interior.proteins.MG_102_DIMER": {
+    "molarity": 0,
+    "count": 16
+  },
+  "root.mge.interior.proteins.MG_102_DIMER_ox": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_105_OCTAMER": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.interior.proteins.MG_106_DIMER": {
+    "molarity": 0,
+    "count": 31
+  },
+  "root.mge.interior.proteins.MG_107_DIMER": {
+    "molarity": 0,
+    "count": 18
+  },
+  "root.mge.interior.proteins.MG_111_DIMER": {
+    "molarity": 0,
+    "count": 24
+  },
+  "root.mge.interior.proteins.MG_112_DIMER": {
+    "molarity": 0,
+    "count": 22
+  },
+  "root.mge.interior.proteins.MG_113_DIMER": {
+    "molarity": 0,
+    "count": 21
+  },
+  "root.mge.interior.proteins.MG_118_DIMER": {
+    "molarity": 0,
+    "count": 18
+  },
+  "root.mge.interior.proteins.MG_124_MONOMER_ox": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_126_DIMER": {
+    "molarity": 0,
+    "count": 12
+  },
+  "root.mge.interior.proteins.MG_127_MONOMER_ox": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_128_HEXAMER": {
+    "molarity": 0,
+    "count": 11
+  },
+  "root.mge.interior.proteins.MG_132_DIMER": {
+    "molarity": 0,
+    "count": 16
+  },
+  "root.mge.interior.proteins.MG_136_DIMER": {
+    "molarity": 0,
+    "count": 29
+  },
+  "root.mge.interior.proteins.MG_137_DIMER": {
+    "molarity": 0,
+    "count": 29
+  },
+  "root.mge.interior.proteins.MG_139_DIMER": {
+    "molarity": 0,
+    "count": 8
+  },
+  "root.mge.interior.proteins.MG_182_DIMER": {
+    "molarity": 0,
+    "count": 16
+  },
+  "root.mge.interior.proteins.MG_184_DIMER": {
+    "molarity": 0,
+    "count": 35
+  },
+  "root.mge.interior.proteins.MG_194_195_TETRAMER": {
+    "molarity": 0,
+    "count": 35
+  },
+  "root.mge.interior.proteins.MG_201_DIMER": {
+    "molarity": 0,
+    "count": 23
+  },
+  "root.mge.interior.proteins.MG_203_204_TETRAMER": {
+    "molarity": 0,
+    "count": 12
+  },
+  "root.mge.interior.proteins.MG_205_DIMER": {
+    "molarity": 0,
+    "count": 17
+  },
+  "root.mge.interior.proteins.MG_208_DIMER": {
+    "molarity": 0,
+    "count": 9
+  },
+  "root.mge.interior.proteins.MG_213_214_298_6MER": {
+    "molarity": 0,
+    "count": 2
+  },
+  "root.mge.interior.proteins.MG_213_214_298_6MER_ADP": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_215_TETRAMER": {
+    "molarity": 0,
+    "count": 20
+  },
+  "root.mge.interior.proteins.MG_216_TETRAMER": {
+    "molarity": 0,
+    "count": 26
+  },
+  "root.mge.interior.proteins.MG_221_OCTAMER": {
+    "molarity": 0,
+    "count": 16
+  },
+  "root.mge.interior.proteins.MG_224_2MER_GTP": {
+    "molarity": 0,
+    "count": 2
+  },
+  "root.mge.interior.proteins.MG_224_3MER_GTP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_224_4MER_GTP": {
+    "molarity": 0,
+    "count": 2
+  },
+  "root.mge.interior.proteins.MG_224_5MER_GTP": {
+    "molarity": 0,
+    "count": 5
+  },
+  "root.mge.interior.proteins.MG_224_6MER_GTP": {
+    "molarity": 0,
+    "count": 3
+  },
+  "root.mge.interior.proteins.MG_224_7MER_GTP": {
+    "molarity": 0,
+    "count": 8
+  },
+  "root.mge.interior.proteins.MG_224_8MER_GTP": {
+    "molarity": 0,
+    "count": 13
+  },
+  "root.mge.interior.proteins.MG_224_9MER_GDP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_224_9MER_GTP": {
+    "molarity": 0,
+    "count": 19
+  },
+  "root.mge.interior.proteins.MG_224_MONOMER_GDP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_224_MONOMER_GTP": {
+    "molarity": 0,
+    "count": 7
+  },
+  "root.mge.interior.proteins.MG_227_DIMER": {
+    "molarity": 0,
+    "count": 22
+  },
+  "root.mge.interior.proteins.MG_228_TETRAMER": {
+    "molarity": 0,
+    "count": 16
+  },
+  "root.mge.interior.proteins.MG_229_231_TETRAMER": {
+    "molarity": 0,
+    "count": 28
+  },
+  "root.mge.interior.proteins.MG_229_231_TETRAMER_ox": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_239_HEXAMER": {
+    "molarity": 0,
+    "count": 13
+  },
+  "root.mge.interior.proteins.MG_240_HEXAMER": {
+    "molarity": 0,
+    "count": 13
+  },
+  "root.mge.interior.proteins.MG_244_DIMER": {
+    "molarity": 0,
+    "count": 11
+  },
+  "root.mge.interior.proteins.MG_251_DIMER": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.interior.proteins.MG_252_DIMER": {
+    "molarity": 0,
+    "count": 19
+  },
+  "root.mge.interior.proteins.MG_259_TETRAMER": {
+    "molarity": 0,
+    "count": 60
+  },
+  "root.mge.interior.proteins.MG_265_DIMER": {
+    "molarity": 0,
+    "count": 28
+  },
+  "root.mge.interior.proteins.MG_271_272_273_274_192MER": {
+    "molarity": 0,
+    "count": 12
+  },
+  "root.mge.interior.proteins.MG_271_272_273_274_192MER_ox": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_276_DIMER": {
+    "molarity": 0,
+    "count": 14
+  },
+  "root.mge.interior.proteins.MG_278_DIMER": {
+    "molarity": 0,
+    "count": 17
+  },
+  "root.mge.interior.proteins.MG_283_DIMER": {
+    "molarity": 0,
+    "count": 14
+  },
+  "root.mge.interior.proteins.MG_287_MONOMER_ACP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_287_MONOMER_ddcaACP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_287_MONOMER_hdeACP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_287_MONOMER_myrsACP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_287_MONOMER_ocdcaACP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_287_MONOMER_octeACP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_287_MONOMER_palmACP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_287_MONOMER_tdeACP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_292_TETRAMER": {
+    "molarity": 0,
+    "count": 17
+  },
+  "root.mge.interior.proteins.MG_293_DIMER": {
+    "molarity": 0,
+    "count": 36
+  },
+  "root.mge.interior.proteins.MG_295_MONOMER_ox": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_299_DIMER": {
+    "molarity": 0,
+    "count": 28
+  },
+  "root.mge.interior.proteins.MG_301_TETRAMER": {
+    "molarity": 0,
+    "count": 21
+  },
+  "root.mge.interior.proteins.MG_333_DIMER": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.interior.proteins.MG_336_DIMER": {
+    "molarity": 0,
+    "count": 13
+  },
+  "root.mge.interior.proteins.MG_346_DIMER": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.interior.proteins.MG_347_DIMER": {
+    "molarity": 0,
+    "count": 14
+  },
+  "root.mge.interior.proteins.MG_349_HEXAMER": {
+    "molarity": 0,
+    "count": 11
+  },
+  "root.mge.interior.proteins.MG_351_HEXAMER": {
+    "molarity": 0,
+    "count": 12
+  },
+  "root.mge.interior.proteins.MG_352_DIMER": {
+    "molarity": 0,
+    "count": 14
+  },
+  "root.mge.interior.proteins.MG_353_DIMER": {
+    "molarity": 0,
+    "count": 20
+  },
+  "root.mge.interior.proteins.MG_355_HEXAMER": {
+    "molarity": 0,
+    "count": 14
+  },
+  "root.mge.interior.proteins.MG_357_DIMER": {
+    "molarity": 0,
+    "count": 58
+  },
+  "root.mge.interior.proteins.MG_358_359_10MER": {
+    "molarity": 0,
+    "count": 16
+  },
+  "root.mge.interior.proteins.MG_367_DIMER": {
+    "molarity": 0,
+    "count": 20
+  },
+  "root.mge.interior.proteins.MG_368_DIMER": {
+    "molarity": 0,
+    "count": 20
+  },
+  "root.mge.interior.proteins.MG_369_DIMER": {
+    "molarity": 0,
+    "count": 16
+  },
+  "root.mge.interior.proteins.MG_372_DIMER": {
+    "molarity": 0,
+    "count": 113
+  },
+  "root.mge.interior.proteins.MG_375_DIMER": {
+    "molarity": 0,
+    "count": 114
+  },
+  "root.mge.interior.proteins.MG_376_HEXAMER": {
+    "molarity": 0,
+    "count": 17
+  },
+  "root.mge.interior.proteins.MG_382_TETRAMER": {
+    "molarity": 0,
+    "count": 7
+  },
+  "root.mge.interior.proteins.MG_383_DIMER": {
+    "molarity": 0,
+    "count": 9
+  },
+  "root.mge.interior.proteins.MG_385_DIMER": {
+    "molarity": 0,
+    "count": 18
+  },
+  "root.mge.interior.proteins.MG_391_HEXAMER": {
+    "molarity": 0,
+    "count": 26
+  },
+  "root.mge.interior.proteins.MG_392_393_21MER": {
+    "molarity": 0,
+    "count": 9
+  },
+  "root.mge.interior.proteins.MG_394_TETRAMER": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.interior.proteins.MG_396_DIMER": {
+    "molarity": 0,
+    "count": 24
+  },
+  "root.mge.interior.proteins.MG_407_DIMER": {
+    "molarity": 0,
+    "count": 34
+  },
+  "root.mge.interior.proteins.MG_409_DIMER": {
+    "molarity": 0,
+    "count": 17
+  },
+  "root.mge.interior.proteins.MG_425_DIMER": {
+    "molarity": 0,
+    "count": 13
+  },
+  "root.mge.interior.proteins.MG_427_DIMER": {
+    "molarity": 0,
+    "count": 18
+  },
+  "root.mge.interior.proteins.MG_427_DIMER_ox": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_428_DIMER": {
+    "molarity": 0,
+    "count": 11
+  },
+  "root.mge.interior.proteins.MG_431_DIMER": {
+    "molarity": 0,
+    "count": 29
+  },
+  "root.mge.interior.proteins.MG_433_DIMER": {
+    "molarity": 0,
+    "count": 144
+  },
+  "root.mge.interior.proteins.MG_434_HEXAMER": {
+    "molarity": 0,
+    "count": 11
+  },
+  "root.mge.interior.proteins.MG_445_DIMER": {
+    "molarity": 0,
+    "count": 105
+  },
+  "root.mge.interior.proteins.MG_451_DIMER": {
+    "molarity": 0,
+    "count": 119
+  },
+  "root.mge.interior.proteins.MG_453_TETRAMER": {
+    "molarity": 0,
+    "count": 13
+  },
+  "root.mge.interior.proteins.MG_454_DIMER": {
+    "molarity": 0,
+    "count": 19
+  },
+  "root.mge.interior.proteins.MG_454_DIMER_ox": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_455_DIMER": {
+    "molarity": 0,
+    "count": 121
+  },
+  "root.mge.interior.proteins.MG_458_TETRAMER": {
+    "molarity": 0,
+    "count": 18
+  },
+  "root.mge.interior.proteins.MG_460_TETRAMER": {
+    "molarity": 0,
+    "count": 19
+  },
+  "root.mge.interior.proteins.MG_469_1MER_ADP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_469_1MER_ATP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_469_2MER_1ATP_ADP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_469_2MER_ATP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_469_3MER_2ATP_ADP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_469_3MER_ATP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_469_4MER_3ATP_ADP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_469_4MER_ATP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_469_5MER_4ATP_ADP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_469_5MER_ATP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_469_6MER_5ATP_ADP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_469_6MER_ATP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_469_7MER_6ATP_ADP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_469_7MER_ATP": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_482_DIMER": {
+    "molarity": 0,
+    "count": 22
+  },
+  "root.mge.interior.proteins.REPLISOME": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.RIBOSOME_30S": {
+    "molarity": 0,
+    "count": 4
+  },
+  "root.mge.interior.proteins.RIBOSOME_30S_IF3": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.RIBOSOME_50S": {
+    "molarity": 0,
+    "count": 20
+  },
+  "root.mge.interior.proteins.RIBOSOME_70S": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.RNA_POLYMERASE": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.RNA_POLYMERASE_HOLOENZYME": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.DNA": {
+    "molarity": 2,
+    "count": 0
+  },
+  "root.mge.interior.proteins.RNA": {
+    "molarity": 3,
+    "count": 0
+  },
+  "root.mge.interior.proteins.peptides": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MGrrnA16S": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MGrrnA5S": {
+    "molarity": 0,
+    "count": 17
+  },
+  "root.mge.interior.proteins.tRNA": {
+    "molarity": 0,
+    "count": 502
+  },
+  "root.mge.interior.proteins.tRNA-aminoacylated": {
+    "molarity": 0,
+    "count": 1151
+  },
+  "root.mge.interior.proteins.MG_0001": {
+    "molarity": 0,
+    "count": 1
+  },
+  "root.mge.interior.proteins.MG_0002": {
+    "molarity": 0,
+    "count": 15
+  },
+  "root.mge.interior.proteins.MG_0003": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.interior.proteins.MG_0004": {
+    "molarity": 0,
+    "count": 7
+  },
+  "root.mge.interior.proteins.MGrrnA23S": {
+    "molarity": 0,
+    "count": 0
+  },
+  "root.mge.surface.proteins.MG_191_192_TETRAMER": {
+    "molarity": 0,
+    "count": 0
+  }
+}

@@ -1,0 +1,526 @@
+name, functional_category
+MG_001_MONOMER,replication
+MG_002_MONOMER,protein folding
+MG_003_MONOMER,replication
+MG_004_MONOMER,replication
+MG_005_MONOMER,aminoacyl tRNA synthetase
+MG_006_MONOMER,nucleotide metabolism
+MG_007_MONOMER,replication
+MG_008_MONOMER,RNA processing
+MG_009_MONOMER,DNA degradation
+MG_010_MONOMER,replication
+MG_011_MONOMER,ribosome biogenesis
+MG_012_MONOMER,ribosome biogenesis
+MG_013_MONOMER,cofactor metabolism
+MG_014_MONOMER,membrane transport
+MG_015_MONOMER,membrane transport
+MG_018_MONOMER,DNA remodeling/stabilization
+MG_019_MONOMER,protein folding
+MG_020_MONOMER,post-translational processing
+MG_021_MONOMER,aminoacyl tRNA synthetase
+MG_022_MONOMER,transcription
+MG_023_MONOMER,glycolysis
+MG_024_MONOMER,translation
+MG_025_MONOMER,lipid metabolism
+MG_026_MONOMER,translation
+MG_027_MONOMER,transcription
+MG_028_MONOMER,MG-specific
+MG_029_MONOMER,cofactor metabolism
+MG_030_MONOMER,nucleotide metabolism
+MG_031_MONOMER,replication
+MG_032_MONOMER,cell adhesion
+MG_033_MONOMER,membrane transport
+MG_034_MONOMER,nucleotide metabolism
+MG_035_MONOMER,aminoacyl tRNA synthetase
+MG_036_MONOMER,aminoacyl tRNA synthetase
+MG_037_MONOMER,cofactor metabolism
+MG_038_MONOMER,lipid metabolism
+MG_039_MONOMER,lipid metabolism
+MG_040_MONOMER,membrane transport
+MG_041_MONOMER,glycolysis
+MG_042_MONOMER,membrane transport
+MG_043_MONOMER,membrane transport
+MG_044_MONOMER,membrane transport
+MG_045_MONOMER,membrane transport
+MG_046_MONOMER,RNA processing
+MG_047_MONOMER,amino acid metabolism
+MG_048_MONOMER,membrane transport
+MG_049_MONOMER,nucleotide metabolism
+MG_050_MONOMER,sugar metabolism
+MG_051_MONOMER,nucleotide metabolism
+MG_052_MONOMER,nucleotide metabolism
+MG_053_MONOMER,sugar metabolism
+MG_054_MONOMER,transcription
+MG_055_MONOMER,membrane transport
+MG_473_MONOMER,translation
+MG_474_MONOMER,membrane transport
+MG_056_MONOMER,RNA processing
+MG_057_MONOMER,RNA processing
+MG_058_MONOMER,sugar metabolism
+MG_059_MONOMER,translation
+MG_060_MONOMER,post-translational processing
+MG_061_MONOMER,membrane transport
+MG_062_MONOMER,membrane transport
+MG_063_MONOMER,glycolysis
+MG_064_MONOMER,membrane transport
+MG_065_MONOMER,membrane transport
+MG_066_MONOMER,sugar metabolism
+MG_067_MONOMER,lipoprotein
+MG_068_MONOMER,lipoprotein
+MG_069_MONOMER,glycolysis
+MG_070_MONOMER,translation
+MG_071_MONOMER,membrane transport
+MG_072_MONOMER,membrane transport
+MG_073_MONOMER,DNA repair
+MG_074_MONOMER,host cell interaction
+MG_075_MONOMER,host cell interaction
+MG_076_MONOMER,MG-specific
+MG_077_MONOMER,membrane transport
+MG_078_MONOMER,membrane transport
+MG_079_MONOMER,membrane transport
+MG_080_MONOMER,membrane transport
+MG_081_MONOMER,translation
+MG_082_MONOMER,translation
+MG_083_MONOMER,RNA processing
+MG_084_MONOMER,RNA processing
+MG_085_MONOMER,glycolysis
+MG_086_MONOMER,post-translational processing
+MG_087_MONOMER,translation
+MG_088_MONOMER,translation
+MG_089_MONOMER,translation
+MG_090_MONOMER,translation
+MG_091_MONOMER,replication
+MG_092_MONOMER,translation
+MG_093_MONOMER,translation
+MG_094_MONOMER,replication
+MG_095_MONOMER,lipoprotein
+MG_096_MONOMER,cell adhesion
+MG_097_MONOMER,DNA repair
+MG_098_MONOMER,aminoacyl tRNA synthetase
+MG_099_MONOMER,aminoacyl tRNA synthetase
+MG_100_MONOMER,aminoacyl tRNA synthetase
+MG_101_MONOMER,transcription
+MG_102_MONOMER,cofactor metabolism
+MG_103_MONOMER,transcription
+MG_476_MONOMER,membrane transport
+MG_104_MONOMER,RNA degradation
+MG_105_MONOMER,DNA repair
+MG_106_MONOMER,post-translational processing
+MG_107_MONOMER,nucleotide metabolism
+MG_108_MONOMER,signaling
+MG_109_MONOMER,signaling
+MG_110_MONOMER,ribosome biogenesis
+MG_111_MONOMER,glycolysis
+MG_112_MONOMER,sugar metabolism
+MG_113_MONOMER,aminoacyl tRNA synthetase
+MG_114_MONOMER,lipid metabolism
+MG_115_MONOMER,foreign DNA processing
+MG_116_MONOMER,lipid metabolism
+MG_117_MONOMER,transcription
+MG_118_MONOMER,sugar metabolism
+MG_119_MONOMER,membrane transport
+MG_120_MONOMER,membrane transport
+MG_121_MONOMER,membrane transport
+MG_122_MONOMER,DNA remodeling/stabilization
+MG_123_MONOMER,RNA degradation
+MG_124_MONOMER,cofactor metabolism
+MG_125_MONOMER,cofactor metabolism
+MG_126_MONOMER,aminoacyl tRNA synthetase
+MG_127_MONOMER,transcription
+MG_128_MONOMER,cofactor metabolism
+MG_129_MONOMER,glycolysis
+MG_130_MONOMER,RNA degradation
+MG_131_MONOMER,unknown
+MG_132_MONOMER,nucleotide metabolism
+MG_133_MONOMER,membrane transport
+MG_134_MONOMER,DNA remodeling/stabilization
+MG_135_MONOMER,lipid metabolism
+MG_136_MONOMER,aminoacyl tRNA synthetase
+MG_137_MONOMER,sugar metabolism
+MG_138_MONOMER,translation
+MG_139_MONOMER,RNA degradation
+MG_140_MONOMER,DNA remodeling/stabilization
+MG_141_MONOMER,transcription
+MG_477_MONOMER,transcription
+MG_142_MONOMER,translation
+MG_143_MONOMER,ribosome biogenesis
+MG_144_MONOMER,translation
+MG_145_MONOMER,cofactor metabolism
+MG_146_MONOMER,membrane transport
+MG_147_MONOMER,membrane transport
+MG_148_MONOMER,unknown
+MG_149_MONOMER,lipoprotein
+MG_478_MONOMER,MG-specific
+MG_150_MONOMER,translation
+MG_151_MONOMER,translation
+MG_152_MONOMER,translation
+MG_153_MONOMER,translation
+MG_154_MONOMER,translation
+MG_155_MONOMER,translation
+MG_156_MONOMER,translation
+MG_157_MONOMER,translation
+MG_158_MONOMER,translation
+MG_159_MONOMER,translation
+MG_160_MONOMER,translation
+MG_161_MONOMER,translation
+MG_162_MONOMER,translation
+MG_163_MONOMER,translation
+MG_164_MONOMER,translation
+MG_165_MONOMER,translation
+MG_166_MONOMER,translation
+MG_167_MONOMER,translation
+MG_168_MONOMER,translation
+MG_169_MONOMER,translation
+MG_170_MONOMER,membrane transport
+MG_171_MONOMER,nucleotide metabolism
+MG_172_MONOMER,post-translational processing
+MG_173_MONOMER,translation
+MG_174_MONOMER,translation
+MG_175_MONOMER,translation
+MG_176_MONOMER,translation
+MG_177_MONOMER,transcription
+MG_178_MONOMER,translation
+MG_179_MONOMER,membrane transport
+MG_180_MONOMER,membrane transport
+MG_181_MONOMER,membrane transport
+MG_182_MONOMER,RNA processing
+MG_183_MONOMER,protein degradation
+MG_184_MONOMER,foreign DNA processing
+MG_185_MONOMER,lipoprotein
+MG_186_MONOMER,membrane transport
+MG_187_MONOMER,membrane transport
+MG_188_MONOMER,membrane transport
+MG_189_MONOMER,membrane transport
+MG_190_MONOMER,nucleotide metabolism
+MG_191_MONOMER,cell adhesion
+MG_192_MONOMER,cell adhesion
+MG_194_MONOMER,aminoacyl tRNA synthetase
+MG_195_MONOMER,aminoacyl tRNA synthetase
+MG_196_MONOMER,translation
+MG_197_MONOMER,translation
+MG_198_MONOMER,translation
+MG_199_MONOMER,RNA processing
+MG_200_MONOMER,protein folding
+MG_201_MONOMER,protein folding
+MG_202_MONOMER,cofactor metabolism
+MG_203_MONOMER,DNA remodeling/stabilization
+MG_204_MONOMER,DNA remodeling/stabilization
+MG_205_MONOMER,transcription
+MG_206_MONOMER,DNA repair
+MG_207_MONOMER,cofactor metabolism
+MG_208_MONOMER,protein degradation
+MG_209_MONOMER,RNA processing
+MG_210_MONOMER,post-translational processing
+MG_480_MONOMER,MG-specific
+MG_481_MONOMER,translation
+MG_211_MONOMER,cell division
+MG_482_MONOMER,lipid metabolism
+MG_212_MONOMER,lipid metabolism
+MG_213_MONOMER,cell division
+MG_214_MONOMER,cell division
+MG_215_MONOMER,glycolysis
+MG_216_MONOMER,glycolysis
+MG_217_MONOMER,cell adhesion
+MG_218_MONOMER,cytoskeleton
+MG_491_MONOMER,cell adhesion
+MG_219_MONOMER,MG-specific
+MG_220_MONOMER,MG-specific
+MG_221_MONOMER,cell division
+MG_222_MONOMER,RNA processing
+MG_223_MONOMER,cell division
+MG_224_MONOMER,cell division
+MG_225_MONOMER,membrane transport
+MG_226_MONOMER,membrane transport
+MG_227_MONOMER,cofactor metabolism
+MG_228_MONOMER,cofactor metabolism
+MG_229_MONOMER,nucleotide metabolism
+MG_230_MONOMER,nucleotide metabolism
+MG_231_MONOMER,nucleotide metabolism
+MG_232_MONOMER,translation
+MG_233_MONOMER,translation
+MG_234_MONOMER,translation
+MG_235_MONOMER,DNA repair
+MG_236_MONOMER,transcription
+MG_237_MONOMER,transcription
+MG_238_MONOMER,protein folding
+MG_239_MONOMER,protein degradation
+MG_240_MONOMER,cofactor metabolism
+MG_241_MONOMER,membrane transport
+MG_242_MONOMER,membrane transport
+MG_243_MONOMER,unknown
+MG_244_MONOMER,DNA repair
+MG_245_MONOMER,cofactor metabolism
+MG_246_MONOMER,signaling
+MG_247_MONOMER,lipid metabolism
+MG_248_MONOMER,RNA processing
+MG_249_MONOMER,transcription
+MG_250_MONOMER,replication
+MG_251_MONOMER,aminoacyl tRNA synthetase
+MG_252_MONOMER,RNA processing
+MG_253_MONOMER,aminoacyl tRNA synthetase
+MG_254_MONOMER,replication
+MG_255_MONOMER,cell division
+MG_494_MONOMER,cell division
+MG_256_MONOMER,MG-specific
+MG_257_MONOMER,translation
+MG_258_MONOMER,translation
+MG_259_MONOMER,translation
+MG_260_MONOMER,membrane transport
+MG_261_MONOMER,replication
+MG_262_MONOMER,DNA degradation
+MG_498_MONOMER,DNA repair
+MG_263_MONOMER,sugar metabolism
+MG_264_MONOMER,cofactor metabolism
+MG_265_MONOMER,sugar metabolism
+MG_266_MONOMER,aminoacyl tRNA synthetase
+MG_267_MONOMER,MG-specific
+MG_268_MONOMER,nucleotide metabolism
+MG_269_MONOMER,MG-specific
+MG_270_MONOMER,cofactor metabolism
+MG_271_MONOMER,cofactor metabolism
+MG_272_MONOMER,cofactor metabolism
+MG_273_MONOMER,glycolysis
+MG_274_MONOMER,glycolysis
+MG_275_MONOMER,cofactor metabolism
+MG_276_MONOMER,nucleotide metabolism
+MG_277_MONOMER,membrane transport
+MG_278_MONOMER,nucleotide metabolism
+MG_279_MONOMER,unknown
+MG_280_MONOMER,unknown
+MG_281_MONOMER,host cell interaction
+MG_282_MONOMER,transcription
+MG_283_MONOMER,aminoacyl tRNA synthetase
+MG_284_MONOMER,MG-specific
+MG_285_MONOMER,MG-specific
+MG_286_MONOMER,MG-specific
+MG_287_MONOMER,lipid metabolism
+MG_288_MONOMER,unknown
+MG_289_MONOMER,membrane transport
+MG_290_MONOMER,membrane transport
+MG_291_MONOMER,membrane transport
+MG_505_MONOMER,DNA recombination
+MG_292_MONOMER,aminoacyl tRNA synthetase
+MG_293_MONOMER,lipid metabolism
+MG_294_MONOMER,membrane transport
+MG_295_MONOMER,RNA processing
+MG_296_MONOMER,cell division
+MG_297_MONOMER,cell division
+MG_298_MONOMER,DNA remodeling/stabilization
+MG_299_MONOMER,cofactor metabolism
+MG_300_MONOMER,glycolysis
+MG_301_MONOMER,glycolysis
+MG_302_MONOMER,membrane transport
+MG_303_MONOMER,membrane transport
+MG_304_MONOMER,membrane transport
+MG_305_MONOMER,protein folding
+MG_306_MONOMER,membrane transport
+MG_307_MONOMER,lipoprotein
+MG_308_MONOMER,RNA remodeling
+MG_309_MONOMER,lipoprotein
+MG_310_MONOMER,lipid metabolism
+MG_311_MONOMER,translation
+MG_312_MONOMER,cytoskeleton
+MG_313_MONOMER,cytoskeleton
+MG_314_MONOMER,cell adhesion
+MG_315_MONOMER,replication
+MG_316_MONOMER,foreign DNA processing
+MG_317_MONOMER,cytoskeleton
+MG_318_MONOMER,cell adhesion
+MG_319_MONOMER,cell adhesion
+MG_320_MONOMER,cell adhesion
+MG_321_MONOMER,membrane transport
+MG_322_MONOMER,membrane transport
+MG_323_MONOMER,membrane transport
+MG_515_MONOMER,MG-specific
+MG_324_MONOMER,post-translational processing
+MG_325_MONOMER,translation
+MG_326_MONOMER,lipid metabolism
+MG_327_MONOMER,lipid metabolism
+MG_328_MONOMER,cytoskeleton
+MG_329_MONOMER,ribosome biogenesis
+MG_330_MONOMER,nucleotide metabolism
+MG_331_MONOMER,post-translational processing
+MG_332_MONOMER,sugar metabolism
+MG_333_MONOMER,sugar metabolism
+MG_334_MONOMER,aminoacyl tRNA synthetase
+MG_335_MONOMER,ribosome biogenesis
+MG_516_MONOMER,unknown
+MG_517_MONOMER,lipid metabolism
+MG_336_MONOMER,amino acid metabolism
+MG_337_MONOMER,cofactor metabolism
+MG_338_MONOMER,lipoprotein
+MG_339_MONOMER,DNA recombination
+MG_340_MONOMER,transcription
+MG_341_MONOMER,transcription
+MG_342_MONOMER,cofactor metabolism
+MG_343_MONOMER,MG-specific
+MG_344_MONOMER,lipid metabolism
+MG_345_MONOMER,aminoacyl tRNA synthetase
+MG_346_MONOMER,RNA processing
+MG_347_MONOMER,RNA processing
+MG_348_MONOMER,lipoprotein
+MG_349_MONOMER,replication
+MG_350_MONOMER,membrane transport
+MG_521_MONOMER,membrane transport
+MG_351_MONOMER,cofactor metabolism
+MG_352_MONOMER,DNA recombination
+MG_353_MONOMER,DNA remodeling/stabilization
+MG_354_MONOMER,MG-specific
+MG_355_MONOMER,protein folding
+MG_356_MONOMER,lipid metabolism
+MG_357_MONOMER,glycolysis
+MG_358_MONOMER,DNA recombination
+MG_359_MONOMER,DNA recombination
+MG_360_MONOMER,replication
+MG_361_MONOMER,translation
+MG_362_MONOMER,translation
+MG_363_MONOMER,translation
+MG_522_MONOMER,translation
+MG_364_MONOMER,replication
+MG_365_MONOMER,aminoacyl tRNA synthetase
+MG_366_MONOMER,cofactor metabolism
+MG_367_MONOMER,RNA processing
+MG_368_MONOMER,lipid metabolism
+MG_369_MONOMER,cofactor metabolism
+MG_370_MONOMER,RNA processing
+MG_371_MONOMER,nucleotide metabolism
+MG_372_MONOMER,RNA processing
+MG_373_MONOMER,DNA degradation
+MG_374_MONOMER,nucleotide metabolism
+MG_375_MONOMER,aminoacyl tRNA synthetase
+MG_376_MONOMER,replication
+MG_377_MONOMER,protein folding
+MG_378_MONOMER,aminoacyl tRNA synthetase
+MG_379_MONOMER,RNA processing
+MG_380_MONOMER,RNA processing
+MG_381_MONOMER,MG-specific
+MG_382_MONOMER,nucleotide metabolism
+MG_383_MONOMER,cofactor metabolism
+MG_384_MONOMER,ribosome biogenesis
+MG_524_MONOMER,unknown
+MG_385_MONOMER,lipid metabolism
+MG_386_MONOMER,cell adhesion
+MG_387_MONOMER,ribosome biogenesis
+MG_388_MONOMER,RNA processing
+MG_389_MONOMER,MG-specific
+MG_390_MONOMER,membrane transport
+MG_391_MONOMER,protein degradation
+MG_392_MONOMER,protein folding
+MG_393_MONOMER,protein folding
+MG_394_MONOMER,cofactor metabolism
+MG_395_MONOMER,lipoprotein
+MG_396_MONOMER,sugar metabolism
+MG_397_MONOMER,cell division
+MG_398_MONOMER,nucleotide metabolism
+MG_399_MONOMER,nucleotide metabolism
+MG_400_MONOMER,nucleotide metabolism
+MG_401_MONOMER,nucleotide metabolism
+MG_402_MONOMER,nucleotide metabolism
+MG_403_MONOMER,nucleotide metabolism
+MG_404_MONOMER,nucleotide metabolism
+MG_405_MONOMER,nucleotide metabolism
+MG_406_MONOMER,MG-specific
+MG_407_MONOMER,glycolysis
+MG_408_MONOMER,protein degradation
+MG_409_MONOMER,membrane transport
+MG_410_MONOMER,membrane transport
+MG_411_MONOMER,membrane transport
+MG_412_MONOMER,membrane transport
+MG_414_MONOMER,MG-specific
+MG_525_MONOMER,MG-specific
+MG_417_MONOMER,translation
+MG_418_MONOMER,translation
+MG_419_MONOMER,replication
+MG_421_MONOMER,DNA repair
+MG_422_MONOMER,MG-specific
+MG_423_MONOMER,RNA processing
+MG_424_MONOMER,translation
+MG_425_MONOMER,RNA remodeling
+MG_426_MONOMER,translation
+MG_427_MONOMER,host cell interaction
+MG_428_MONOMER,transcription
+MG_429_MONOMER,glycolysis
+MG_430_MONOMER,glycolysis
+MG_431_MONOMER,glycolysis
+MG_432_MONOMER,membrane transport
+MG_433_MONOMER,translation
+MG_434_MONOMER,nucleotide metabolism
+MG_435_MONOMER,translation
+MG_437_MONOMER,lipid metabolism
+MG_438_MONOMER,foreign DNA processing
+MG_439_MONOMER,lipoprotein
+MG_440_MONOMER,lipoprotein
+MG_441_MONOMER,MG-specific
+MG_442_MONOMER,ribosome biogenesis
+MG_443_MONOMER,membrane transport
+MG_444_MONOMER,translation
+MG_445_MONOMER,RNA processing
+MG_446_MONOMER,translation
+MG_447_MONOMER,membrane transport
+MG_448_MONOMER,protein degradation
+MG_449_MONOMER,unknown
+MG_450_MONOMER,unknown
+MG_451_MONOMER,translation
+MG_452_MONOMER,membrane transport
+MG_453_MONOMER,sugar metabolism
+MG_454_MONOMER,host cell interaction
+MG_455_MONOMER,aminoacyl tRNA synthetase
+MG_456_MONOMER,MG-specific
+MG_457_MONOMER,protein degradation
+MG_458_MONOMER,nucleotide metabolism
+MG_459_MONOMER,sugar metabolism
+MG_460_MONOMER,glycolysis
+MG_461_MONOMER,nucleotide metabolism
+MG_462_MONOMER,aminoacyl tRNA synthetase
+MG_463_MONOMER,RNA processing
+MG_464_MONOMER,protein folding
+MG_465_MONOMER,RNA processing
+MG_466_MONOMER,translation
+MG_467_MONOMER,membrane transport
+MG_468_MONOMER,membrane transport
+MG_526_MONOMER,membrane transport
+MG_469_MONOMER,replication
+MG_470_MONOMER,cell division
+MG_471_MONOMER,translation
+MG_472_MONOMER,translation
+MG_475_MONOMER,translation
+MG_479_MONOMER,translation
+MG_483_MONOMER,translation
+MG_484_MONOMER,translation
+MG_485_MONOMER,translation
+MG_486_MONOMER,translation
+MG_487_MONOMER,translation
+MG_488_MONOMER,translation
+MG_489_MONOMER,translation
+MG_490_MONOMER,translation
+MG_492_MONOMER,translation
+MG_493_MONOMER,translation
+MG_495_MONOMER,translation
+MG_496_MONOMER,translation
+MG_497_MONOMER,translation
+MG_499_MONOMER,translation
+MG_500_MONOMER,translation
+MG_501_MONOMER,translation
+MG_502_MONOMER,translation
+MG_503_MONOMER,translation
+MG_504_MONOMER,translation
+MG_506_MONOMER,translation
+MG_507_MONOMER,translation
+MG_508_MONOMER,translation
+MG_509_MONOMER,translation
+MG_510_MONOMER,translation
+MG_511_MONOMER,translation
+MG_512_MONOMER,translation
+MG_513_MONOMER,translation
+MG_514_MONOMER,translation
+MG_518_MONOMER,translation
+MG_519_MONOMER,translation
+MG_520_MONOMER,translation
+MG_523_MONOMER,translation
+MGrrnA16S,translation
+MGrrnA23S,translation
+MGrrnA5S,translation
+MG_0001,membrane transport
+MG_0002,membrane transport
+MG_0003,RNA processing
+MG_0004,translation

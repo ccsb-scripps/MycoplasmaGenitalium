@@ -1,0 +1,703 @@
+name,function,cluster_function
+MG_032_MONOMER,cell adhesion,cytokinesis/motility
+MG_047_MONOMER,amino acid metabolism,metabolism
+MG_336_MONOMER,amino acid metabolism,metabolism
+MG_047_TETRAMER,amino acid metabolism,metabolism
+MG_336_DIMER,amino acid metabolism,metabolism
+MG_005_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_021_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_035_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_036_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_098_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_099_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_100_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_113_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_126_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_136_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_194_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_195_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_251_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_253_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_266_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_283_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_292_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_334_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_345_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_365_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_375_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_378_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_455_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_462_MONOMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_005_DIMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_021_DIMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_035_DIMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_036_DIMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_098_099_100_TRIMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_113_DIMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_126_DIMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_136_DIMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_194_195_TETRAMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_251_DIMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_283_DIMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_292_TETRAMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_375_DIMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_455_DIMER,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_096_MONOMER,cell adhesion,cytokinesis/motility
+MG_191_MONOMER,cell adhesion,cytokinesis/motility
+MG_192_MONOMER,cell adhesion,cytokinesis/motility
+MG_314_MONOMER,cell adhesion,cytokinesis/motility
+MG_318_MONOMER,cell adhesion,cytokinesis/motility
+MG_319_MONOMER,cell adhesion,cytokinesis/motility
+MG_320_MONOMER,cell adhesion,cytokinesis/motility
+MG_217_MONOMER,cell adhesion,cytokinesis/motility
+MG_386_MONOMER,cell adhesion,cytokinesis/motility
+MG_491_MONOMER,cell adhesion,cytokinesis/motility
+MG_397_MONOMER,cell division,cytokinesis/motility
+MG_255_MONOMER,cell division,cytokinesis/motility
+MG_211_MONOMER,cell division,cytokinesis/motility
+MG_213_MONOMER,cell division,cytokinesis/motility
+MG_214_MONOMER,cell division,cytokinesis/motility
+MG_221_MONOMER,cell division,cytokinesis/motility
+MG_223_MONOMER,cell division,cytokinesis/motility
+MG_224_MONOMER,cell division,cytokinesis/motility
+MG_296_MONOMER,cell division,cytokinesis/motility
+MG_297_MONOMER,cell division,cytokinesis/motility
+MG_470_MONOMER,cell division,cytokinesis/motility
+MG_494_MONOMER,cell division,cytokinesis/motility
+MG_213_214_298_6MER,cell division,cytokinesis/motility
+MG_213_214_298_6MER_ADP,cell division,cytokinesis/motility
+MG_221_OCTAMER,cell division,cytokinesis/motility
+MG_224_2MER_GTP,cell division,cytokinesis/motility
+MG_224_3MER_GTP,cell division,cytokinesis/motility
+MG_224_4MER_GTP,cell division,cytokinesis/motility
+MG_224_5MER_GTP,cell division,cytokinesis/motility
+MG_224_6MER_GTP,cell division,cytokinesis/motility
+MG_224_7MER_GTP,cell division,cytokinesis/motility
+MG_224_8MER_GTP,cell division,cytokinesis/motility
+MG_224_9MER_GDP,cell division,cytokinesis/motility
+MG_224_9MER_GTP,cell division,cytokinesis/motility
+MG_224_MONOMER_GDP,cell division,cytokinesis/motility
+MG_224_MONOMER_GTP,cell division,cytokinesis/motility
+MG_275_TETRAMER,cofactor metabolism,metabolism
+MG_013_MONOMER,cofactor metabolism,metabolism
+MG_029_MONOMER,cofactor metabolism,metabolism
+MG_037_MONOMER,cofactor metabolism,metabolism
+MG_102_MONOMER,cofactor metabolism,metabolism
+MG_124_MONOMER,cofactor metabolism,metabolism
+MG_125_MONOMER,cofactor metabolism,metabolism
+MG_128_MONOMER,cofactor metabolism,metabolism
+MG_145_MONOMER,cofactor metabolism,metabolism
+MG_202_MONOMER,cofactor metabolism,metabolism
+MG_207_MONOMER,cofactor metabolism,metabolism
+MG_227_MONOMER,cofactor metabolism,metabolism
+MG_228_MONOMER,cofactor metabolism,metabolism
+MG_240_MONOMER,cofactor metabolism,metabolism
+MG_245_MONOMER,cofactor metabolism,metabolism
+MG_264_MONOMER,cofactor metabolism,metabolism
+MG_270_MONOMER,cofactor metabolism,metabolism
+MG_271_MONOMER,cofactor metabolism,metabolism
+MG_272_MONOMER,cofactor metabolism,metabolism
+MG_275_MONOMER,cofactor metabolism,metabolism
+MG_299_MONOMER,cofactor metabolism,metabolism
+MG_337_MONOMER,cofactor metabolism,metabolism
+MG_342_MONOMER,cofactor metabolism,metabolism
+MG_351_MONOMER,cofactor metabolism,metabolism
+MG_366_MONOMER,cofactor metabolism,metabolism
+MG_369_MONOMER,cofactor metabolism,metabolism
+MG_383_MONOMER,cofactor metabolism,metabolism
+MG_394_MONOMER,cofactor metabolism,metabolism
+MG_013_DIMER,cofactor metabolism,metabolism
+MG_029_DIMER,cofactor metabolism,metabolism
+MG_102_DIMER,cofactor metabolism,metabolism
+MG_102_DIMER_ox,cofactor metabolism,metabolism
+MG_124_MONOMER_ox,cofactor metabolism,metabolism
+MG_128_HEXAMER,cofactor metabolism,metabolism
+MG_227_DIMER,cofactor metabolism,metabolism
+MG_228_TETRAMER,cofactor metabolism,metabolism
+MG_240_HEXAMER,cofactor metabolism,metabolism
+MG_271_272_273_274_192MER,cofactor metabolism,metabolism
+MG_271_272_273_274_192MER_ox,cofactor metabolism,metabolism
+MG_299_DIMER,cofactor metabolism,metabolism
+MG_351_HEXAMER,cofactor metabolism,metabolism
+MG_369_DIMER,cofactor metabolism,metabolism
+MG_383_DIMER,cofactor metabolism,metabolism
+MG_394_TETRAMER,cofactor metabolism,metabolism
+MG_313_MONOMER,cytoskeleton,cytokinesis/motility
+MG_218_MONOMER,cytoskeleton,cytokinesis/motility
+MG_312_MONOMER,cytoskeleton,cytokinesis/motility
+MG_317_MONOMER,cytoskeleton,cytokinesis/motility
+MG_328_MONOMER,cytoskeleton,cytokinesis/motility
+MG_009_MONOMER,DNA degradation,DNA replication/maintenance
+MG_262_MONOMER,DNA degradation,DNA replication/maintenance
+MG_373_MONOMER,DNA degradation,DNA replication/maintenance
+MG_339_MONOMER,DNA recombination,DNA replication/maintenance
+MG_352_MONOMER,DNA recombination,DNA replication/maintenance
+MG_358_MONOMER,DNA recombination,DNA replication/maintenance
+MG_359_MONOMER,DNA recombination,DNA replication/maintenance
+MG_505_MONOMER,DNA recombination,DNA replication/maintenance
+MG_352_DIMER,DNA recombination,DNA replication/maintenance
+MG_358_359_10MER,DNA recombination,DNA replication/maintenance
+MG_018_MONOMER,DNA remodeling/stabilization,DNA replication/maintenance
+MG_122_MONOMER,DNA remodeling/stabilization,DNA replication/maintenance
+MG_134_MONOMER,DNA remodeling/stabilization,DNA replication/maintenance
+MG_140_MONOMER,DNA remodeling/stabilization,DNA replication/maintenance
+MG_203_MONOMER,DNA remodeling/stabilization,DNA replication/maintenance
+MG_204_MONOMER,DNA remodeling/stabilization,DNA replication/maintenance
+MG_298_MONOMER,DNA remodeling/stabilization,DNA replication/maintenance
+MG_353_MONOMER,DNA remodeling/stabilization,DNA replication/maintenance
+MG_203_204_TETRAMER,DNA remodeling/stabilization,DNA replication/maintenance
+MG_353_DIMER,DNA remodeling/stabilization,DNA replication/maintenance
+MG_073_MONOMER,DNA repair,DNA replication/maintenance
+MG_097_MONOMER,DNA repair,DNA replication/maintenance
+MG_105_MONOMER,DNA repair,DNA replication/maintenance
+MG_206_MONOMER,DNA repair,DNA replication/maintenance
+MG_235_MONOMER,DNA repair,DNA replication/maintenance
+MG_244_MONOMER,DNA repair,DNA replication/maintenance
+MG_421_MONOMER,DNA repair,DNA replication/maintenance
+MG_498_MONOMER,DNA repair,DNA replication/maintenance
+MG_073_206_421_TETRAMER,DNA repair,DNA replication/maintenance
+MG_105_OCTAMER,DNA repair,DNA replication/maintenance
+MG_244_DIMER,DNA repair,DNA replication/maintenance
+MG_316_DIMER,foreign DNA processing,DNA replication/maintenance
+MG_115_MONOMER,foreign DNA processing,DNA replication/maintenance
+MG_184_MONOMER,foreign DNA processing,DNA replication/maintenance
+MG_316_MONOMER,foreign DNA processing,DNA replication/maintenance
+MG_438_MONOMER,foreign DNA processing,DNA replication/maintenance
+MG_184_DIMER,foreign DNA processing,DNA replication/maintenance
+MG_129_MONOMER,glycolysis,metabolism
+MG_041_062_429_PENTAMER,glycolysis,metabolism
+MG_041_069_429_PENTAMER,glycolysis,metabolism
+MG_023_MONOMER,glycolysis,metabolism
+MG_041_MONOMER,glycolysis,metabolism
+MG_063_MONOMER,glycolysis,metabolism
+MG_069_MONOMER,glycolysis,metabolism
+MG_085_MONOMER,glycolysis,metabolism
+MG_111_MONOMER,glycolysis,metabolism
+MG_215_MONOMER,glycolysis,metabolism
+MG_216_MONOMER,glycolysis,metabolism
+MG_273_MONOMER,glycolysis,metabolism
+MG_274_MONOMER,glycolysis,metabolism
+MG_300_MONOMER,glycolysis,metabolism
+MG_301_MONOMER,glycolysis,metabolism
+MG_357_MONOMER,glycolysis,metabolism
+MG_407_MONOMER,glycolysis,metabolism
+MG_429_MONOMER,glycolysis,metabolism
+MG_430_MONOMER,glycolysis,metabolism
+MG_431_MONOMER,glycolysis,metabolism
+MG_460_MONOMER,glycolysis,metabolism
+MG_023_DIMER,glycolysis,metabolism
+MG_063_DIMER,glycolysis,metabolism
+MG_085_HEXAMER,glycolysis,metabolism
+MG_111_DIMER,glycolysis,metabolism
+MG_215_TETRAMER,glycolysis,metabolism
+MG_216_TETRAMER,glycolysis,metabolism
+MG_301_TETRAMER,glycolysis,metabolism
+MG_357_DIMER,glycolysis,metabolism
+MG_407_DIMER,glycolysis,metabolism
+MG_431_DIMER,glycolysis,metabolism
+MG_460_TETRAMER,glycolysis,metabolism
+MG_074_MONOMER,host cell interaction,host cell interaction
+MG_281_MONOMER,host cell interaction,host cell interaction
+MG_075_MONOMER,host cell interaction,host cell interaction
+MG_427_MONOMER,host cell interaction,host cell interaction
+MG_454_MONOMER,host cell interaction,host cell interaction
+MG_427_DIMER,host cell interaction,host cell interaction
+MG_427_DIMER_ox,host cell interaction,host cell interaction
+MG_454_DIMER,host cell interaction,host cell interaction
+MG_454_DIMER_ox,host cell interaction,host cell interaction
+MG_310_MONOMER,lipid metabolism,metabolism
+MG_327_MONOMER,lipid metabolism,metabolism
+MG_344_MONOMER,lipid metabolism,metabolism
+MG_135_MONOMER,lipid metabolism,metabolism
+MG_212_MONOMER,lipid metabolism,metabolism
+MG_247_MONOMER,lipid metabolism,metabolism
+MG_114_DIMER,lipid metabolism,metabolism
+MG_437_DIMER,lipid metabolism,metabolism
+MG_025_MONOMER,lipid metabolism,metabolism
+MG_038_MONOMER,lipid metabolism,metabolism
+MG_039_MONOMER,lipid metabolism,metabolism
+MG_114_MONOMER,lipid metabolism,metabolism
+MG_116_MONOMER,lipid metabolism,metabolism
+MG_287_MONOMER,lipid metabolism,metabolism
+MG_293_MONOMER,lipid metabolism,metabolism
+MG_326_MONOMER,lipid metabolism,metabolism
+MG_356_MONOMER,lipid metabolism,metabolism
+MG_368_MONOMER,lipid metabolism,metabolism
+MG_385_MONOMER,lipid metabolism,metabolism
+MG_437_MONOMER,lipid metabolism,metabolism
+MG_482_MONOMER,lipid metabolism,metabolism
+MG_517_MONOMER,lipid metabolism,metabolism
+MG_038_TETRAMER,lipid metabolism,metabolism
+MG_039_DIMER,lipid metabolism,metabolism
+MG_287_MONOMER_ACP,lipid metabolism,metabolism
+MG_287_MONOMER_ddcaACP,lipid metabolism,metabolism
+MG_287_MONOMER_hdeACP,lipid metabolism,metabolism
+MG_287_MONOMER_myrsACP,lipid metabolism,metabolism
+MG_287_MONOMER_ocdcaACP,lipid metabolism,metabolism
+MG_287_MONOMER_octeACP,lipid metabolism,metabolism
+MG_287_MONOMER_palmACP,lipid metabolism,metabolism
+MG_287_MONOMER_tdeACP,lipid metabolism,metabolism
+MG_293_DIMER,lipid metabolism,metabolism
+MG_368_DIMER,lipid metabolism,metabolism
+MG_385_DIMER,lipid metabolism,metabolism
+MG_482_DIMER,lipid metabolism,metabolism
+MG_067_MONOMER,lipoprotein,lipoprotein
+MG_068_MONOMER,lipoprotein,lipoprotein
+MG_095_MONOMER,lipoprotein,lipoprotein
+MG_149_MONOMER,lipoprotein,lipoprotein
+MG_185_MONOMER,lipoprotein,lipoprotein
+MG_307_MONOMER,lipoprotein,lipoprotein
+MG_309_MONOMER,lipoprotein,lipoprotein
+MG_338_MONOMER,lipoprotein,lipoprotein
+MG_348_MONOMER,lipoprotein,lipoprotein
+MG_395_MONOMER,lipoprotein,lipoprotein
+MG_439_MONOMER,lipoprotein,lipoprotein
+MG_440_MONOMER,lipoprotein,lipoprotein
+MG_146_MONOMER,membrane transport,protein transport/singaling
+MG_061_MONOMER,membrane transport,protein transport/singaling
+MG_071_MONOMER,membrane transport,protein transport/singaling
+MG_133_MONOMER,membrane transport,protein transport/singaling
+MG_147_MONOMER,membrane transport,protein transport/singaling
+MG_241_MONOMER,membrane transport,protein transport/singaling
+MG_242_MONOMER,membrane transport,protein transport/singaling
+MG_260_MONOMER,membrane transport,protein transport/singaling
+MG_294_MONOMER,membrane transport,protein transport/singaling
+MG_306_MONOMER,membrane transport,protein transport/singaling
+MG_432_MONOMER,membrane transport,protein transport/singaling
+MG_443_MONOMER,membrane transport,protein transport/singaling
+MG_447_MONOMER,membrane transport,protein transport/singaling
+MG_452_MONOMER,membrane transport,protein transport/singaling
+MG_474_MONOMER,membrane transport,protein transport/singaling
+MG_521_MONOMER,membrane transport,protein transport/singaling
+MG_014_015_DIMER,membrane transport,protein transport/singaling
+MG_033_TETRAMER,membrane transport,protein transport/singaling
+MG_040_119_120_121_PENTAMER,membrane transport,protein transport/singaling
+MG_042_043_044_045_PENTAMER,membrane transport,protein transport/singaling
+MG_055_170_277_464_476_20MER,membrane transport,protein transport/singaling
+MG_064_065_TETRAMER,membrane transport,protein transport/singaling
+MG_077_078_079_080_321_PENTAMER,membrane transport,protein transport/singaling
+MG_179_180_181_TETRAMER,membrane transport,protein transport/singaling
+MG_186_187_188_189_PENTAMER,membrane transport,protein transport/singaling
+MG_225_DIMER,membrane transport,protein transport/singaling
+MG_226_DIMER,membrane transport,protein transport/singaling
+MG_289_290_291_PENTAMER,membrane transport,protein transport/singaling
+MG_302_303_304_TETRAMER,membrane transport,protein transport/singaling
+MG_322_323_TETRAMER,membrane transport,protein transport/singaling
+MG_390_DIMER,membrane transport,protein transport/singaling
+MG_410_411_412_PENTAMER,membrane transport,protein transport/singaling
+MG_467_468_526_TETRAMER,membrane transport,protein transport/singaling
+MG_014_MONOMER,membrane transport,protein transport/singaling
+MG_015_MONOMER,membrane transport,protein transport/singaling
+MG_033_MONOMER,membrane transport,protein transport/singaling
+MG_040_MONOMER,membrane transport,protein transport/singaling
+MG_042_MONOMER,membrane transport,protein transport/singaling
+MG_043_MONOMER,membrane transport,protein transport/singaling
+MG_044_MONOMER,membrane transport,protein transport/singaling
+MG_045_MONOMER,membrane transport,protein transport/singaling
+MG_048_MONOMER,membrane transport,protein transport/singaling
+MG_055_MONOMER,membrane transport,protein transport/singaling
+MG_062_MONOMER,membrane transport,protein transport/singaling
+MG_064_MONOMER,membrane transport,protein transport/singaling
+MG_065_MONOMER,membrane transport,protein transport/singaling
+MG_072_MONOMER,membrane transport,protein transport/singaling
+MG_077_MONOMER,membrane transport,protein transport/singaling
+MG_078_MONOMER,membrane transport,protein transport/singaling
+MG_079_MONOMER,membrane transport,protein transport/singaling
+MG_080_MONOMER,membrane transport,protein transport/singaling
+MG_119_MONOMER,membrane transport,protein transport/singaling
+MG_120_MONOMER,membrane transport,protein transport/singaling
+MG_121_MONOMER,membrane transport,protein transport/singaling
+MG_170_MONOMER,membrane transport,protein transport/singaling
+MG_179_MONOMER,membrane transport,protein transport/singaling
+MG_180_MONOMER,membrane transport,protein transport/singaling
+MG_181_MONOMER,membrane transport,protein transport/singaling
+MG_186_MONOMER,membrane transport,protein transport/singaling
+MG_187_MONOMER,membrane transport,protein transport/singaling
+MG_188_MONOMER,membrane transport,protein transport/singaling
+MG_189_MONOMER,membrane transport,protein transport/singaling
+MG_225_MONOMER,membrane transport,protein transport/singaling
+MG_226_MONOMER,membrane transport,protein transport/singaling
+MG_277_MONOMER,membrane transport,protein transport/singaling
+MG_289_MONOMER,membrane transport,protein transport/singaling
+MG_290_MONOMER,membrane transport,protein transport/singaling
+MG_291_MONOMER,membrane transport,protein transport/singaling
+MG_302_MONOMER,membrane transport,protein transport/singaling
+MG_303_MONOMER,membrane transport,protein transport/singaling
+MG_304_MONOMER,membrane transport,protein transport/singaling
+MG_321_MONOMER,membrane transport,protein transport/singaling
+MG_322_MONOMER,membrane transport,protein transport/singaling
+MG_323_MONOMER,membrane transport,protein transport/singaling
+MG_350_MONOMER,membrane transport,protein transport/singaling
+MG_390_MONOMER,membrane transport,protein transport/singaling
+MG_409_MONOMER,membrane transport,protein transport/singaling
+MG_410_MONOMER,membrane transport,protein transport/singaling
+MG_411_MONOMER,membrane transport,protein transport/singaling
+MG_412_MONOMER,membrane transport,protein transport/singaling
+MG_467_MONOMER,membrane transport,protein transport/singaling
+MG_468_MONOMER,membrane transport,protein transport/singaling
+MG_476_MONOMER,membrane transport,protein transport/singaling
+MG_526_MONOMER,membrane transport,protein transport/singaling
+MG_0001_048,membrane transport,protein transport/singaling
+MG_072_DIMER,membrane transport,protein transport/singaling
+MG_409_DIMER,membrane transport,protein transport/singaling
+MG_220_MONOMER,MG-specific,MG-specific
+MG_286_MONOMER,MG-specific,MG-specific
+MG_389_MONOMER,MG-specific,MG-specific
+MG_414_MONOMER,MG-specific,MG-specific
+MG_028_MONOMER,MG-specific,MG-specific
+MG_076_MONOMER,MG-specific,MG-specific
+MG_256_MONOMER,MG-specific,MG-specific
+MG_267_MONOMER,MG-specific,MG-specific
+MG_354_MONOMER,MG-specific,MG-specific
+MG_406_MONOMER,MG-specific,MG-specific
+MG_441_MONOMER,MG-specific,MG-specific
+MG_456_MONOMER,MG-specific,MG-specific
+MG_478_MONOMER,MG-specific,MG-specific
+MG_515_MONOMER,MG-specific,MG-specific
+MG_219_MONOMER,MG-specific,MG-specific
+MG_269_MONOMER,MG-specific,MG-specific
+MG_284_MONOMER,MG-specific,MG-specific
+MG_285_MONOMER,MG-specific,MG-specific
+MG_343_MONOMER,MG-specific,MG-specific
+MG_381_MONOMER,MG-specific,MG-specific
+MG_422_MONOMER,MG-specific,MG-specific
+MG_480_MONOMER,MG-specific,MG-specific
+MG_525_MONOMER,MG-specific,MG-specific
+MG_398_399_400_401_402_403_404_405_22MER,nucleotide metabolism,metabolism
+MG_006_MONOMER,nucleotide metabolism,metabolism
+MG_030_MONOMER,nucleotide metabolism,metabolism
+MG_034_MONOMER,nucleotide metabolism,metabolism
+MG_049_MONOMER,nucleotide metabolism,metabolism
+MG_051_MONOMER,nucleotide metabolism,metabolism
+MG_052_MONOMER,nucleotide metabolism,metabolism
+MG_107_MONOMER,nucleotide metabolism,metabolism
+MG_132_MONOMER,nucleotide metabolism,metabolism
+MG_171_MONOMER,nucleotide metabolism,metabolism
+MG_190_MONOMER,nucleotide metabolism,metabolism
+MG_229_MONOMER,nucleotide metabolism,metabolism
+MG_230_MONOMER,nucleotide metabolism,metabolism
+MG_231_MONOMER,nucleotide metabolism,metabolism
+MG_268_MONOMER,nucleotide metabolism,metabolism
+MG_276_MONOMER,nucleotide metabolism,metabolism
+MG_278_MONOMER,nucleotide metabolism,metabolism
+MG_330_MONOMER,nucleotide metabolism,metabolism
+MG_371_MONOMER,nucleotide metabolism,metabolism
+MG_374_MONOMER,nucleotide metabolism,metabolism
+MG_382_MONOMER,nucleotide metabolism,metabolism
+MG_398_MONOMER,nucleotide metabolism,metabolism
+MG_399_MONOMER,nucleotide metabolism,metabolism
+MG_400_MONOMER,nucleotide metabolism,metabolism
+MG_401_MONOMER,nucleotide metabolism,metabolism
+MG_402_MONOMER,nucleotide metabolism,metabolism
+MG_403_MONOMER,nucleotide metabolism,metabolism
+MG_404_MONOMER,nucleotide metabolism,metabolism
+MG_405_MONOMER,nucleotide metabolism,metabolism
+MG_434_MONOMER,nucleotide metabolism,metabolism
+MG_458_MONOMER,nucleotide metabolism,metabolism
+MG_461_MONOMER,nucleotide metabolism,metabolism
+MG_006_DIMER,nucleotide metabolism,metabolism
+MG_030_TRIMER,nucleotide metabolism,metabolism
+MG_034_DIMER,nucleotide metabolism,metabolism
+MG_049_HEXAMER,nucleotide metabolism,metabolism
+MG_051_DIMER,nucleotide metabolism,metabolism
+MG_052_DIMER,nucleotide metabolism,metabolism
+MG_107_DIMER,nucleotide metabolism,metabolism
+MG_132_DIMER,nucleotide metabolism,metabolism
+MG_229_231_TETRAMER,nucleotide metabolism,metabolism
+MG_229_231_TETRAMER_ox,nucleotide metabolism,metabolism
+MG_276_DIMER,nucleotide metabolism,metabolism
+MG_278_DIMER,nucleotide metabolism,metabolism
+MG_382_TETRAMER,nucleotide metabolism,metabolism
+MG_434_HEXAMER,nucleotide metabolism,metabolism
+MG_458_TETRAMER,nucleotide metabolism,metabolism
+MG_086_MONOMER,post-translational processing,protein folding/maturation
+MG_210_MONOMER,post-translational processing,protein folding/maturation
+MG_331_MONOMER,post-translational processing,protein folding/maturation
+MG_020_MONOMER,post-translational processing,protein folding/maturation
+MG_060_MONOMER,post-translational processing,protein folding/maturation
+MG_106_MONOMER,post-translational processing,protein folding/maturation
+MG_172_MONOMER,post-translational processing,protein folding/maturation
+MG_324_MONOMER,post-translational processing,protein folding/maturation
+MG_106_DIMER,post-translational processing,protein folding/maturation
+MG_457_HEXAMER,protein degradation,protein folding/maturation
+MG_183_MONOMER,protein degradation,protein folding/maturation
+MG_208_MONOMER,protein degradation,protein folding/maturation
+MG_239_MONOMER,protein degradation,protein folding/maturation
+MG_391_MONOMER,protein degradation,protein folding/maturation
+MG_408_MONOMER,protein degradation,protein folding/maturation
+MG_448_MONOMER,protein degradation,protein folding/maturation
+MG_457_MONOMER,protein degradation,protein folding/maturation
+MG_208_DIMER,protein degradation,protein folding/maturation
+MG_239_HEXAMER,protein degradation,protein folding/maturation
+MG_391_HEXAMER,protein degradation,protein folding/maturation
+MG_002_MONOMER,protein folding,protein folding/maturation
+MG_019_MONOMER,protein folding,protein folding/maturation
+MG_200_MONOMER,protein folding,protein folding/maturation
+MG_201_MONOMER,protein folding,protein folding/maturation
+MG_238_MONOMER,protein folding,protein folding/maturation
+MG_305_MONOMER,protein folding,protein folding/maturation
+MG_355_MONOMER,protein folding,protein folding/maturation
+MG_377_MONOMER,protein folding,protein folding/maturation
+MG_392_MONOMER,protein folding,protein folding/maturation
+MG_393_MONOMER,protein folding,protein folding/maturation
+MG_464_MONOMER,protein folding,protein folding/maturation
+MG_019_DIMER,protein folding,protein folding/maturation
+MG_201_DIMER,protein folding,protein folding/maturation
+MG_355_HEXAMER,protein folding,protein folding/maturation
+MG_392_393_21MER,protein folding,protein folding/maturation
+MG_364_MONOMER,replication,DNA replication/maintenance
+MG_001_MONOMER,replication,DNA replication/maintenance
+MG_003_MONOMER,replication,DNA replication/maintenance
+MG_004_MONOMER,replication,DNA replication/maintenance
+MG_007_MONOMER,replication,DNA replication/maintenance
+MG_010_MONOMER,replication,DNA replication/maintenance
+MG_031_MONOMER,replication,DNA replication/maintenance
+MG_091_MONOMER,replication,DNA replication/maintenance
+MG_094_MONOMER,replication,DNA replication/maintenance
+MG_250_MONOMER,replication,DNA replication/maintenance
+MG_254_MONOMER,replication,DNA replication/maintenance
+MG_261_MONOMER,replication,DNA replication/maintenance
+MG_315_MONOMER,replication,DNA replication/maintenance
+MG_349_MONOMER,replication,DNA replication/maintenance
+MG_360_MONOMER,replication,DNA replication/maintenance
+MG_376_MONOMER,replication,DNA replication/maintenance
+MG_419_MONOMER,replication,DNA replication/maintenance
+MG_469_MONOMER,replication,DNA replication/maintenance
+MG_001_DIMER,replication,DNA replication/maintenance
+MG_091_OCTAMER,replication,DNA replication/maintenance
+MG_091_TETRAMER,replication,DNA replication/maintenance
+MG_094_HEXAMER,replication,DNA replication/maintenance
+MG_349_HEXAMER,replication,DNA replication/maintenance
+MG_376_HEXAMER,replication,DNA replication/maintenance
+MG_469_1MER_ADP,replication,DNA replication/maintenance
+MG_469_1MER_ATP,replication,DNA replication/maintenance
+MG_469_2MER_1ATP_ADP,replication,DNA replication/maintenance
+MG_469_2MER_ATP,replication,DNA replication/maintenance
+MG_469_3MER_2ATP_ADP,replication,DNA replication/maintenance
+MG_469_3MER_ATP,replication,DNA replication/maintenance
+MG_469_4MER_3ATP_ADP,replication,DNA replication/maintenance
+MG_469_4MER_ATP,replication,DNA replication/maintenance
+MG_469_5MER_4ATP_ADP,replication,DNA replication/maintenance
+MG_469_5MER_ATP,replication,DNA replication/maintenance
+MG_469_6MER_5ATP_ADP,replication,DNA replication/maintenance
+MG_469_6MER_ATP,replication,DNA replication/maintenance
+MG_469_7MER_6ATP_ADP,replication,DNA replication/maintenance
+MG_469_7MER_ATP,replication,DNA replication/maintenance
+MG_011_MONOMER,ribosome biogenesis,protein folding/maturation
+MG_012_MONOMER,ribosome biogenesis,protein folding/maturation
+MG_110_MONOMER,ribosome biogenesis,protein folding/maturation
+MG_143_MONOMER,ribosome biogenesis,protein folding/maturation
+MG_329_MONOMER,ribosome biogenesis,protein folding/maturation
+MG_335_MONOMER,ribosome biogenesis,protein folding/maturation
+MG_384_MONOMER,ribosome biogenesis,protein folding/maturation
+MG_387_MONOMER,ribosome biogenesis,protein folding/maturation
+MG_442_MONOMER,ribosome biogenesis,protein folding/maturation
+MG_130_MONOMER,RNA degradation,RNA synthesis/maturation
+MG_123_DIMER,RNA degradation,RNA synthesis/maturation
+MG_104_MONOMER,RNA degradation,RNA synthesis/maturation
+MG_123_MONOMER,RNA degradation,RNA synthesis/maturation
+MG_139_MONOMER,RNA degradation,RNA synthesis/maturation
+MG_139_DIMER,RNA degradation,RNA synthesis/maturation
+MG_008_MONOMER,RNA processing,RNA synthesis/maturation
+MG_046_MONOMER,RNA processing,RNA synthesis/maturation
+MG_056_MONOMER,RNA processing,RNA synthesis/maturation
+MG_057_MONOMER,RNA processing,RNA synthesis/maturation
+MG_083_MONOMER,RNA processing,RNA synthesis/maturation
+MG_084_MONOMER,RNA processing,RNA synthesis/maturation
+MG_182_MONOMER,RNA processing,RNA synthesis/maturation
+MG_199_MONOMER,RNA processing,RNA synthesis/maturation
+MG_209_MONOMER,RNA processing,RNA synthesis/maturation
+MG_222_MONOMER,RNA processing,RNA synthesis/maturation
+MG_248_MONOMER,RNA processing,RNA synthesis/maturation
+MG_252_MONOMER,RNA processing,RNA synthesis/maturation
+MG_295_MONOMER,RNA processing,RNA synthesis/maturation
+MG_346_MONOMER,RNA processing,RNA synthesis/maturation
+MG_347_MONOMER,RNA processing,RNA synthesis/maturation
+MG_367_MONOMER,RNA processing,RNA synthesis/maturation
+MG_370_MONOMER,RNA processing,RNA synthesis/maturation
+MG_372_MONOMER,RNA processing,RNA synthesis/maturation
+MG_379_MONOMER,RNA processing,RNA synthesis/maturation
+MG_380_MONOMER,RNA processing,RNA synthesis/maturation
+MG_388_MONOMER,RNA processing,RNA synthesis/maturation
+MG_423_MONOMER,RNA processing,RNA synthesis/maturation
+MG_445_MONOMER,RNA processing,RNA synthesis/maturation
+MG_463_MONOMER,RNA processing,RNA synthesis/maturation
+MG_465_MONOMER,RNA processing,RNA synthesis/maturation
+MG_0003_465,RNA processing,RNA synthesis/maturation
+MG_008_379_TETRAMER,RNA processing,RNA synthesis/maturation
+MG_046_DIMER,RNA processing,RNA synthesis/maturation
+MG_084_TETRAMER,RNA processing,RNA synthesis/maturation
+MG_182_DIMER,RNA processing,RNA synthesis/maturation
+MG_252_DIMER,RNA processing,RNA synthesis/maturation
+MG_295_MONOMER_ox,RNA processing,RNA synthesis/maturation
+MG_346_DIMER,RNA processing,RNA synthesis/maturation
+MG_347_DIMER,RNA processing,RNA synthesis/maturation
+MG_367_DIMER,RNA processing,RNA synthesis/maturation
+MG_372_DIMER,RNA processing,RNA synthesis/maturation
+MG_445_DIMER,RNA processing,RNA synthesis/maturation
+MG_308_MONOMER,RNA remodeling,RNA synthesis/maturation
+MG_425_MONOMER,RNA remodeling,RNA synthesis/maturation
+MG_425_DIMER,RNA remodeling,RNA synthesis/maturation
+MG_109_DIMER,signaling,protein transport/singaling
+MG_108_MONOMER,signaling,protein transport/singaling
+MG_109_MONOMER,signaling,protein transport/singaling
+MG_246_MONOMER,signaling,protein transport/singaling
+MG_050_MONOMER,sugar metabolism,metabolism
+MG_053_MONOMER,sugar metabolism,metabolism
+MG_058_MONOMER,sugar metabolism,metabolism
+MG_066_MONOMER,sugar metabolism,metabolism
+MG_112_MONOMER,sugar metabolism,metabolism
+MG_118_MONOMER,sugar metabolism,metabolism
+MG_137_MONOMER,sugar metabolism,metabolism
+MG_263_MONOMER,sugar metabolism,metabolism
+MG_265_MONOMER,sugar metabolism,metabolism
+MG_332_MONOMER,sugar metabolism,metabolism
+MG_333_MONOMER,sugar metabolism,metabolism
+MG_396_MONOMER,sugar metabolism,metabolism
+MG_453_MONOMER,sugar metabolism,metabolism
+MG_459_MONOMER,sugar metabolism,metabolism
+MG_053_TRIMER,sugar metabolism,metabolism
+MG_058_HEXAMER,sugar metabolism,metabolism
+MG_066_DIMER,sugar metabolism,metabolism
+MG_112_DIMER,sugar metabolism,metabolism
+MG_118_DIMER,sugar metabolism,metabolism
+MG_137_DIMER,sugar metabolism,metabolism
+MG_265_DIMER,sugar metabolism,metabolism
+MG_333_DIMER,sugar metabolism,metabolism
+MG_396_DIMER,sugar metabolism,metabolism
+MG_453_TETRAMER,sugar metabolism,metabolism
+MG_022_MONOMER,transcription,transcription
+MG_027_MONOMER,transcription,transcription
+MG_054_MONOMER,transcription,transcription
+MG_101_MONOMER,transcription,transcription
+MG_103_MONOMER,transcription,transcription
+MG_117_MONOMER,transcription,transcription
+MG_127_MONOMER,transcription,transcription
+MG_141_MONOMER,transcription,transcription
+MG_177_MONOMER,transcription,transcription
+MG_205_MONOMER,transcription,transcription
+MG_236_MONOMER,transcription,transcription
+MG_237_MONOMER,transcription,transcription
+MG_249_MONOMER,transcription,transcription
+MG_282_MONOMER,transcription,transcription
+MG_340_MONOMER,transcription,transcription
+MG_341_MONOMER,transcription,transcription
+MG_428_MONOMER,transcription,transcription
+MG_477_MONOMER,transcription,transcription
+MG_127_MONOMER_ox,transcription,transcription
+MG_205_DIMER,transcription,transcription
+MG_428_DIMER,transcription,transcription
+MG_144_MONOMER,translation,translation
+MG_024_MONOMER,translation,translation
+MG_026_MONOMER,translation,translation
+MG_059_MONOMER,translation,translation
+MG_070_MONOMER,translation,translation
+MG_081_MONOMER,translation,translation
+MG_082_MONOMER,translation,translation
+MG_087_MONOMER,translation,translation
+MG_088_MONOMER,translation,translation
+MG_089_MONOMER,translation,translation
+MG_090_MONOMER,translation,translation
+MG_092_MONOMER,translation,translation
+MG_093_MONOMER,translation,translation
+MG_138_MONOMER,translation,translation
+MG_142_MONOMER,translation,translation
+MG_150_MONOMER,translation,translation
+MG_151_MONOMER,translation,translation
+MG_152_MONOMER,translation,translation
+MG_153_MONOMER,translation,translation
+MG_154_MONOMER,translation,translation
+MG_155_MONOMER,translation,translation
+MG_156_MONOMER,translation,translation
+MG_157_MONOMER,translation,translation
+MG_158_MONOMER,translation,translation
+MG_159_MONOMER,translation,translation
+MG_160_MONOMER,translation,translation
+MG_161_MONOMER,translation,translation
+MG_162_MONOMER,translation,translation
+MG_163_MONOMER,translation,translation
+MG_164_MONOMER,translation,translation
+MG_165_MONOMER,translation,translation
+MG_166_MONOMER,translation,translation
+MG_167_MONOMER,translation,translation
+MG_168_MONOMER,translation,translation
+MG_169_MONOMER,translation,translation
+MG_173_MONOMER,translation,translation
+MG_174_MONOMER,translation,translation
+MG_175_MONOMER,translation,translation
+MG_176_MONOMER,translation,translation
+MG_178_MONOMER,translation,translation
+MG_196_MONOMER,translation,translation
+MG_197_MONOMER,translation,translation
+MG_198_MONOMER,translation,translation
+MG_232_MONOMER,translation,translation
+MG_233_MONOMER,translation,translation
+MG_234_MONOMER,translation,translation
+MG_257_MONOMER,translation,translation
+MG_258_MONOMER,translation,translation
+MG_259_MONOMER,translation,translation
+MG_311_MONOMER,translation,translation
+MG_325_MONOMER,translation,translation
+MG_361_MONOMER,translation,translation
+MG_362_MONOMER,translation,translation
+MG_363_MONOMER,translation,translation
+MG_417_MONOMER,translation,translation
+MG_418_MONOMER,translation,translation
+MG_424_MONOMER,translation,translation
+MG_426_MONOMER,translation,translation
+MG_433_MONOMER,translation,translation
+MG_435_MONOMER,translation,translation
+MG_444_MONOMER,translation,translation
+MG_446_MONOMER,translation,translation
+MG_451_MONOMER,translation,translation
+MG_466_MONOMER,translation,translation
+MG_473_MONOMER,translation,translation
+MG_481_MONOMER,translation,translation
+MG_522_MONOMER,translation,translation
+MG_089_DIMER,translation,translation
+MG_259_TETRAMER,translation,translation
+MG_433_DIMER,translation,translation
+MG_451_DIMER,translation,translation
+MG_131_MONOMER,hypothetical protein,uncharacterized
+MG_148_MONOMER,hypothetical protein,uncharacterized
+MG_243_MONOMER,hypothetical protein,uncharacterized
+MG_279_MONOMER,hypothetical protein,uncharacterized
+MG_280_MONOMER,hypothetical protein,uncharacterized
+MG_524_MONOMER,hypothetical protein,uncharacterized
+MG_288_MONOMER,hypothetical protein,uncharacterized
+MG_449_MONOMER,hypothetical protein,uncharacterized
+MG_450_MONOMER,hypothetical protein,uncharacterized
+MG_516_MONOMER,hypothetical protein,uncharacterized
+DNA_GYRASE,replication,DNA replication/maintenance
+DNA_POLYMERASE_2CORE_BETA_CLAMP_GAMMA_COMPLEX_PRIMASE,replication,DNA replication/maintenance
+DNA_POLYMERASE_CORE,replication,DNA replication/maintenance
+DNA_POLYMERASE_CORE_BETA_CLAMP_GAMMA_COMPLEX,replication,DNA replication/maintenance
+DNA_POLYMERASE_CORE_BETA_CLAMP_PRIMASE,replication,DNA replication/maintenance
+DNA_POLYMERASE_GAMMA_COMPLEX,replication,DNA replication/maintenance
+DNA_POLYMERASE_HOLOENZYME,replication,DNA replication/maintenance
+REPLISOME,replication,DNA replication/maintenance
+RIBOSOME_30S,translation,translation
+RIBOSOME_30S_IF3,translation,translation
+RIBOSOME_50S,translation,translation
+RIBOSOME_70S,translation,translation
+RNA_POLYMERASE,transcription,transcription
+RNA_POLYMERASE_HOLOENZYME,transcription,transcription
+DNA,replication,DNA replication/maintenance
+RNA,transcription,transcription
+peptides,translation,translation
+MG_085_HEXAMER-inactivated,glycolysis,metabolism
+MG_205_DIMER-inactivated,transcription,transcription
+MG_127_MONOMER-inactivated,transcription,transcription
+MG_163_MONOMER-nascent,translation,translation
+MG_166_MONOMER-folded,translation,translation
+MG_236_MONOMER-inactivated,transcription,transcription
+MG_369_MONOMER-processed-II,cofactor metabolism,metabolism
+MGrrnA16S,translation,translation
+MGrrnA23S,translation,translation
+MGrrnA5S,translation,translation
+tRNA,translation,translation
+tRNA-aminoacylated,aminoacyl tRNA synthetase,RNA synthesis/maturation
+MG_0001,membrane transport,protein transport/singaling
+MG_0002,RNA processing,RNA synthesis/maturation
+MG_0003,RNA processing,RNA synthesis/maturation
+MG_0004,translation,translation
