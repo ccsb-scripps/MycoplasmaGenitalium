@@ -1,0 +1,2752 @@
+{
+  "MG_001_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_002_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_003_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_004_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_005_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_006_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_007_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_008_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_009_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_010_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_011_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_012_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_013_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_014_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_015_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_018_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_019_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_020_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_021_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_022_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_023_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_024_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_025_MONOMER": {
+    "compartment": "c",
+    "comments": "No TM domains detected"
+  },
+  "MG_026_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_027_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_028_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_029_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_030_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_031_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_032_MONOMER": {
+    "compartment": "e",
+    "comments": null,
+    "Sequence analysis suggests that this monomer is likely to be a secreted protein": ""
+  },
+  "MG_033_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_034_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_035_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_036_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_037_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_038_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_039_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_040_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_041_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_042_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_043_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_044_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_045_MONOMER": {
+    "compartment": "m",
+    "comments": "Extracellular subunit of a membrane protein complex "
+  },
+  "MG_046_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_047_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_048_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_049_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_050_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_051_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_052_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_053_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_054_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_055_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_473_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_474_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_056_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_057_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_058_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_059_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_060_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_061_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_062_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_063_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_064_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_065_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_066_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_067_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_068_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_069_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_070_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_071_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_072_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_073_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_074_MONOMER": {
+    "compartment": "e",
+    "comments": null,
+    "Sequence analysis suggests that this monomer is likely to be a secreted protein": ""
+  },
+  "MG_075_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_076_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_077_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_078_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_079_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_080_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_081_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_082_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_083_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_084_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_085_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_086_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_087_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_088_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_089_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_090_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_091_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_092_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_093_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_094_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_095_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_096_MONOMER": {
+    "compartment": "e",
+    "comments": null,
+    "Sequence analysis suggests that this monomer is likely to be a secreted protein": ""
+  },
+  "MG_097_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_098_MONOMER": {
+    "compartment": "m",
+    "comments": "Subunit of a membrane protein complex "
+  },
+  "MG_099_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_100_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_101_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_102_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_103_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_476_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_104_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_105_MONOMER": {
+    "compartment": "c",
+    "comments": null,
+    "Sequence analysis suggests that this monomer is likely to be a secreted protein": ""
+  },
+  "MG_106_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_107_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_108_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_109_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_110_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_111_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_112_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_113_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_114_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_115_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_116_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_117_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_118_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_119_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_120_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_121_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_122_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_123_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_124_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_125_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_126_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_127_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_128_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_129_MONOMER": {
+    "compartment": "e",
+    "comments": null,
+    "Sequence analysis suggests that this monomer is likely to be a secreted protein": ""
+  },
+  "MG_130_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_131_MONOMER": {
+    "compartment": "m",
+    "comments": null,
+    "Sequence analysis suggests that this monomer is likely to be a secreted protein": ""
+  },
+  "MG_132_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_133_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_134_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_135_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_136_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_137_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_138_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_139_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_140_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_141_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_477_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_142_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_143_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_144_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_145_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_146_MONOMER": {
+    "compartment": "e",
+    "comments": null,
+    "Sequence analysis suggests that this monomer is likely to be a secreted protein": ""
+  },
+  "MG_147_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_148_MONOMER": {
+    "compartment": "m",
+    "comments": "Likely a membrane-associated protein"
+  },
+  "MG_149_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_478_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_150_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_151_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_152_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_153_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_154_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_155_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_156_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_157_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_158_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_159_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_160_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_161_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_162_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_163_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_164_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_165_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_166_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_167_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_168_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_169_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_170_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_171_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_172_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_173_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_174_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_175_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_176_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_177_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_178_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_179_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_180_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_181_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_182_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_183_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_184_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_185_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_186_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_187_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_188_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_189_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_190_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_191_MONOMER": {
+    "compartment": "tm",
+    "comments": ""
+  },
+  "MG_192_MONOMER": {
+    "compartment": "tm",
+    "comments": ""
+  },
+  "MG_194_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_195_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_196_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_197_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_198_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_199_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_200_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_201_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_202_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_203_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_204_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_205_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_206_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_207_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_208_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_209_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_210_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_480_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_481_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_211_MONOMER": {
+    "compartment": "c",
+    "comments": null,
+    "Sequence analysis suggests that this monomer is likely to be a secreted protein": ""
+  },
+  "MG_482_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_212_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_213_MONOMER": {
+    "compartment": "c",
+    "comments": null,
+    "Sequence analysis suggests that this monomer is likely to be a secreted protein": ""
+  },
+  "MG_214_MONOMER": {
+    "compartment": "c",
+    "comments": null,
+    "Sequence analysis suggests that this monomer is likely to be a secreted protein": ""
+  },
+  "MG_215_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_216_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_217_MONOMER": {
+    "compartment": "tc",
+    "comments": ""
+  },
+  "MG_218_MONOMER": {
+    "compartment": "tc",
+    "comments": ""
+  },
+  "MG_491_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_219_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_220_MONOMER": {
+    "compartment": "e",
+    "comments": null,
+    "Sequence analysis suggests that this monomer is likely to be a secreted protein": ""
+  },
+  "MG_221_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_222_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_223_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_224_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_225_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_226_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_227_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_228_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_229_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_230_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_231_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_232_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_233_MONOMER": {
+    "compartment": "c",
+    "comments": "One transmembrane domain detected in the middle of the protein"
+  },
+  "MG_234_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_235_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_236_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_237_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_238_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_239_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_240_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_241_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_242_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_243_MONOMER": {
+    "compartment": "m",
+    "comments": null,
+    "Sequence analysis suggests that this monomer is likely to be a secreted protein": ""
+  },
+  "MG_244_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_245_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_246_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_247_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_248_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_249_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_250_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_251_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_252_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_253_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_254_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_255_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_494_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_256_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_257_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_258_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_259_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_260_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_261_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_262_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_498_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_263_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_264_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_265_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_266_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_267_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_268_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_269_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_270_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_271_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_272_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_273_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_274_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_275_MONOMER": {
+    "compartment": "c",
+    "comments": "Originally assinged to the membrane compartment but no transembrane domains were detected. Most likely membrane associated. "
+  },
+  "MG_276_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_277_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_278_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_279_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_280_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_281_MONOMER": {
+    "compartment": "m",
+    "comments": "Described as a membrane protein in DOI: 10.1126/science.1246135"
+  },
+  "MG_282_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_283_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_284_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_285_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_286_MONOMER": {
+    "compartment": "e",
+    "comments": null,
+    "Sequence analysis suggests that this monomer is likely to be a secreted protein": ""
+  },
+  "MG_287_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_288_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_289_MONOMER": {
+    "compartment": "e",
+    "comments": ""
+  },
+  "MG_290_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_291_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_505_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_292_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_293_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_294_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_295_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_296_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_297_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_298_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_299_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_300_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_301_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_302_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_303_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_304_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_305_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_306_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_307_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_308_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_309_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_310_MONOMER": {
+    "compartment": "e",
+    "comments": ""
+  },
+  "MG_311_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_312_MONOMER": {
+    "compartment": "tc",
+    "comments": ""
+  },
+  "MG_313_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_314_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_315_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_316_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_317_MONOMER": {
+    "compartment": "tc",
+    "comments": ""
+  },
+  "MG_318_MONOMER": {
+    "compartment": "tm",
+    "comments": ""
+  },
+  "MG_319_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_320_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_321_MONOMER": {
+    "compartment": "m",
+    "comments": "Extracellular subunit of a membrane protein complex "
+  },
+  "MG_322_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_323_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_515_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_324_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_325_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_326_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_327_MONOMER": {
+    "compartment": "e",
+    "comments": ""
+  },
+  "MG_328_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_329_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_330_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_331_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_332_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_333_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_334_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_335_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_516_MONOMER": {
+    "compartment": "c",
+    "comments": "Likely a membrane-associated protein"
+  },
+  "MG_517_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_336_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_337_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_338_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_339_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_340_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_341_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_342_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_343_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_344_MONOMER": {
+    "compartment": "e",
+    "comments": ""
+  },
+  "MG_345_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_346_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_347_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_348_MONOMER": {
+    "compartment": "m",
+    "comments": null,
+    "Sequence analysis suggests that this monomer is likely to be a secreted protein": ""
+  },
+  "MG_349_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_350_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_521_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_351_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_352_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_353_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_354_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_355_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_356_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_357_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_358_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_359_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_360_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_361_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_362_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_363_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_522_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_364_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_365_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_366_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_367_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_368_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_369_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_370_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_371_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_372_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_373_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_374_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_375_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_376_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_377_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_378_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_379_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_380_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_381_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_382_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_383_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_384_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_524_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_385_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_386_MONOMER": {
+    "compartment": "tc",
+    "comments": ""
+  },
+  "MG_387_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_388_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_389_MONOMER": {
+    "compartment": "e",
+    "comments": null,
+    "Sequence analysis suggests that this monomer is likely to be a secreted protein": ""
+  },
+  "MG_390_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_391_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_392_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_393_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_394_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_395_MONOMER": {
+    "compartment": "m",
+    "comments": "Putative lipoprotein"
+  },
+  "MG_396_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_397_MONOMER": {
+    "compartment": "e",
+    "comments": null,
+    "Sequence analysis suggests that this monomer is likely to be a secreted protein": ""
+  },
+  "MG_398_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_399_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_400_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_401_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_402_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_403_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_404_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_405_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_406_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_407_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_408_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_409_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_410_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_411_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_412_MONOMER": {
+    "compartment": "e",
+    "comments": ""
+  },
+  "MG_414_MONOMER": {
+    "compartment": "e",
+    "comments": null,
+    "Sequence analysis suggests that this monomer is likely to be a secreted protein": ""
+  },
+  "MG_525_MONOMER": {
+    "compartment": "e",
+    "comments": "Sequence analysis suggests that this monomer is likely to be a secreted protein"
+  },
+  "MG_417_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_418_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_419_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_421_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_422_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_423_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_424_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_425_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_426_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_427_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_428_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_429_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_430_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_431_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_432_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_433_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_434_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_435_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_437_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_438_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_439_MONOMER": {
+    "compartment": "m",
+    "comments": "Putative lipoprotein"
+  },
+  "MG_440_MONOMER": {
+    "compartment": "m",
+    "comments": "Putative lipoprotein. Homologous protein MG440 homolog 3 (UniProt id:P75156, Y641_MYCPN) is annotated as a lipoprotein. "
+  },
+  "MG_441_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_442_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_443_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_444_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_445_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_446_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_447_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_448_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_449_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_450_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_451_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_452_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_453_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_454_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_455_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_456_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_457_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_458_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_459_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_460_MONOMER": {
+    "compartment": "c",
+    "comments": null,
+    "Sequence analysis suggests that this monomer is likely to be a secreted protein": ""
+  },
+  "MG_461_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_462_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_463_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_464_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_465_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_466_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_467_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_468_MONOMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_526_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_469_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_470_MONOMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "DNA_GYRASE": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "DNA_POLYMERASE_2CORE_BETA_CLAMP_GAMMA_COMPLEX_PRIMASE": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "DNA_POLYMERASE_CORE": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "DNA_POLYMERASE_CORE_BETA_CLAMP_GAMMA_COMPLEX": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "DNA_POLYMERASE_CORE_BETA_CLAMP_PRIMASE": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "DNA_POLYMERASE_GAMMA_COMPLEX": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "DNA_POLYMERASE_HOLOENZYME": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_0001_048": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_0003_465": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_001_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_005_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_006_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_008_379_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_013_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_014_015_DIMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_019_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_021_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_023_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_029_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_030_TRIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_033_TETRAMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_034_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_035_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_036_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_038_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_039_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_040_119_120_121_PENTAMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_041_062_429_PENTAMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_041_069_429_PENTAMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_042_043_044_045_PENTAMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_046_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_047_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_049_HEXAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_051_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_052_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_053_TRIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_055_170_277_464_476_20MER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_058_HEXAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_063_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_064_065_TETRAMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_066_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_072_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_073_206_421_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_077_078_079_080_321_PENTAMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_084_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_085_HEXAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_089_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_091_OCTAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_091_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_094_HEXAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_098_099_100_TRIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_102_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_102_DIMER_ox": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_105_OCTAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_106_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_107_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_109_DIMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_111_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_112_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_113_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_114_DIMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_118_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_123_DIMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_124_MONOMER_ox": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_126_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_127_MONOMER_ox": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_128_HEXAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_132_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_136_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_137_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_139_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_179_180_181_TETRAMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_182_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_184_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_186_187_188_189_PENTAMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_194_195_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_201_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_203_204_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_205_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_208_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_213_214_298_6MER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_213_214_298_6MER_ADP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_215_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_216_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_221_OCTAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_224_2MER_GTP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_224_3MER_GTP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_224_4MER_GTP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_224_5MER_GTP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_224_6MER_GTP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_224_7MER_GTP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_224_8MER_GTP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_224_9MER_GDP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_224_9MER_GTP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_224_MONOMER_GDP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_224_MONOMER_GTP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_225_DIMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_226_DIMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_227_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_228_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_229_231_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_229_231_TETRAMER_ox": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_239_HEXAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_240_HEXAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_244_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_251_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_252_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_259_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_265_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_271_272_273_274_192MER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_271_272_273_274_192MER_ox": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_275_TETRAMER": {
+    "compartment": "c",
+    "comments": "Originally assinged to the membrane compartment but no transembrane domains were detected. Most likely membrane associated. "
+  },
+  "MG_276_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_278_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_283_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_287_MONOMER_ACP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_287_MONOMER_ddcaACP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_287_MONOMER_hdeACP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_287_MONOMER_myrsACP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_287_MONOMER_ocdcaACP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_287_MONOMER_octeACP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_287_MONOMER_palmACP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_287_MONOMER_tdeACP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_289_290_291_PENTAMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_292_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_293_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_295_MONOMER_ox": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_299_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_301_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_302_303_304_TETRAMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_316_DIMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_322_323_TETRAMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_333_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_336_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_346_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_347_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_349_HEXAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_351_HEXAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_352_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_353_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_355_HEXAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_357_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_358_359_10MER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_367_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_368_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_369_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_372_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_375_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_376_HEXAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_382_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_383_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_385_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_390_DIMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_391_HEXAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_392_393_21MER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_394_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_396_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_398_399_400_401_402_403_404_405_22MER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_407_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_409_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_410_411_412_PENTAMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_425_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_427_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_427_DIMER_ox": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_428_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_431_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_433_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_434_HEXAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_437_DIMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_445_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_451_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_453_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_454_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_454_DIMER_ox": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_455_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_457_HEXAMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_458_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_460_TETRAMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_467_468_526_TETRAMER": {
+    "compartment": "m",
+    "comments": ""
+  },
+  "MG_469_1MER_ADP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_469_1MER_ATP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_469_2MER_1ATP_ADP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_469_2MER_ATP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_469_3MER_2ATP_ADP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_469_3MER_ATP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_469_4MER_3ATP_ADP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_469_4MER_ATP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_469_5MER_4ATP_ADP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_469_5MER_ATP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_469_6MER_5ATP_ADP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_469_6MER_ATP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_469_7MER_6ATP_ADP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_469_7MER_ATP": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "MG_482_DIMER": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "REPLISOME": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "RIBOSOME_30S": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "RIBOSOME_30S_IF3": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "RIBOSOME_50S": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "RIBOSOME_70S": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "RNA_POLYMERASE": {
+    "compartment": "c",
+    "comments": ""
+  },
+  "RNA_POLYMERASE_HOLOENZYME": {
+    "compartment": "c",
+    "comments": ""
+  }
+}
