@@ -18,6 +18,7 @@ The repository consist in the following folders :
     * Lipids Membrane model in cif and bcif format
     * Bundle in zip format for mesoscope
     * Example of molx file
+![mesoscope](https://github.com/ccsb-scripps/MycoplasmaGenitalium/blob/main/Models/CaptureMesoscope.PNG)
 * Script : Python's script integrating all the data from the WC computational model (in input_files folder) which generate csv table used to make recipe in mesoscope
 * WholeCellData :  Files form WC computational model
 * cellPACKgpu binary release : standalone windows executable 
