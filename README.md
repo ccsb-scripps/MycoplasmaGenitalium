@@ -1,6 +1,12 @@
 # MycoplasmaGenitalium
 Modelling of Mycoplasma genitalium
 Repository covering the ccsb work on the mycoplasma genitalium modelling project based on the [WC computational model](https://doi.org/10.1016/j.cell.2012.05.044).
+
+
+![mesoscope](https://github.com/ccsb-scripps/MycoplasmaGenitalium/blob/main/Models/CaptureMesoscope.PNG)
+
+
+
 The repository consist in the following folders :
 * Data : the copy of the data folder that is used by cellPACKgpu to load and generate the final 3D models.
     * lattices
@@ -17,8 +23,7 @@ The repository consist in the following folders :
     * Model in cellpack binary format (.bin)
     * Lipids Membrane model in cif and bcif format
     * Bundle in zip format for mesoscope
-    * Example of molx file
-![mesoscope](https://github.com/ccsb-scripps/MycoplasmaGenitalium/blob/main/Models/CaptureMesoscope.PNG)
+    * Example of molx file   
 * Script : Python's script integrating all the data from the WC computational model (in input_files folder) which generate csv table used to make recipe in mesoscope
 * WholeCellData :  Files form WC computational model
 * cellPACKgpu binary release : standalone windows executable 
