@@ -26,9 +26,9 @@ output_dir = output_folder = 'scripts_output'+os.sep
 use_method = 'curated'
 #use_method = 'auto'
 
-#'autot' is for when you want a recipe only with the homology models derived from homologous structures 
+#'auto' is for when you want a recipe only with only homologous structures 
 #no PDB files are generated since all the pdb models come from the PDB
-#'curated' is for a recipe with curated homology and pdb models.
+#'curated' is for a recipe manually curated with homology models and pdb models
 
 ## @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@      
 ## 1.1 : GENERAL INFO ON INGREDIENTS        
