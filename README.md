@@ -24,7 +24,7 @@ The repository consist in the following folders :
     * Lipids Membrane model in cif and bcif format
     * Bundle in zip format for mesoscope
     * Example of molx file   
-* Script : Python's script integrating all the data from the WC computational model (in input_files folder) which generate csv table used to make recipe in mesoscope
-* WholeCellData :  Files form WC computational model
+* Script : Python's script integrating data from the WC computational model and structural information for MG proteins (in input_files folder). It generates: csv table used to make recipe in mesoscope, csv table used to make lattice-based models of supercoiled mycoplasma nucleoids with NucleoidLattice by Davaid S. Goodsell
+    *input file folder  
 * cellPACKgpu binary release : standalone windows executable 
 ## 
