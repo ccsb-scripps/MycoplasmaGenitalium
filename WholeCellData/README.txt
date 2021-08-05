@@ -16,4 +16,3 @@ The original ribosome position reported in the WC simulation was edited when: 1)
 
 Note that frame number is +1 when using json files (i.e. frame 150 in simulation-1.h5 corresponds to frame 150 in getSeriesData_monomers1.json)
 
-Scripts available upon request mmaritan@scripps.edu

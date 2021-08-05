@@ -32,8 +32,15 @@ from openpyxl import load_workbook
 #frames when working with the hdf5 files is: (frame json) -1
 #frames sim: 149(mono)/145(complex); 1184(mono)/1189(complex); 6973(mono)/6960(complex)
 
-input_dir ='input_files'+os.sep
-output_dir = output_folder = 'scripts_output'+os.sep
+#input files:
+input_dir ='C:\\Users\\marti\\Documents\\wholecellworkflow\\FOR GIT-cellPACKpaper\\input_files\\'
+
+#input_dir ='input_files'+os.sep
+
+#outfput folder:
+output_folder = 'C:\\Users\\marti\\Documents\\WC-model\\scripts_output_junk\\'
+
+#output_folder = 'scripts_output'+os.sep
 
 #holds DNA binding prot positions for monomers 
 fname_m = input_dir+'getSeriesData_monomers1.json'
@@ -41,25 +48,6 @@ fname_m = input_dir+'getSeriesData_monomers1.json'
 fname_c = input_dir+'getSeriesData_complexes1.json'
 #simulation #1-1
 sim = input_dir+'simulation-1.h5' 
-
-
-
-############# Data for LATTICE NUCLEOID
-
-##gets data from getSeriesData_monomers1.json | getSeriesData_complex1.json
-##define the frames for monomers and complexes 
-#frames_m =[150, 1185, 6974] #nb this frame must exist in the json file fname_m (for json the frame is +1)
-#frames_c=[146, 1190, 6961] #nb this frame must exist in the json file fname_c (for json the frame is +1)
-#for frame in frames_m:
-#    chromosome_proteins(fname_m, frame, fname_c, frames_c[frames_m.index(frame)],sim)  
-#
-##gets data from hdf5 file     
-#sim_c_frames=[145,1189,6960] 
-#for i in sim_c_frames:
-#    #RNA polymerase position, lenght of transcript
-#    rna_poly(sim, i)
-#    #all mRNAs + positions for ribosomes 
-#    Ribosome_RNAs(sim,i)
 
 #TRANSCRIPTION UNIT
     #creates a dictionary where every monomer is associated with its transcription unit, gene length, coords, etc 
@@ -70,6 +58,7 @@ sim = input_dir+'simulation-1.h5'
     #       beware of 'S3K-Transcription units.csv'
     #       'protein_data.json' downloaded from http://www.wholecellkb.org/
     #       'genes_data.json' downloaded from http://www.wholecellkb.org/
+    
 def prepare_dictionary_index(sim):  
     x = h5py.File(sim)
     #create the variable for the labels 
@@ -731,22 +720,22 @@ def edit_copy_numb_cluster_all_states(dic_copy_numb):
                     to_remove.append(i)
                     #print (i, copy_numb[i], copy_numb[i.split('-')[0]])
                     new_copy_numb = copy_numb[i]['count']+copy_numb[i.split('-')[0]]['count']
-                    print ('sum this copy number to the mature one', i, copy_numb[i]['count'])
+                    #print ('sum this copy number to the mature one', i, copy_numb[i]['count'])
                     readme.write(i.split('-')[0]+' copy number is the sum of the mature state and '+i+'\n')
                     copy_numb[i.split('-')[0]].update({'count':new_copy_numb})
                 else: #for ribosome and rna poly
                     to_remove.append(i)
-                    print ('this goes to lattice nucleoid', i, copy_numb[i]['count'])
+                    #print ('this goes to lattice nucleoid', i, copy_numb[i]['count'])
                     readme.write(i+' copy number is accounted in the lattice nucleoid '+i.split('-')[0]+'\n')
             elif d3[i.split('-')[0]]['binds_dsdna']=='1': 
                 if '-bound' in i:#remove DNA bound count - it is in the lattice
                     to_remove.append(i)
-                    print ('this goes to lattice nucleoid', i, copy_numb[i]['count'])
+                    #print ('this goes to lattice nucleoid', i, copy_numb[i]['count'])
                     readme.write(i+' copy number is accounted in the lattice nucleoid '+i.split('-')[0]+'\n')
                 else: 
                     #DNA binding protein not bound to the dna are considered cytoplasmic proteins when they are inactivated, processed etc
                     new_copy_numb = copy_numb[i]['count']+copy_numb[i.split('-')[0]]['count']
-                    print ('sum this copy number to the mature one', i, copy_numb[i]['count'])
+                    #print ('sum this copy number to the mature one', i, copy_numb[i]['count'])
                     readme.write(i.split('-')[0]+' copy number is the sum of the mature state and '+i+'\n')
                     copy_numb[i.split('-')[0]].update({'count':new_copy_numb})       
                     to_remove.append(i)
@@ -789,13 +778,14 @@ def all_state_proteins_at_one_frame(frame_m, frame_c, json_data):
 
 #write a recipe in csv format
 def make_csv_recipe(dic,rna,fname):
-    dictionary2csv = open (output_folder+fname+'.csv', 'w', encoding="utf-8")
-    dictionary2csv.write('name, molecular_weight, confidence (HHpred),pdb, selection, bu, uniprot, label, surface, compartment, comments, complexation, template, quality (modfold/voroMQA), modfold, voroMQA, offset, pcpalAxis, protein copy number, method, notes, dsDNA-binding, function \n')
-    #dic==d3
+    dictionary2csv = open (output_folder+fname+'.csv', 'w')
+    dictionary2csv.write('name, molecular_weight, confidence (HHpred),pdb, selection, bu, uniprot, label, surface, compartment, comments, complexation, template, quality (modfold=monomers/voroMQA=complexes), offset, pcpalAxis, protein copy number, method, dsDNA-binding, function \n')
+    list_homology = ['phyre', 'intfold', 'raptor', 'swiss', 'galaxy', 'itasser']
+    dic==d3
     for aname in d3:
             quality='-1'
-            quality_modfold='-1'#default
-            quality_voroMQA='-1'#default
+            #quality_modfold='-1'
+            #quality_voroMQA='-1
             complexation='0.0' #default
             membrane = ''#false
             tree=fname+".mge"
@@ -816,10 +806,22 @@ def make_csv_recipe(dic,rna,fname):
             #if the uniprot was assinged take it from d3, otherwise use the standard '-1'
             if 'uniprot' in d3[aname]:
                 uniprot = d3[aname]['uniprot']     
+            if d3[aname]['method']in list_homology:
+                data_source='Homology Modeling'
+            if d3[aname]['method']=='feig':
+                data_source='CYT-MG-model'
+            if d3[aname]['method']=='solved':
+                data_source='PDB (MG experimentally solved)'
+                #pdb=d3[aname]['pdb_model'].upper()
+            if d3[aname]['method']=='PDB-homolog':
+                data_source='PDB-homolog'
+                #pdb=d3[aname]['pdb_model'].upper()
+            if d3[aname]['method']=='PDB-homolog-edit':
+                data_source='PDB-homolog (manually assembled)'
    #for monomers
             if d3[aname]['model']=='ProteinMonomer':
-                if d3[aname]['quality']!='':
-                    quality_modfold= d3[aname]['quality']
+                #if d3[aname]['quality']!='':
+                #    quality_modfold= d3[aname]['quality']
                 # for 'real' monomers, aka monomers that do not participate in protein  complexes
                 if len(d3[aname]['participation_in_complexes'])==0:
                     complexation='0.0' #monomers complexation = 0
@@ -838,8 +840,8 @@ def make_csv_recipe(dic,rna,fname):
                          complexation = '0.5'
     # for complexes
             if d3[aname]['model']=='ProteinComplex':
-                if d3[aname]['quality']!='':
-                    quality_voroMQA= d3[aname]['quality']
+             #   if d3[aname]['quality']!='':
+             #       quality_voroMQA= d3[aname]['quality']
                 complexation='1.0'
                 #membrane placement
                 if d3[aname]['compartment']=='m' or d3[aname]['compartment']=='tm':
@@ -861,13 +863,12 @@ def make_csv_recipe(dic,rna,fname):
             astr+=complexation+','
             astr+=str(d3[aname]['template'])+','
             astr+=str(quality) +','
-            astr+=str(quality_modfold) +','
-            astr+=str(quality_voroMQA) +','
+            #astr+=str(quality_modfold) +','
+            #astr+=str(quality_voroMQA) +','
             astr+='"'+str(offset) +'",'
             astr+='"'+str(axis) +'",'
             astr+=str(d3[aname]['count'])+','
-            astr+=str(d3[aname]['method'])+','
-            astr+=str(d3[aname]['MM-notes'].strip())+','
+            astr+=str(data_source)+','
             astr+=str(d3[aname]['binds_dsdna'])+','
             astr+=str(d3[aname]['functional_category'])+'\n'
             dictionary2csv.write(astr)
@@ -890,18 +891,10 @@ def make_csv_recipe(dic,rna,fname):
                              str(rna[i]['pcpalAxis'])+','+
                              str(rna[i]['count'])+','+
                              str(rna[i]['method'])+','+
-                             str(rna[i]['MM-notes'])+','+
                              str('0')+','+
                              str(rna[i]['function_category'])+'\n')
     dictionary2csv.close()
 
-#def GetColumn(acell):
-#    acolumn = ''
-#    if hasattr(cell,'column_letter') :
-#        acolumn = cell.column_letter
-#    else :
-#        acolumn = cell.column
-#    return acolumn
 
 
 
