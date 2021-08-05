@@ -724,7 +724,7 @@ def ds_ss_DNA_binding(json_data): #list with dsDNA binding protein, dictionary w
 def edit_copy_numb_cluster_all_states(dic_copy_numb):    
     ##create a list with the process, folded etc proteins in varius states, sum their copy number to the mature ones and then remove them from the dictionary                        
     ##the only proteins left will be RNA bound 
-    readme=open(output_dir+'READ_ME_PROTEIN_INFO.txt', 'w')
+    readme=open(output_folder+'READ_ME_PROTEIN_INFO.txt', 'w')
     to_remove =[]
     for i in copy_numb:
         if '-' in i:#this are the ingredients that have some other kind of states other than mature
