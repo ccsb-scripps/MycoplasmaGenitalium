@@ -5,7 +5,7 @@ These files were used as input files to retrieve different kind of information a
 - 'protein_data.json' : MG protein database downloaded from https://www.wholecellkb.org/
 - 'genes_data.json' = MG gene database downloaded from https://www.wholecellkb.org/
 - 'simulation-1.h5': .h5 simulation file of MG wild-type cell simulation set #1-1, downloaded from WholeCellSimDB https://www.wholecellsimdb.org/simulation_batch/1
-- 'getSeriesData_monomers1.json' | 'getSeriesData_complex1.json': json file with positions of DNA binding monomers/complexes calculated in MG wild-type cell simulation set #1-1. Downloaded from WholeCellViz http://www.wholecellviz.org/getSeriesData.php?sim_id=2011_10_19_02_53_45_1&class_name=Chromosome&attr_name=monomerBoundSites | http://www.wholecellviz.org/getSeriesData.php?sim_id=2011_10_19_02_53_45_1&class_name=Chromosome&attr_name=complexBoundSites
+- 'getSeriesData_monomers1.json' | 'getSeriesData_complex1.json': json file with positions of DNA binding monomers/complexes calculated in MG wild-type cell simulation set #1-1. Downloaded from WholeCellViz https://www.wholecellviz.org/getSeriesData.php?sim_id=2011_10_19_02_53_45_1&class_name=Chromosome&attr_name=monomerBoundSites | https://www.wholecellviz.org/getSeriesData.php?sim_id=2011_10_19_02_53_45_1&class_name=Chromosome&attr_name=complexBoundSites
 
 Cell size extracted from simulation-1.h5 in states/Geometry/volume/data
 
