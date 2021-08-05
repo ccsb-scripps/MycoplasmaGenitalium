@@ -5,11 +5,8 @@ Created on Thu Aug  5 01:06:01 2021
 Get input data from WC-MG computational simulation for LatticeNucleoid
 """
 exec(open('WC-MG-CellPACK-functions.py').read())
-#input_dir ='C:\\Users\\marti\\Documents\\wholecellworkflow\\FOR GIT-cellPACKpaper\\input_files\\'
-#input_dir ='input_files'+os.sep
-input_dir = 'C:/Users/marti/Documents/wholecellworkflow/FOR GIT-cellPACKpaper/input_files/'
-output_dir= 'C:/Users/marti/Documents/WC-model/scripts_output_junk/'
-#output_folder = 'scripts_output'+os.sep
+input_dir ='input_files'+os.sep
+output_folder = 'scripts_output'+os.sep
 
 # Data for LATTICE NUCLEOID
 

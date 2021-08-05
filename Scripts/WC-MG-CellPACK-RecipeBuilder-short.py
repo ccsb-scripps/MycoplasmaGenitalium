@@ -5,12 +5,10 @@ Created on Wed Jul 28 16:08:03 2021
 ASSEMBLES A MG DRAFT RECIPE COMPATIBLE WITH MESOSCOPE
 """
 exec(open('WC-MG-CellPACK-functions.py').read())
-#input_dir ='C:\\Users\\marti\\Documents\\wholecellworkflow\\FOR GIT-cellPACKpaper\\input_files\\'
-#input_dir ='input_files'+os.sep
-input_dir = 'C:/Users/marti/Documents/wholecellworkflow/FOR GIT-cellPACKpaper/input_files/'
-output_dir= 'C:/Users/marti/Documents/WC-model/scripts_output_junk/'
-#output_folder = 'scripts_output'+os.sep
+input_dir ='input_files'+os.sep
+output_dir = output_folder = 'scripts_output'+os.sep
 
+#0. Pick the method options : "automatic" or "curated"
 #1. make d3: final recipe as a dictionary
 #    1.1 general info on ingredients
 #        essentiality
@@ -24,6 +22,12 @@ output_dir= 'C:/Users/marti/Documents/WC-model/scripts_output_junk/'
 #3. COPY NUMBER
 #2. RNA (tRNA+rRNA_sRNA)
 #4. recipe as csv file
+
+use_method = 'curated'
+use_method = 'auto'
+#'autot' is for when you want a recipe only with the homology models derived from homologous structures 
+#no PDB files are generated since all the pdb models come from the PDB
+#'curated' is for a recipe with curated homology and pdb models.
 
 ## @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@      
 ## 1.1 : GENERAL INFO ON INGREDIENTS        
@@ -365,14 +369,13 @@ with open(seq_file) as csvfile:
     for row in spamreader:
         aname = row[0]
         method = row[1]
-#uncomment this for a normal recipe 
-        d3[aname].update({'method':method})
-#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!       
-#this is for when you want a recipe only with the homology models derived from homologous structures 
-#no PDB files are generated since all the pdb models come from the PDB
-#        d3[aname].update({'method':'PDB-homolog'})
-#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
- 
+        if use_method == 'curated' : 
+            d3[aname].update({'method':method})
+        elif use_method == 'auto' : 
+            d3[aname].update({'method':'PDB-homolog'})
+        else : #'curated'
+            d3[aname].update({'method':method})
+
 #update d3 with other dictionaries based on the method specified             
 method = ['phyre', 'intfold', 'raptor', 'swiss', 'galaxy', 'itasser', 'PDB-homolog', 'PDB-homolog-edit', 'solved', 'feig','' ]
 for i in d3: 
@@ -645,5 +648,5 @@ for i in sRNA_l:
 ## @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@      
 ## 4: RECIPE IN CSV FORMAT  
 ## @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
-make_csv_recipe(d3,rna, 'root')
+make_csv_recipe(d3,rna, use_method+'_root')
 

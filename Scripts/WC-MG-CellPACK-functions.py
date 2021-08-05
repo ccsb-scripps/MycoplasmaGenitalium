@@ -33,14 +33,10 @@ from openpyxl import load_workbook
 #frames sim: 149(mono)/145(complex); 1184(mono)/1189(complex); 6973(mono)/6960(complex)
 
 #input files:
-input_dir ='C:\\Users\\marti\\Documents\\wholecellworkflow\\FOR GIT-cellPACKpaper\\input_files\\'
-
-#input_dir ='input_files'+os.sep
+input_dir ='input_files'+os.sep
 
 #outfput folder:
-output_folder = 'C:\\Users\\marti\\Documents\\WC-model\\scripts_output_junk\\'
-
-#output_folder = 'scripts_output'+os.sep
+output_dir = output_folder = 'scripts_output'+os.sep
 
 #holds DNA binding prot positions for monomers 
 fname_m = input_dir+'getSeriesData_monomers1.json'
@@ -128,6 +124,27 @@ def prepare_dictionary_index(sim):
 #usage
 index_dict, genes_dict =prepare_dictionary_index(sim)
 
+   
+def dna_binding_list(json_data):
+    covert = json.load(open(input_dir+json_data, 'r'))
+    l =[]
+    d={}
+    for i in covert['data']:
+        if i['model']=='ProteinMonomer':
+            if i['dna_footprint']!= None :
+            #print i['dna_footprint']
+                l.append(i['wid'])
+                d[i['wid']]={'dna_footprint':i['dna_footprint']['length']}
+        if i['model']=='ProteinComplex':
+            if i['dna_footprint']!= None :
+           #print i['dna_footprint']
+               l.append(i['wid'])
+               d[i['wid']]={'dna_footprint':i['dna_footprint']['length']}
+    return l, d
+##usage
+##this is a list of all DNA binding proteins in the simulation
+dna_bp_list, dna_bp_dictionary = dna_binding_list('protein_data.json')
+
 #PROTEIN COORD CHROMOSOME
     #makes a csv file with the proteinid+position+strand from json file      
     #NB if you want this to work, write the PRECISE frame number found in the json file 
@@ -141,7 +158,6 @@ index_dict, genes_dict =prepare_dictionary_index(sim)
     
 def chromosome_proteins(fname_m, frame_number_m, fname_c, frame_number_c,sim):
     z = []
-    output_folder = 'C:\\Users\\marti\\Documents\\WC-model\\scripts_output_junk\\'
     csv = open(output_folder+'chromosome_proteins_'+str(frame_number_m-1)+'.csv', 'w')
     csv.write('#DNA_BINDING PROTEINS\n')
     csv.write('MONOMERS FRAME '+' '+str(frame_number_m-1)+'\n')
