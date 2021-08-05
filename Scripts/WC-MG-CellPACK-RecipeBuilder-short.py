@@ -9,7 +9,7 @@ input_dir ='input_files'+os.sep
 output_dir = output_folder = 'scripts_output'+os.sep
 
 #0. Pick the method options : "automatic" or "curated"
-#1. make d3: final recipe as a dictionary
+#1. make d3: final recipe as a dictionary named d3
 #    1.1 general info on ingredients
 #        essentiality
 #        DNA binding
@@ -19,7 +19,7 @@ output_dir = output_folder = 'scripts_output'+os.sep
 #        d1 (monomers)
 #        d2 (complexes)
 #    1.3 d3: d1 + d2
-#3. COPY NUMBER
+#3. COPY NUMBER - takes 1/2 min to complete
 #2. RNA (tRNA+rRNA_sRNA)
 #4. recipe as csv file
 
