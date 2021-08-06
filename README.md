@@ -8,11 +8,12 @@ Repository covering the ccsb work on the mycoplasma genitalium modelling project
 
 
 The repository consist in the following folders :
-* Data : the copy of the data folder that is used by cellPACKgpu to load and generate the final 3D models.
+* cellPACKgpu_Data : the copy of the data folder that is used by cellPACKgpu to load and generate the final 3D models.
     * lattices
     * palettes
     * proteins
     * recipes
+    * README
 * LatticeNucleoids : David Goodsell software to generate initial configuration of DNA and RNA for the model.
     * fortran source
     * input files
