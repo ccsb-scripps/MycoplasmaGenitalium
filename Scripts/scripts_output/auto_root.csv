@@ -1,0 +1,693 @@
+name, molecular_weight, confidence (HHpred),pdb, selection, bu, uniprot, label, surface, compartment, comments, complexation, template, quality (modfold=monomers/voroMQA=complexes), offset, pcpalAxis, protein copy number, method, dsDNA-binding, function 
+DNA_GYRASE,332712,92.831431725,6RKW, or :A or :C or :B or :D,AU,,DNA gyrase,,auto_root.mge,c,1.0,-,-1,"2,-4,9","-0.56,-0.82,0.09",0,PDB-homolog,1,DNA replication/maintenance
+DNA_POLYMERASE_2CORE_BETA_CLAMP_GAMMA_COMPLEX_PRIMASE,,87.31054889361111,5FKW, or :A or :B or :C or :D ,AU,,DNA polymerase (2) core; beta-clamp; epsilon-complex; and primase,,auto_root.mge,c,1.0,-,0.503911,"0,0,0","0,0,1",0,PDB-homolog,0,DNA replication/maintenance
+DNA_POLYMERASE_CORE,264583,90.336775555,5FKW, or :A or :B or :C or :D,AU,,DNA-directed DNA polymerase,,auto_root.mge,c,1.0,-,0.503911,"0,0,0","0,0,1",11,PDB-homolog,0,DNA replication/maintenance
+DNA_POLYMERASE_CORE_BETA_CLAMP_GAMMA_COMPLEX,,90.30090457416667,1JR3,,BU1,,DNA polymerase core; beta-clamp; epsilon-complex,,auto_root.mge,c,1.0,-,0.510234,"0,0,0","0,0,1",0,PDB-homolog,0,DNA replication/maintenance
+DNA_POLYMERASE_CORE_BETA_CLAMP_PRIMASE,,90.66491876625001,2HPI,,BU1,,DNA polymerase core; beta-clamp; epsilon-complex,,auto_root.mge,c,1.0,-,0.524795,"0,0,0","0,0,1",0,PDB-homolog,0,DNA replication/maintenance
+DNA_POLYMERASE_GAMMA_COMPLEX,336447,70.86684274166667,1JR3,,BU1,,DNA-directed DNA polymerase gamma complex,,auto_root.mge,c,1.0,-,0.510234,"0,0,0","0,0,1",10,PDB-homolog,0,DNA replication/maintenance
+DNA_POLYMERASE_HOLOENZYME,954201,90.30807877033334,1JR3,,BU1,,DNA-directed DNA polymerase holoenzyme,,auto_root.mge,c,1.0,-,0.510234,"0,0,0","0,0,1",0,PDB-homolog,0,DNA replication/maintenance
+MG_0001_048,,97.08520179,3DM5,,1,,signal recognition particle,,auto_root.mge,c,1.0,-,0.508459,"0,0,0","0,0,1",32,PDB-homolog,0,protein transport/singaling
+MG_0003_465,,92.87578125,6d1r,,AU,,ribonuclease P,,auto_root.mge,c,1.0,-,-1,"0,0,0","0,0,1",22,PDB-homolog,0,RNA synthesis/maturation
+MG_001_DIMER,,100.0,5FKW,,AU,,DNA polymerase III; beta clamp,,auto_root.mge,c,1.0,-,0.503911,"0,0,0","0,0,1",0,PDB-homolog,0,DNA replication/maintenance
+MG_005_DIMER,95229.6,100.0,2DQ3,,BU1,,seryl-tRNA synthetase,,auto_root.mge,c,1.0,-,0.500883,"0,0,0","0,0,1",160,PDB-homolog,0,RNA synthesis/maturation
+MG_006_DIMER,48496.2,98.47285714,3LV8,,BU1,,thymidylate kinase,,auto_root.mge,c,1.0,-,0.494645,"0,0,0","0,0,1",161,PDB-homolog,0,metabolism
+MG_008_379_TETRAMER,238858,100.0,2ZXI,,BU1,,tRNA uridine 5-carboxymethylaminomethyl modification enzyme,,auto_root.mge,c,1.0,-,0.518007,"0,0,0","0,0,1",14,PDB-homolog,0,RNA synthesis/maturation
+MG_013_DIMER,59425.2,98.53479853,3L07,,BU1,,methylenetetrahydrofolate dehydrogenase/methylenetetrahydrofolate cyclohydrolase,,auto_root.mge,c,1.0,-,0.5188,"0,0,0","0,0,1",12,PDB-homolog,0,metabolism
+MG_014_015_DIMER,134546,99.58945025,4Q4H,,AU,,multidrug ABC transporter,TRUE,auto_root.mge,m,1.0,-,0.509286,"1,0,-37","0,0,1",18,PDB-homolog,0,protein transport/singaling
+MG_019_DIMER,87491.6,95.88688946,2KHO,,BU1,,chaperone protein DnaJ,,auto_root.mge,c,1.0,-,0.439432,"0,0,0","0,0,1",12,PDB-homolog,0,protein folding/maturation
+MG_021_DIMER,116663,100.0,1RQG,,BU1,,methionyl-tRNA synthetase,,auto_root.mge,c,1.0,-,-1,"0,0,0","0,0,1",17,PDB-homolog,0,RNA synthesis/maturation
+MG_023_DIMER,62248,100.0,1RV8,,BU1,,fructose-1;6-bisphosphate aldolase; class II,,auto_root.mge,c,1.0,-,0.571613,"0,0,0","0,0,1",134,PDB-homolog,0,metabolism
+MG_029_DIMER,41768.6,97.84946237,4K2H,,BU1,,DJ-1/PfpI family protein,,auto_root.mge,c,1.0,-,-1,"0,0,0","0,0,1",20,PDB-homolog,0,metabolism
+MG_030_TRIMER,68919,100.0,1I5E,,BU1,,uracil phosphoribosyltransferase,,auto_root.mge,c,1.0,-,0.591896,"0,0,0","0,0,1",16,PDB-homolog,0,metabolism
+MG_033_TETRAMER,105452,99.2248062,3IYZ,,BU1,,glycerol uptake facilitator,TRUE,auto_root.mge,m,1.0,-,3.77188e-06,"0,0,0","0,0,1",14,PDB-homolog,0,protein transport/singaling
+MG_034_DIMER,47456.6,92.48826291,2UZ3,,BU1,,thymidine kinase,,auto_root.mge,c,1.0,-,0.51772,"0,0,0","0,0,1",29,PDB-homolog,0,metabolism
+MG_035_DIMER,94785.6,99.51690821,1WU7,,BU1,,histidyl-tRNA synthetase,,auto_root.mge,c,1.0,-,0.585776,"0,0,0","0,0,1",24,PDB-homolog,0,RNA synthesis/maturation
+MG_036_DIMER,125868,99.09090909,1EFW, or :A,AU,,aspartyl-tRNA synthetase,,auto_root.mge,c,1.0,-,0.547063,"0,0,0","0,0,1",15,PDB-homolog,0,RNA synthesis/maturation
+MG_038_TETRAMER,217924,99.21259843,3EXQ,,BU1,,glycerol kinase,,auto_root.mge,c,1.0,-,0.462006,"0,0,0","0,0,1",25,PDB-homolog,0,metabolism
+MG_039_DIMER,83729.2,100.0,4X9M,,BU1,,FAD-dependent glycerol-3-phosphate dehydrogenase; putative,,auto_root.mge,c,1.0,-,0.533065,"0,0,0","0,0,1",14,PDB-homolog,0,metabolism
+MG_040_119_120_121_PENTAMER,279728,76.673016044,4fi3,,AU,,Monosaccharide (riboside/galactoside) ABC transporter,TRUE,auto_root.mge,m,1.0,-,-1,"0,0,0","0,0,1",28,PDB-homolog,0,protein transport/singaling
+MG_041_062_429_PENTAMER,284503,83.061469562,2HWG,,BU1,,PTS system; fructose-specific,TRUE,auto_root.mge,m,1.0,-,0.497344,"0,0,0","0,0,1",15,PDB-homolog,0,metabolism
+MG_041_069_429_PENTAMER,329025,86.301428098,2HWG,,BU1,,PTS system; glucose-specific,TRUE,auto_root.mge,m,1.0,-,0.497344,"0,0,28","0,0,-1",16,PDB-homolog,0,metabolism
+MG_042_043_044_045_PENTAMER,244934,97.466021802,3puz,,AU,,spermidine/putrescine (polyamine) ABC transporter,TRUE,auto_root.mge,m,1.0,-,-1,"0,0,0","0,0,1",13,PDB-homolog,0,protein transport/singaling
+MG_046_DIMER,69043.6,99.68253968,4K25,,BU1,,metalloendopeptidase,,auto_root.mge,c,1.0,-,0.478188,"0,0,0","0,0,1",25,PDB-homolog,0,RNA synthesis/maturation
+MG_047_TETRAMER,167884,97.12793734,1FUG,,BU1,,S-adenosylmethionine synthetase,,auto_root.mge,c,1.0,-,0.448307,"0,0,0","0,0,1",14,PDB-homolog,0,metabolism
+MG_049_HEXAMER,157937,99.57983193,1ECP,,BU1,,purine nucleoside phosphorylase,,auto_root.mge,c,1.0,-,0.593158,"0,0,0","0,0,1",17,PDB-homolog,0,metabolism
+MG_051_DIMER,92337.8,100.0,2DSJ,,BU1,,pyrimidine-nucleoside phosphorylase,,auto_root.mge,c,1.0,-,0.523236,"0,0,0","0,0,1",58,PDB-homolog,0,metabolism
+MG_052_DIMER,29948.8,99.9,1JTX,,BU1,,cytidine deaminase,,auto_root.mge,c,1.0,-,0.493864,"0,0,0","0,0,1",30,PDB-homolog,0,metabolism
+MG_053_TRIMER,189075,92.90909090999999,1WQA,,BU1,,phosphoglucomutase/phosphomannomutase; putative,,auto_root.mge,c,1.0,-,0.543456,"0,0,0","0,0,1",20,PDB-homolog,0,metabolism
+MG_055_170_277_464_476_20MER,899195,82.19877841799999,5mg3,,AU,,preprotein translocase,TRUE,auto_root.mge,m,1.0,-,-1,"0,0,0","0,0,1",12,PDB-homolog,0,protein transport/singaling
+MG_058_HEXAMER,225076,96.08433735,5MP7,,BU1,,ribose-phosphate pyrophosphokinase,,auto_root.mge,c,1.0,-,0.599978,"0,0,0","0,0,1",12,PDB-homolog,0,metabolism
+MG_063_DIMER,67098.6,98.01980198,2JGV,,BU1,,1-phosphofructokinase; putative,,auto_root.mge,c,1.0,-,0.56168,"0,0,0","0,0,1",27,PDB-homolog,0,metabolism
+MG_064_065_TETRAMER,400457,52.87213896,5XU1,,AU,,ABC transporter,TRUE,auto_root.mge,m,1.0,-,0.466816,"1,-1,0","0,0,1",29,PDB-homolog,0,protein transport/singaling
+MG_066_DIMER,147198,99.69135802,4C7V,,BU1,,transketolase,,auto_root.mge,c,1.0,-,0.532107,"0,0,0","0,0,1",40,PDB-homolog,0,metabolism
+MG_072_DIMER,182425,96.77419355,2IPC,,BU1,,preprotein translocase; SecA subunit,,auto_root.mge,c,1.0,-,0.414491,"0,0,0","0,0,1",12,PDB-homolog,0,protein transport/singaling
+MG_073_206_421_TETRAMER,355255,82.9843148875,3uwx,,BU1,,DNA incision complex,,auto_root.mge,c,1.0,-,-1,"0,0,0","0,0,1",12,PDB-homolog,1,DNA replication/maintenance
+MG_077_078_079_080_321_PENTAMER,330351,67.33091218199999,4tqu,,AU,,oligopeptide ABC transporter,TRUE,auto_root.mge,m,1.0,-,-1,"26,19,6","0,0,1",19,PDB-homolog,0,protein transport/singaling
+MG_084_TETRAMER,137025,100.0,3A2K, or :A,AU,,tRNA(Ile)-lysidine synthetase,,auto_root.mge,c,1.0,-,0.457847,"0,0,0","0,0,1",17,PDB-homolog,0,RNA synthesis/maturation
+MG_085_HEXAMER,208114,100.0,1KKL,,BU1,,HPr(Ser) kinase/phosphatase,,auto_root.mge,c,1.0,-,0.566027,"0,0,0","0,0,1",10,PDB-homolog,0,metabolism
+MG_089_DIMER,152332,99.85465116,2EFG,,BU1,,translation elongation factor G,,auto_root.mge,c,1.0,-,0.516749,"0,0,0","0,0,1",126,PDB-homolog,0,translation
+MG_091_OCTAMER,,91.783125,5ODP,,BU1,,single-strand binding protein family; octamer,,auto_root.mge,c,1.0,-,0.466648,"0,0,0","0,0,1",0,PDB-homolog,0,DNA replication/maintenance
+MG_091_TETRAMER,71147.2,91.783125,5ODP,,BU1,,single-strand binding protein family; tetramer,,auto_root.mge,c,1.0,-,0.466648,"0,0,0","0,0,1",78,PDB-homolog,0,DNA replication/maintenance
+MG_094_HEXAMER,322189,95.94017093999999,4nmn,,BU1,,replicative DNA helicase,,auto_root.mge,c,1.0,-,-1,"0,0,0","0,0,1",41,PDB-homolog,0,DNA replication/maintenance
+MG_098_099_100_TRIMER,161404,72.44136967333333,3AL0, or :A or :B or :C,AU,,glutamyl-tRNA(Gln) and/or aspartyl-tRNA(Asn) amidotransferase,,auto_root.mge,c,1.0,-,0.4576,"1,-1,0","0,0,1",126,PDB-homolog,0,RNA synthesis/maturation
+MG_102_DIMER,69348,100.0,2Q7V,,BU1,,thioredoxin-disulfide reductase,,auto_root.mge,c,1.0,-,0.539428,"0,0,0","0,0,1",16,PDB-homolog,0,metabolism
+MG_102_DIMER_ox,,100.0,2Q7V,,BU1,,oxidized thioredoxin-disulfide reductase,,auto_root.mge,c,1.0,-,0.539428,"0,0,0","0,0,1",0,PDB-homolog,0,metabolism
+MG_105_OCTAMER,179746,87.0,4RV7,,BU1,,putative DNA integrity scanning protein,,auto_root.mge,c,1.0,-,0.555482,"0,0,0","0,0,1",15,PDB-homolog,0,DNA replication/maintenance
+MG_106_DIMER,44195,95.85492228,3U04,,BU1,,peptide deformylase,,auto_root.mge,c,1.0,-,0.463802,"0,0,0","0,0,1",31,PDB-homolog,0,protein folding/maturation
+MG_107_DIMER,44255,93.02857143,2AN9,,BU1,,guanylate kinase,,auto_root.mge,c,1.0,-,0.489653,"0,0,0","0,0,1",18,PDB-homolog,0,metabolism
+MG_109_DIMER,88135,90.43927649,4X3F, or :A ,1,,serine/threonine protein kinase; putative,TRUE,auto_root.mge,m,1.0,-,0.457688,"-42,22,-7","0.82,-0.57,-0.08",30,PDB-homolog,0,protein transport/singaling
+MG_111_DIMER,98317.6,99.30715935,1B0Z,,BU1,,glucose-6-phosphate isomerase,,auto_root.mge,c,1.0,-,0.508395,"0,0,0","0,0,1",24,PDB-homolog,0,metabolism
+MG_112_DIMER,48200,97.51004785,3CU2,,BU1,,ribulose-phosphate 3-epimerase,,auto_root.mge,c,1.0,-,0.582531,"0,0,0","0,0,1",22,PDB-homolog,0,metabolism
+MG_113_DIMER,103427,99.12280702,1X54,,BU1,,asparaginyl-tRNA synthetase,,auto_root.mge,c,1.0,-,0.508829,"0,0,0","0,0,1",21,PDB-homolog,0,RNA synthesis/maturation
+MG_114_DIMER,52422.6,90.49661017,5D91,,AU,,CDP-diacylglycerol–glycerol-3-phosphate 3-phosphatidyltransferase,TRUE,auto_root.mge,m,1.0,-,0.482878,"0,0,0","0,0,1",24,PDB-homolog,0,metabolism
+MG_118_DIMER,76105.8,99.11764706,1LRK,,AU,,UDP-glucose 4-epimerase,,auto_root.mge,c,1.0,-,0.530935,"0,0,0","0,0,1",18,PDB-homolog,0,metabolism
+MG_123_DIMER,109791,42.66878981,3TM8,,1,,arginine deaminase,TRUE,auto_root.mge,m,1.0,-,0.479733,"0,0,-37","0,0.24,1",18,PDB-homolog,0,RNA synthesis/maturation
+MG_124_MONOMER_ox,,99.9,4I6X,,AU,,oxidized thioredoxin,,auto_root.mge,c,1.0,-,0.528731,"0,0,0","0,0,1",0,PDB-homolog,0,metabolism
+MG_126_DIMER,78656,99.42363112,1I6M,,BU1,,tryptophanyl-tRNA synthetase,,auto_root.mge,c,1.0,-,0.529242,"0,0,0","0,0,1",12,PDB-homolog,0,RNA synthesis/maturation
+MG_127_MONOMER_ox,,88.87655172,1S3C, or :A,AU,,oxidized Spx subfamily protein,,auto_root.mge,c,1.0,-,0.525992,"1,14,18","-0.89,0.45,0.02",0,PDB-homolog,0,transcription
+MG_128_HEXAMER,175198,99.61389961000002,2I2C,,BU1,,inorganic polyphosphate/ATP-NAD kinase; probable,,auto_root.mge,c,1.0,-,0.518864,"0,0,0","0,0,1",11,PDB-homolog,0,metabolism
+MG_132_DIMER,31173.6,98.48297872,3IMI,,BU1,,purine nucleoside phosphoramidase,,auto_root.mge,c,1.0,-,0.578942,"0,0,0","0,0,1",16,PDB-homolog,0,metabolism
+MG_136_DIMER,112386,99.79591837,3E9H,,BU1,,lysyl-tRNA synthetase,,auto_root.mge,c,1.0,-,0.542468,"0,0,0","0,0,1",29,PDB-homolog,0,RNA synthesis/maturation
+MG_137_DIMER,92577.6,95.2970297,3HDQ,,BU1,,UDP-galactopyranose mutase,,auto_root.mge,c,1.0,-,0.548302,"0,0,0","0,0,1",29,PDB-homolog,0,metabolism
+MG_139_DIMER,128030,98.5940246,3ZQ4,,BU1,,ribonuclease J,,auto_root.mge,c,1.0,-,0.566401,"0,0,0","0,0,1",8,PDB-homolog,0,RNA synthesis/maturation
+MG_179_180_181_TETRAMER,159115,94.7556390975,5jsz,,AU,,metal ion (cobalt) ABC transporter,TRUE,auto_root.mge,m,1.0,-,-1,"0,0,0","0,0,1",16,PDB-homolog,0,protein transport/singaling
+MG_182_DIMER,54822.2,100.0,1VS3,,BU1,,Pseudouridylate synthase,,auto_root.mge,c,1.0,-,0.545456,"0,0,0","0,0,1",16,PDB-homolog,0,RNA synthesis/maturation
+MG_184_DIMER,73734.2,48.47318612,2OKC, or :A,AU,,adenine-specific DNA modification methylase,,auto_root.mge,c,1.0,-,0.545108,"0,0,0","0,0,1",35,PDB-homolog,1,DNA replication/maintenance
+MG_186_187_188_189_PENTAMER,193542,84.77358433399999,4TQU,,AU,,Oligosaccharide or polyol ABC transporter,TRUE,auto_root.mge,m,1.0,-,0.519444,"-2,-1,-6","0,0,1",28,PDB-homolog,0,protein transport/singaling
+MG_194_195_TETRAMER,259621,99.791337695,2IY5, or :A or :B,1,,phenylalanyl-tRNA synthetase,,auto_root.mge,c,1.0,-,0.513586,"0,0,0","0,0,1",35,PDB-homolog,0,RNA synthesis/maturation
+MG_201_DIMER,49655.8,82.48847926,2KHO,,BU1,,co-chaperone GrpE,,auto_root.mge,c,1.0,-,0.439432,"0,0,0","0,0,1",23,PDB-homolog,0,protein folding/maturation
+MG_203_204_TETRAMER,319047,94.65636270499999,4I3H, or :A or :B,AU,,topoisomerase IV,,auto_root.mge,c,1.0,-,-1,"-9,4,-11","-0.92,0.39,0.02",12,PDB-homolog,1,DNA replication/maintenance
+MG_205_DIMER,78653.4,99.41690962,1STZ, or :A or :C,AU,,heat-inducible transcription repressor HrcA; putative,,auto_root.mge,c,1.0,-,0.565621,"19,-31,38","-0.49,0.78,0.39",17,PDB-homolog,1,transcription
+MG_208_DIMER,45070.2,97.95918367,2A6A,,BU1,,glycoprotease family protein,,auto_root.mge,c,1.0,-,0.536469,"0,0,0","0,0,1",9,PDB-homolog,0,protein folding/maturation
+MG_213_214_298_6MER,377002,75.21767086333334,4AD8,,BU1,,chromosome segregation protein SMC,,auto_root.mge,c,1.0,-,0.406403,"0,0,0","0,0,1",2,PDB-homolog,1,cytokinesis/motility
+MG_213_214_298_6MER_ADP,,75.21767086333334,4AD8,,BU1,,Chromosome Segregation Protein SMC with SCP Proteins-ADP,,auto_root.mge,c,1.0,-,0.406403,"0,0,0","0,0,1",0,PDB-homolog,1,cytokinesis/motility
+MG_215_TETRAMER,141818,99.07120743,1ZXX,,BU1,,6-phosphofructokinase,,auto_root.mge,c,1.0,-,0.521332,"0,0,0","0,0,1",20,PDB-homolog,0,metabolism
+MG_216_TETRAMER,227099,98.42519685,1E0T,,BU1,,pyruvate kinase,,auto_root.mge,c,1.0,-,0.541882,"0,0,0","0,0,1",26,PDB-homolog,0,metabolism
+MG_221_OCTAMER,130452,100.0,1N0E,,BU1,,mraZ protein,,auto_root.mge,c,1.0,-,0.608551,"0,0,0","-1,0.03,-0.04",16,PDB-homolog,1,cytokinesis/motility
+MG_224_2MER_GTP,,89.43089431,1W5B,,AU,,cell division protein ftsZ activated 2mer,,auto_root.mge,c,1.0,-,0.564241,"2.32e-16,-2e-17,40","0,0,1",1,PDB-homolog,0,cytokinesis/motility
+MG_224_3MER_GTP,,89.43089431,1W5B,,AU,,cell division protein ftsZ activated 3mer,,auto_root.mge,c,1.0,-,0.564241,"0,0,0","0,0,1",1,PDB-homolog,0,cytokinesis/motility
+MG_224_4MER_GTP,,89.43089431,1W5B,,AU,,cell division protein ftsZ activated 4mer,,auto_root.mge,c,1.0,-,0.564241,"0,0,0","0,0,1",2,PDB-homolog,0,cytokinesis/motility
+MG_224_5MER_GTP,,89.43089431,1W5B,,AU,,cell division protein ftsZ activated 5mer,,auto_root.mge,c,1.0,-,0.564241,"0,0,0","0,0,1",2,PDB-homolog,0,cytokinesis/motility
+MG_224_6MER_GTP,,89.43089431,1W5B,,AU,,cell division protein ftsZ activated 6mer,,auto_root.mge,c,1.0,-,0.564241,"0,0,0","0,0,1",4,PDB-homolog,0,cytokinesis/motility
+MG_224_7MER_GTP,,89.43089431,1W5B,,AU,,cell division protein ftsZ activated 7mer,,auto_root.mge,c,1.0,-,0.564241,"0,0,0","0,0,1",9,PDB-homolog,0,cytokinesis/motility
+MG_224_8MER_GTP,,89.43089431,1W5B,,AU,,cell division protein ftsZ activated 8mer,,auto_root.mge,c,1.0,-,0.564241,"0,0,0","0,0,1",11,PDB-homolog,0,cytokinesis/motility
+MG_224_9MER_GDP,,89.43089431,1W5B,,AU,,cell division protein ftsZ deactivated 9mer,,auto_root.mge,c,1.0,-,0.564241,"0,0,0","0,0,1",0,PDB-homolog,0,cytokinesis/motility
+MG_224_9MER_GTP,,89.43089431,1W5B,,AU,,cell division protein ftsZ activated 9mer,,auto_root.mge,c,1.0,-,0.564241,"0,0,0","0,0,1",21,PDB-homolog,0,cytokinesis/motility
+MG_224_MONOMER_GDP,,89.43089431,2VXY, or :A,BU1,,cell division protein ftsZ hydrolysed,,auto_root.mge,c,1.0,-,0.533722,"2.32e-16,-2e-17,40","0,0,1",0,PDB-homolog,0,cytokinesis/motility
+MG_224_MONOMER_GTP,,89.43089431,2VXY, or :A,1,,cell division protein ftsZ activated,,auto_root.mge,c,1.0,-,0.533722,"0,0,0","0,0,1",6,PDB-homolog,0,cytokinesis/motility
+MG_225_DIMER,108788,99.79550102,4DJK,,3,,amino acid transporter,TRUE,auto_root.mge,m,1.0,-,0.516347,"1,0,-2","0,0,1",13,PDB-homolog,0,protein transport/singaling
+MG_226_DIMER,108297,100.0,4DJK,,AU,,amino acid transporter,TRUE,auto_root.mge,m,1.0,-,0.516347,"1,0,-2","0,0,1",16,PDB-homolog,0,protein transport/singaling
+MG_227_DIMER,65078.6,100.0,4DQ1,,BU1,,thymidylate synthase,,auto_root.mge,c,1.0,-,0.556405,"0,0,0","0,0,1",22,PDB-homolog,0,metabolism
+MG_228_TETRAMER,74374.4,100.0,3FL8,,BU1,,dihydrofolate reductase,,auto_root.mge,c,1.0,-,0.550737,"0,0,0","0,0,1",16,PDB-homolog,0,metabolism
+MG_229_231_TETRAMER,241311,100.0,2BQ1,,1,,ribonucleoside-diphosphate reductase,,auto_root.mge,c,1.0,-,0.532005,"0,0,0","0,0,1",28,PDB-homolog,0,metabolism
+MG_229_231_TETRAMER_ox,,100.0,2BQ1,,1,,oxidized ribonucleoside-diphosphate reductase,,auto_root.mge,c,1.0,-,0.532005,"0,0,0","0,0,1",0,PDB-homolog,0,metabolism
+MG_239_HEXAMER,537692,66.79245283,3M6A,,BU1,,ATP-dependent protease La,,auto_root.mge,c,1.0,-,0.465434,"0,0,0","0,0,1",13,PDB-homolog,0,protein folding/maturation
+MG_240_HEXAMER,237952,53.089714289999996,1KAM,,BU1,,nicotinamide-nucleotide adenylyltransferase/conserved hypothetical protein,,auto_root.mge,c,1.0,-,0.562159,"0,0,0","0,0,1",13,PDB-homolog,0,metabolism
+MG_244_DIMER,162057,99.71550498,4C2T, or :A or :B,BU1,,3-5' helicase,,auto_root.mge,c,1.0,-,-1,"6,-1,13","-0.83,0.43,0.34",11,PDB-homolog,1,DNA replication/maintenance
+MG_251_DIMER,102728,99.10313901,1ATI,,BU1,,glycyl-tRNA synthetase,,auto_root.mge,c,1.0,-,0.539486,"0,0,0","0,0,1",15,PDB-homolog,0,RNA synthesis/maturation
+MG_252_DIMER,53925.2,100.0,1GZ0,,BU1,,23S rRNA methyltransferase,,auto_root.mge,c,1.0,-,0.558036,"0,0,0","0,0,1",19,PDB-homolog,0,RNA synthesis/maturation
+MG_259_TETRAMER,207508,37.71929825,1K7J,,BU1,,modification methylase,,auto_root.mge,c,1.0,-,0.545248,"0,0,0","0,0,1",60,PDB-homolog,0,translation
+MG_265_DIMER,63727.6,100.0,1RKQ,,BU1,,sugar phosphatase,,auto_root.mge,c,1.0,-,0.532978,"0,0,0","0,0,1",28,PDB-homolog,0,metabolism
+MG_271_272_273_274_192MER,7642280,99.000548996875,1B5S,,BU1,,pyruvate dehydrogenase,,auto_root.mge,c,1.0,-,-1,"0,0,0","0,0,1",12,PDB-homolog,0,metabolism
+MG_271_272_273_274_192MER_ox,,99.000548996875,1B5S,,BU1,,oxidized dihydrolipoamide dehydrogenase,,auto_root.mge,c,1.0,-,-1,"0,0,0","0,0,1",0,PDB-homolog,0,metabolism
+MG_275_TETRAMER,211945,98.32635983,1NPX,,BU2,,NADH oxidase,,auto_root.mge,c,1.0,-,0.527728,"0,0,0","0,0,1",284,PDB-homolog,0,metabolism
+MG_276_DIMER,39952.6,99.345,2DY0,,BU1,,adenine phosphoribosyltransferase,,auto_root.mge,c,1.0,-,0.581778,"0,0,0","0,0,1",14,PDB-homolog,0,metabolism
+MG_278_DIMER,166788,99.44444444,5IQR, or :8,AU,,GTP pyrophosphokinase,,auto_root.mge,c,1.0,-,0.383249,"0,0,0","0,0,1",17,PDB-homolog,0,metabolism
+MG_283_DIMER,110249,100.0,1H4Q, or :A or :B,AU,,prolyl-tRNA synthetase,,auto_root.mge,c,1.0,-,0.571362,"0,0,0","0,0,1",14,PDB-homolog,0,RNA synthesis/maturation
+MG_287_MONOMER_ACP,,99.1,4H2W, or :C,AU,,holo acyl carrier protein,,auto_root.mge,c,1.0,-,0.56892,"0,0,0","0,0,1",0,PDB-homolog,0,metabolism
+MG_287_MONOMER_ddcaACP,,99.1,4H2W, or :C,AU,,Dodecanoyl-ACP (n-C12:0ACP),,auto_root.mge,c,1.0,-,0.56892,"0,0,0","0,0,1",0,PDB-homolog,0,metabolism
+MG_287_MONOMER_hdeACP,,99.1,4H2W, or :C,AU,,cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1),,auto_root.mge,c,1.0,-,0.56892,"0,0,0","0,0,1",0,PDB-homolog,0,metabolism
+MG_287_MONOMER_myrsACP,,99.1,4H2W, or :C,AU,,Myristoyl-ACP (n-C14:0ACP),,auto_root.mge,c,1.0,-,0.56892,"0,0,0","0,0,1",0,PDB-homolog,0,metabolism
+MG_287_MONOMER_ocdcaACP,,99.1,4H2W, or :C,AU,,Octadecanoyl-ACP (n-C18:0ACP),,auto_root.mge,c,1.0,-,0.56892,"0,0,0","0,0,1",0,PDB-homolog,0,metabolism
+MG_287_MONOMER_octeACP,,99.1,4H2W, or :C,AU,,cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1),,auto_root.mge,c,1.0,-,0.56892,"0,0,0","0,0,1",0,PDB-homolog,0,metabolism
+MG_287_MONOMER_palmACP,,99.1,4H2W, or :C,AU,,Palmitoyl-ACP (n-C16:0ACP),,auto_root.mge,c,1.0,-,0.56892,"0,0,0","0,0,1",0,PDB-homolog,0,metabolism
+MG_287_MONOMER_tdeACP,,99.1,4H2W, or :C,AU,,cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1),,auto_root.mge,c,1.0,-,0.56892,"0,0,0","0,0,1",0,PDB-homolog,0,metabolism
+MG_289_290_291_PENTAMER,220139,77.075988174,2ONK, or :A or :B or :C or :D or :E,AU,,phosphonate ABC transporter,TRUE,auto_root.mge,m,1.0,-,0.548329,"0,0,0","0,0,1",23,PDB-homolog,0,protein transport/singaling
+MG_292_TETRAMER,410504,100.0,3WQY, or :A or :B,AU,,alanyl-tRNA synthetase,,auto_root.mge,c,1.0,-,0.502888,"0,0,0","0,0,1",17,PDB-homolog,0,RNA synthesis/maturation
+MG_293_DIMER,57080.4,99.59016393,3QVQ,,BU1,,glycerophosphoryl diester phosphodiesterase family protein,,auto_root.mge,c,1.0,-,0.551852,"0,0,0","0,0,1",36,PDB-homolog,0,metabolism
+MG_295_MONOMER_ox,,100.0,2DER, or :A,AU,,oxidized tRNA U34 sulfurtransferase,,auto_root.mge,c,1.0,-,0.481789,"0,0,0","0,0,1",0,PDB-homolog,0,RNA synthesis/maturation
+MG_299_DIMER,70193,99.6875,1TD9,,BU1,,phosphate acetyltransferase,,auto_root.mge,c,1.0,-,0.536889,"0,0,0","0,0,1",28,PDB-homolog,0,metabolism
+MG_301_TETRAMER,148391,100.0,1ZNQ,,BU1,,glyceraldehyde-3-phosphate dehydrogenase; type I,,auto_root.mge,c,1.0,-,0.59089,"0,0,0","0,0,1",21,PDB-homolog,0,metabolism
+MG_302_303_304_TETRAMER,142967,88.24078492,5X3X,,AU,,metal ion (cobalt) ABC transporter,TRUE,auto_root.mge,m,1.0,-,0.501665,"-3,8,-37","0,0,1",12,PDB-homolog,0,protein transport/singaling
+MG_316_DIMER,84527.4,0.945257453,5aym,,AU,,DNA internalization-related competence protein ComEC/Rec2,TRUE,auto_root.mge,m,1.0,-,-1,"0,0,0","0,0,1",35,PDB-homolog,0,DNA replication/maintenance
+MG_322_323_TETRAMER,173094,97.52853962500001,4j7c,,AU,,potassium uptake protein; TrkH family; putative,TRUE,auto_root.mge,m,1.0,-,-1,"0,0,0","0,0,1",13,PDB-homolog,0,protein transport/singaling
+MG_333_DIMER,43261.2,99.9,3W77,,BU1,,FMN-dependent NADH-azoreductase; putative,,auto_root.mge,c,1.0,-,0.504236,"0,0,0","0,0,1",15,PDB-homolog,0,metabolism
+MG_336_DIMER,92491.2,98.03921569,1JF9,,BU1,,cysteine desulfurase,,auto_root.mge,c,1.0,-,0.560153,"0,0,0","0,0,1",13,PDB-homolog,0,metabolism
+MG_346_DIMER,37511.4,93.97590361,1GZ0,,BU1,,23S rRNA methyltransferase,,auto_root.mge,c,1.0,-,0.558036,"0,0,0","0,0,1",15,PDB-homolog,0,RNA synthesis/maturation
+MG_347_DIMER,49113.4,98.94857143,2FCA,,BU1,,tRNA (guanine-N(7)-)-methyltransferase,,auto_root.mge,c,1.0,-,0.526161,"0,0,0","0,0,1",14,PDB-homolog,0,RNA synthesis/maturation
+MG_349_HEXAMER,281062,61.38613861000001,5WTN,,BU1,,Replication initiation/membrane attachment protein,,auto_root.mge,c,1.0,-,0.584537,"0,0,0","0,0,1",11,PDB-homolog,0,DNA replication/maintenance
+MG_351_HEXAMER,127642,89.67391304,5LS0,,BU1,,inorganic pyrophosphatase,,auto_root.mge,c,1.0,-,0.531652,"0,0,0","0,0,1",12,PDB-homolog,0,metabolism
+MG_352_DIMER,38390.6,98.79518072,2FCO,,1,,Holliday junction endonuclease,,auto_root.mge,c,1.0,-,0.568603,"-11,-15,1","0.74,-0.67,0.09",14,PDB-homolog,1,DNA replication/maintenance
+MG_353_DIMER,24735.2,85.15045872,6N2L,,BU1,,DNA-binding protein HU; putative,,auto_root.mge,c,1.0,-,0.190625,"0,0,0","0,0,1",20,PDB-homolog,1,DNA replication/maintenance
+MG_355_HEXAMER,484000,99.85994397999998,6AZY,,BU1,,ATP-dependent Clp protease; ATPase subunit,,auto_root.mge,c,1.0,-,0.496703,"0,0,0","0,0,1",14,PDB-homolog,0,protein folding/maturation
+MG_357_DIMER,88319.6,99.49109415,2IIR,,BU1,,acetate kinase,,auto_root.mge,c,1.0,-,0.575585,"0,0,0","0,0,1",58,PDB-homolog,0,metabolism
+MG_358_359_10MER,304161,96.231337094,7OA5, or :A or :B or :C or :D or :E or :F or :G or :H,AU,,Holliday junction DNA helicase,,auto_root.mge,c,1.0,-,-1,"0,0,0","0,0,1",16,PDB-homolog,1,DNA replication/maintenance
+MG_367_DIMER,59931,84.35114504,3C4B,,BU1,,ribonuclease III,,auto_root.mge,c,1.0,-,-1,"0,0,0","0,0,1",20,PDB-homolog,0,RNA synthesis/maturation
+MG_368_DIMER,73004.4,100.0,1VI1,,BU1,,fatty acid/phospholipid synthesis protein PlsX,,auto_root.mge,c,1.0,-,0.490047,"0,0,0","0,0,1",20,PDB-homolog,0,metabolism
+MG_369_DIMER,124958,37.52244165,1uoe,,AU,,DAK2 phosphatase domain protein,,auto_root.mge,c,1.0,-,-1,"0,0,0","0,0,1",16,PDB-homolog,0,metabolism
+MG_372_DIMER,88353,98.7012987,4KR6, or :A or :B,BU1,,thiamine biosynthesis/tRNA modification protein ThiI,,auto_root.mge,c,1.0,-,0.553921,"0,0,0","0,0,1",113,PDB-homolog,0,RNA synthesis/maturation
+MG_375_DIMER,130074,99.64539007,1QF6, or :A,AU,,threonyl-tRNA synthetase,,auto_root.mge,c,1.0,-,0.51835,"0,0,0","0,0,1",114,PDB-homolog,0,RNA synthesis/maturation
+MG_376_HEXAMER,71152.8,99.03846154,2HQL,,BU1,,None,,auto_root.mge,c,1.0,-,0.502464,"0,0,0","0,0,1",17,PDB-homolog,0,DNA replication/maintenance
+MG_382_TETRAMER,95976,98.96197183,3W34,,BU1,,uridine kinase,,auto_root.mge,c,1.0,-,0.51161,"0,0,0","0,0,1",7,PDB-homolog,0,metabolism
+MG_383_DIMER,56007,96.77419355,3FIU,,BU1,,NH(3)-dependent NAD+ synthetase; putative,,auto_root.mge,c,1.0,-,0.536318,"0,0,0","0,0,1",9,PDB-homolog,0,metabolism
+MG_385_DIMER,54722.2,99.57627119,3QVQ,,BU1,,glycerophosphoryl diester phosphodiesterase family protein,,auto_root.mge,c,1.0,-,0.551852,"0,0,0","0,0,1",18,PDB-homolog,0,metabolism
+MG_390_DIMER,150897,99.6969697,4RY2,,AU,,toxin ABC transporter; ATP-binding/permease protein,TRUE,auto_root.mge,m,1.0,-,0.361859,"0,0,0","0,0,1",15,PDB-homolog,0,protein transport/singaling
+MG_391_HEXAMER,292410,93.51230425,3H8E,,AU,,cytosol aminopeptidase,,auto_root.mge,c,1.0,-,0.56134,"0,0,0","0,0,1",26,PDB-homolog,0,protein folding/maturation
+MG_392_393_21MER,902346,97.29929906333334,1AON,,BU1,,GroEL-GroES chaperonin complex,,auto_root.mge,c,1.0,-,0.44962,"0,0,0","0,0,1",9,PDB-homolog,0,protein folding/maturation
+MG_394_TETRAMER,178254,98.76847291,2DKJ,,BU1,,serine hydroxymethyltransferase,,auto_root.mge,c,1.0,-,0.526736,"0,0,0","0,0,1",15,PDB-homolog,0,metabolism
+MG_396_DIMER,33786.6,100.0,6mu0,,2,,ribose 5-phosphate isomerase B,,auto_root.mge,c,1.0,-,-1,"0,0,0","0,0,1",24,PDB-homolog,0,metabolism
+MG_398_399_400_401_402_403_404_405_22MER,584095,87.56381306136363,5T4O,,AU,,H(+)-transporting two-sector ATPase,TRUE,auto_root.mge,m,1.0,-,0.0273324,"0,0,99","-0.04,-0.19,-0.98",11,PDB-homolog,0,metabolism
+MG_407_DIMER,98921.2,96.72489083,1W6T,,AU,,enolase,,auto_root.mge,c,1.0,-,0.534966,"0,0,0","0,0,1",34,PDB-homolog,0,metabolism
+MG_409_DIMER,54084.4,97.58222222,4Q25,,BU1,,phosphate transport system regulatory protein PhoU; putative,,auto_root.mge,c,1.0,-,0.532853,"0,0,0","0,0,1",17,PDB-homolog,0,protein transport/singaling
+MG_410_411_412_PENTAMER,261305,70.20293825600001,5WNN,,AU,,phosphate ABC transporter,TRUE,auto_root.mge,m,1.0,-,0.545055,"0,0,0","0,0,1",15,PDB-homolog,0,protein transport/singaling
+MG_425_DIMER,101763,82.18262806,5IVL,,BU1,,ATP-dependent RNA helicase,,auto_root.mge,c,1.0,-,0.534541,"0,0,0","0,0,1",13,PDB-homolog,0,RNA synthesis/maturation
+MG_427_DIMER,30833,99.9,3EER,,BU1,,osmotically inducible peroxidase,,auto_root.mge,c,1.0,-,0.429368,"0,0,0","0,0,1",18,PDB-homolog,0,host cell interaction
+MG_427_DIMER_ox,,99.9,3EER,,BU1,,oxidized osmotically inducible peroxidase,,auto_root.mge,c,1.0,-,0.429368,"0,0,0","0,0,1",0,PDB-homolog,0,host cell interaction
+MG_428_DIMER,39774,96.97894737,4NQW,,1,,LuxR bacterial regulatory protein; putative,,auto_root.mge,c,1.0,-,0.501471,"-4,-21,13","0,0,1",11,PDB-homolog,1,transcription
+MG_431_DIMER,54316.2,99.59016393,1B9B,,BU1,,triosephosphate isomerase,,auto_root.mge,c,1.0,-,0.550235,"0,0,0","0,0,1",29,PDB-homolog,0,metabolism
+MG_433_DIMER,67784.6,100.0,1EFU,,BU1,,translation elongation factor Ts,,auto_root.mge,c,1.0,-,0.523408,"0,0,0","0,0,1",144,PDB-homolog,0,translation
+MG_434_HEXAMER,160408,99.58847737,2BND,,BU1,,uridylate kinase,,auto_root.mge,c,1.0,-,0.572849,"0,0,0","0,0,1",11,PDB-homolog,0,metabolism
+MG_437_DIMER,85987.6,94.20654912,4Q2G,,AU,,phosphatidate cytidylyltransferase,TRUE,auto_root.mge,m,1.0,-,0.516501,"0,0,0","0,0,1",25,PDB-homolog,0,metabolism
+MG_445_DIMER,52584.4,99.13419913,4MCD,,BU1,,tRNA (guanine-N1)-methyltransferase,,auto_root.mge,c,1.0,-,0.462861,"0,0,0","0,0,1",105,PDB-homolog,0,RNA synthesis/maturation
+MG_451_DIMER,85980.4,99.74619289,1EFU,,BU1,,translation elongation factor Tu,,auto_root.mge,c,1.0,-,0.523408,"0,0,0","0,0,1",119,PDB-homolog,0,translation
+MG_453_TETRAMER,130056,99.65753425,2UX8,,BU1,,UTP-glucose-1-phosphate uridylyltransferase,,auto_root.mge,c,1.0,-,0.565212,"0,0,0","0,0,1",13,PDB-homolog,0,metabolism
+MG_454_DIMER,34752.2,90.23225806,6D9N,,BU1,,thiol-dependent peroxidase,,auto_root.mge,c,1.0,-,0.564117,"0,0,0","0,0,1",19,PDB-homolog,0,host cell interaction
+MG_454_DIMER_ox,,90.23225806,6D9N,,BU1,,oxidized thiol-dependent peroxidase,,auto_root.mge,c,1.0,-,0.564117,"0,0,0","0,0,1",0,PDB-homolog,0,host cell interaction
+MG_455_DIMER,89636.4,99.24242424,1H3E,,BU1,,tyrosyl-tRNA synthetase,,auto_root.mge,c,1.0,-,0.508762,"0,0,0","0,0,1",121,PDB-homolog,0,RNA synthesis/maturation
+MG_457_HEXAMER,454793,63.390313389999996,6AZ0, or :B,AU,,ATP-dependent metalloprotease FtsH,TRUE,auto_root.mge,m,1.0,-,0.457512,"0,13,-55","0.01,-0.21,1",77,PDB-homolog,0,protein folding/maturation
+MG_458_TETRAMER,79036.4,99.9,3H83,,BU1,,hypoxanthine phosphoribosyltransferase,,auto_root.mge,c,1.0,-,0.571863,"0,0,0","0,0,1",18,PDB-homolog,0,metabolism
+MG_460_TETRAMER,135864,99.67948718,4Q3N,,BU1,,L-lactate dehydrogenase/malate dehydrogenase,,auto_root.mge,c,1.0,-,0.576576,"0,0,0","0,0,1",19,PDB-homolog,0,metabolism
+MG_467_468_526_TETRAMER,463732,58.7706008925,5XU1,,AU,,salivaricin A ABC transporter,TRUE,auto_root.mge,m,1.0,-,0.466816,"1,-1,0","0,0,1",15,PDB-homolog,0,protein transport/singaling
+MG_469_1MER_ADP,,98.85583524,3R8F, or :A,AU,,DnaA-ADP,,auto_root.mge,c,1.0,-,-1,"10,33,36","0.25,0.93,0.28",0,PDB-homolog,1,DNA replication/maintenance
+MG_469_1MER_ATP,,98.85583524,3R8F, or :A,AU,,DnaA-ATP,,auto_root.mge,c,1.0,-,-1,"2,23,31","0.18,0.94,0.29",0,PDB-homolog,1,DNA replication/maintenance
+MG_469_2MER_1ATP_ADP,,98.85583524,3R8F, or :A or :B ,AU,,DnaA 2mer-(1)ATP-(1)ADP,,auto_root.mge,c,1.0,-,-1,"16,30,38","0.15,0.87,0.46",0,PDB-homolog,1,DNA replication/maintenance
+MG_469_2MER_ATP,,98.85583524,3R8F, or :A or :B ,AU,,DnaA-ATP 2mer,,auto_root.mge,c,1.0,-,-1,"16,30,30","0.13,0.88,0.45",0,PDB-homolog,1,DNA replication/maintenance
+MG_469_3MER_2ATP_ADP,,98.85583524,3R8F, or :A or :B or :C ,AU,,DnaA 3mer-(2)ATP-(1)ADP,,auto_root.mge,c,1.0,-,-1,"24,10,9","-0.14,0.91,0.39",0,PDB-homolog,1,DNA replication/maintenance
+MG_469_3MER_ATP,,98.85583524,3R8F, or :A or :B or :C ,AU,,DnaA-ATP 3mer,,auto_root.mge,c,1.0,-,-1,"23,-27,12","-0.33,0.6,0.73",0,PDB-homolog,1,DNA replication/maintenance
+MG_469_4MER_3ATP_ADP,,98.85583524,3R8F, or :A or :B or :C or :D ,AU,,DnaA 4mer-(3)ATP-(1)ADP,,auto_root.mge,c,1.0,-,-1,"23,2,2","0.17,0.94,0.28",0,PDB-homolog,1,DNA replication/maintenance
+MG_469_4MER_ATP,,98.85583524,3R8F, or :A or :B or :C or :D ,AU,,DnaA-ATP 4mer,,auto_root.mge,c,1.0,-,-1,"22,9,3","0.08,0.94,0.34",0,PDB-homolog,1,DNA replication/maintenance
+MG_469_5MER_4ATP_ADP,,98.85583524,3R8F, or :A or :B or :C or :D ,AU,,DnaA 5mer-(4)ATP-(1)ADP,,auto_root.mge,c,1.0,-,-1,"23,2,7","0.16,0.92,0.36",0,PDB-homolog,1,DNA replication/maintenance
+MG_469_5MER_ATP,,98.85583524,3R8F, or :A or :B or :C or :D ,AU,,DnaA-ATP 5mer,,auto_root.mge,c,1.0,-,-1,"24,0,-2","0.01,0.92,0.4",0,PDB-homolog,1,DNA replication/maintenance
+MG_469_6MER_5ATP_ADP,,98.85583524,3R8F, or :A or :B or :C or :D ,AU,,DnaA 6mer-(5)ATP-(1)ADP,,auto_root.mge,c,1.0,-,-1,"26,5,-1","-0.06,0.91,0.41",0,PDB-homolog,1,DNA replication/maintenance
+MG_469_6MER_ATP,,98.85583524,3R8F, or :A or :B or :C or :D ,AU,,DnaA-ATP 6mer,,auto_root.mge,c,1.0,-,-1,"23,13,3","0.16,0.93,0.32",0,PDB-homolog,1,DNA replication/maintenance
+MG_469_7MER_6ATP_ADP,,98.85583524,3R8F, or :A or :B or :C or :D ,AU,,DnaA 7mer-(6)ATP-(1)ADP,,auto_root.mge,c,1.0,-,-1,"20,15,-1","0.12,0.91,0.39",0,PDB-homolog,1,DNA replication/maintenance
+MG_469_7MER_ATP,,98.85583524,3R8F, or :A or :B or :C or :D ,AU,,DnaA-ATP 7mer,,auto_root.mge,c,1.0,-,-1,"22,8,0","0,0.96,0.29",0,PDB-homolog,1,DNA replication/maintenance
+MG_482_DIMER,25561.6,99.02368421,3GWM,,BU1,,holo-(acyl-carrier-protein) synthase,,auto_root.mge,c,1.0,-,0.437448,"0,0,0","0,0,1",22,PDB-homolog,0,metabolism
+REPLISOME,,91.08927381129631,4NMN,,BU1,,Replisome,,auto_root.mge,c,1.0,-,0.491809,"0,0,0","0,0,1",0,PDB-homolog,0,DNA replication/maintenance
+RIBOSOME_30S,,91.48346184399999,4V69, or :AJ or :AK or :AL or :AM or :AN or :AO or :AP or :AQ or :AR or :AS or :AT or :AU or :AB or :AC or :AD or :AE or :AF or :AG or :AH or :AI,AU,,30S ribosomal subunit,,auto_root.mge,c,1.0,-,0.274255,"0,0,0","0,0,1",0,PDB-homolog,0,translation
+RIBOSOME_30S_IF3,,93.92265193,5LMO, or :B or :C or :D or :E or :F or :G or :H or :I or :J or :K or :L or :M or :N or :O or :P or :Q or :R or :S or :T or :V or :W or :X or :Y,AU,,30S ribosomal subunit - translation initiation factor IF-3 complex,,auto_root.mge,c,1.0,-,0.415696,"0,0,0","0,0,1",0,PDB-homolog,0,translation
+RIBOSOME_50S,,95.1317780065625,4V69, or :B5 or :BI or :BJ or :BK or :BL or :BM or :BN or :BO or :BP or :BQ or :BR or :BS or :BT or :BU or :BV or :BW or :BX or :BY or :BC or :BZ or :B0 or :B1 or :B2 or :B3 or :B4 or :BD or :BE or :BF or :BG or :BH or :BB or :BA,AU,,50S ribosomal subunit,,auto_root.mge,c,1.0,-,0.274255,"0,0,0","0,0,1",16,PDB-homolog,0,translation
+RIBOSOME_70S,,93.30761992528124,4V69,,AU,,70S ribosome,,auto_root.mge,c,1.0,-,0.274255,"0,0,0","0,0,1",0,PDB-homolog,0,translation
+RNA_POLYMERASE,391197,91.70256544,3IYD, or :A or :B or :C or :D or :E,AU,,DNA-directed RNA polymerase,,auto_root.mge,c,1.0,-,0.313057,"0,0,0","0,0,1",0,PDB-homolog,0,transcription
+RNA_POLYMERASE_HOLOENZYME,448300,83.376433625,3IYD, or :A or :B or :C or :D or :E or :F,AU,,DNA-directed RNA polymerase holoenzyme,,auto_root.mge,c,1.0,-,0.313057,"-3,9,-3","0.11,-0.23,-0.97",0,PDB-homolog,0,transcription
+MG_001_MONOMER,44294.5,100.0,5FKW, or :B,AU,P47247,DNA polymerase III; beta subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",64.0,PDB-homolog,0,DNA replication/maintenance
+MG_002_MONOMER,36260.3,98.38709677,3LZ8, or :A,AU,P47248,DnaJ domain protein,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",68.0,PDB-homolog,0,protein folding/maturation
+MG_003_MONOMER,72674.4,99.53846154,6RKW, or :B,AU,P47249,DNA gyrase; B subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",17.0,PDB-homolog,0,DNA replication/maintenance
+MG_004_MONOMER,93681.6,86.12440191,6RKW, or :A,AU,P47250,DNA gyrase; A subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,DNA replication/maintenance
+MG_005_MONOMER,47614.8,100.0,1WLE, or :A,AU,P47251,seryl-tRNA synthetase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,RNA synthesis/maturation
+MG_006_MONOMER,24248.1,98.47285714,2PLR, or :B,AU,P47252,thymidylate kinase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_007_MONOMER,28819.4,93.60708661,1JR3, or :E,AU,P47253,DNA polymerase III delta prime subunit; putative,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",320.0,PDB-homolog,0,DNA replication/maintenance
+MG_008_MONOMER,50620.1,100.0,3GEH, or :A,AU,P47254,tRNA modification GTPase TrmE,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",297.0,PDB-homolog,0,RNA synthesis/maturation
+MG_009_MONOMER,29814.7,99.61832061,1ZZM, or :A,AU,P47255,deoxyribonuclease,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",324.0,PDB-homolog,0,DNA replication/maintenance
+MG_010_MONOMER,24535.5,99.44174312,4EDK, or :A,AU,P47256,DNA primase-related protein,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,DNA replication/maintenance
+MG_011_MONOMER,32874.7,94.42508711,3VPB, or :C,AU,P47257,alpha-L-glutamate ligase; S6 ribosomal protein modification,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",29.0,PDB-homolog,0,protein folding/maturation
+MG_012_MONOMER,32360.5,99.65156794,3VPB, or :C,AU,P47258,alpha-L-glutamate ligase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",29.0,PDB-homolog,0,protein folding/maturation
+MG_013_MONOMER,29712.6,98.53479853,4CJX, or :B,AU,P47259,methylenetetrahydrofolate dehydrogenase/methylenetetrahydrofolate cyclohydrolase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_014_MONOMER,69164.4,99.51845907,4Q4H, or :A,AU,P47260,multidrug ABC transporter; ATP-binding/permease protein,TRUE,auto_root.mge,m,0.5,-,-1,"12,-4,-37","0,0,1",0.0,PDB-homolog,0,protein transport/singaling
+MG_015_MONOMER,65381.1,99.66044143,4Q4H, or :B,AU,P47261,multidrug ABC transporter; ATP-binding/permease protein,TRUE,auto_root.mge,m,0.5,-,-1,"-9,5,-38","0,0,1",0.0,PDB-homolog,0,protein transport/singaling
+MG_018_MONOMER,118433,45.29582929,6FML, or :G,AU,P47264,SNF2 family helicase putative,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",7.0,PDB-homolog,0,DNA replication/maintenance
+MG_019_MONOMER,43745.8,95.88688946,3LZ8, or :B,AU,P47265,chaperone protein DnaJ,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,protein folding/maturation
+MG_020_MONOMER,34544.4,100.0,1AZW, or :A,AU,P47266,proline iminopeptidase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",31.0,PDB-homolog,0,protein folding/maturation
+MG_021_MONOMER,58331.5,100.0,1RQG, or :A,AU,P47267,methionyl-tRNA synthetase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,RNA synthesis/maturation
+MG_022_MONOMER,16684.6,61.25655172,2M4K, or :A/0,AU,P47268,DNA-directed RNA polymerase; delta subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",197.0,PDB-homolog,0,transcription
+MG_023_MONOMER,31124,100.0,4TO8, or :A,AU,P47269,fructose-1;6-bisphosphate aldolase; class II,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_024_MONOMER,40639.2,99.72752044,1JAL, or :A,AU,P47270,GTP-binding protein YchF,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",256.0,PDB-homolog,0,translation
+MG_025_MONOMER,34671.5,73.41644295,3BCV, or :B,AU,P47271,Beta-glycosyl transferase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",6.0,PDB-homolog,0,metabolism
+MG_026_MONOMER,21914.2,100.0,3OYY, or :A,AU,P47272,translation elongation factor P,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",106.0,PDB-homolog,0,translation
+MG_027_MONOMER,17294.2,100.0,1Q8C, or :A,BU1,P47273,transcription termination/antitermination protein NusB,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",102.0,PDB-homolog,0,transcription
+MG_028_MONOMER,22679.6,57.5800995,5GJV, or :E,AU,P47274,,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",167.0,PDB-homolog,0,MG-specific
+MG_029_MONOMER,20884.3,97.84946237,4K2H, or :A,AU,P47275,DJ-1/PfpI family protein,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_030_MONOMER,22973,100.0,1V9S, or :C,AU,P47276,uracil phosphoribosyltransferase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",2.0,PDB-homolog,0,metabolism
+MG_031_MONOMER,165265,84.90696072,3F2B, or :A,AU,P47277,DNA polymerase III; alpha subunit; Gram-positive type,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",37.0,PDB-homolog,0,DNA replication/maintenance
+MG_032_MONOMER,75626.7,10.04324324,4WIJ, or :B,AU,P47278,cell adhesion protein/membrane export protein,,auto_root,e,0.0,-,-1,"0,0,0","0,0,1",2.0,PDB-homolog,0,cytokinesis/motility
+MG_033_MONOMER,26363.1,99.2248062,3IYZ, or :A,AU,P47279,glycerol uptake facilitator,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,protein transport/singaling
+MG_034_MONOMER,23728.3,92.48826291,3E2I, or :A,AU,P47280,thymidine kinase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_035_MONOMER,47392.8,99.51690821,1QE0, or :B,AU,P47281,histidyl-tRNA synthetase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,RNA synthesis/maturation
+MG_036_MONOMER,62933.9,99.09090909,4AH6, or :A,AU,P47282,aspartyl-tRNA synthetase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,RNA synthesis/maturation
+MG_037_MONOMER,51242.1,96.88888889,6E68, or :B,AU,P47283,nicotinate phosphoribosyltransferase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",23.0,PDB-homolog,0,metabolism
+MG_038_MONOMER,54480.9,99.21259843,3H3N, or :O,AU,P47284,glycerol kinase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_039_MONOMER,41864.6,100.0,4X9M, or :A,AU,P47285,FAD-dependent glycerol-3-phosphate dehydrogenase; putative,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_040_MONOMER,63274.8,73.69949239,4fi3, or :F,AU,P47286,Monosaccharide (riboside/galactoside) ABC transporter; substrate binding protein,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,protein transport/singaling
+MG_041_MONOMER,9410,98.76477273,2xdf, or :C,AU,P47287,PTS system; HPr,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",69.0,PDB-homolog,0,metabolism
+MG_042_MONOMER,64261.4,99.46332737,3puz, or :A,AU,P47288,spermidine/putrescine (polyamine) ABC transporter; ATP-binding protein; putative,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,protein transport/singaling
+MG_043_MONOMER,31356.3,97.44631579,3puz, or :F,AU,P47289,spermidine/putrescine (polyamine) ABC transporter; permease protein; putative,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",26.0,PDB-homolog,0,protein transport/singaling
+MG_044_MONOMER,31296.3,97.78943662,3puz, or :G,AU,P47290,spermidine/putrescine (polyamine) ABC transporter; permease protein; putative,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",20.0,PDB-homolog,0,protein transport/singaling
+MG_045_MONOMER,53758.3,93.16770186,3puz, or :E,AU,P47291,spermidine/putrescine (polyamine) ABC transporter; spermidine/putrescine binding protein; putative,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",6.0,PDB-homolog,0,protein transport/singaling
+MG_046_MONOMER,34521.8,99.68253968,4K25, or :A,AU,P47292,metalloendopeptidase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,RNA synthesis/maturation
+MG_047_MONOMER,41970.9,97.12793734,1RG9, or :B,AU,P47293,S-adenosylmethionine synthetase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_048_MONOMER,49640.4,97.08520179,3DM5, or :A,AU,P47294,signal recognition particle protein,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,protein transport/singaling
+MG_049_MONOMER,26322.8,99.57983193,1Z34, or :A,AU,P47295,purine nucleoside phosphorylase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",5.0,PDB-homolog,0,metabolism
+MG_050_MONOMER,24674.7,95.51569507,3NGJ, or :A,AU,P47296,deoxyribose-phosphate aldolase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",114.0,PDB-homolog,0,metabolism
+MG_051_MONOMER,46168.9,100.0,2DSJ, or :B,AU,P47297,pyrimidine-nucleoside phosphorylase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_052_MONOMER,14974.4,99.9,2D30, or :B,AU,P47298,cytidine deaminase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_053_MONOMER,63025,92.90909091,3UW2, or :A,AU,P47299,phosphoglucomutase/phosphomannomutase; putative,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_054_MONOMER,36136.5,98.63544304,5TBZ, or :J,AU,P47300,transcription antitermination protein NusG; putative,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",205.0,PDB-homolog,0,transcription
+MG_055_MONOMER,14088,46.91869919,5mg3, or :E,AU,P47301,preprotein translocase; SecE subunit,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",242.0,PDB-homolog,0,protein transport/singaling
+MG_056_MONOMER,31708.7,99.63898917,3KWP, or :A,AU,P47302,tetrapyrrole (corrin/porphyrin) methylase protein,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",10.0,PDB-homolog,0,RNA synthesis/maturation
+MG_057_MONOMER,20124.6,63.29269663,2FCJ, or :A,AU,P47303,small primase-like protein,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",11.0,PDB-homolog,0,RNA synthesis/maturation
+MG_058_MONOMER,37512.6,96.08433735,5MP7, or :A,AU,P47304,ribose-phosphate pyrophosphokinase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_059_MONOMER,16678.7,100.0,1P6V, or :A,AU,P47305,SsrA-binding protein,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",26.0,PDB-homolog,0,translation
+MG_060_MONOMER,34296.8,84.42727273,5TZJ, or :C,AU,P47306,glycosyl transferase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",11.0,PDB-homolog,0,protein folding/maturation
+MG_061_MONOMER,61518.8,95.41446208,4LDS, or :A,AU,P47307,Mycoplasma MFS transporter,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",31.0,PDB-homolog,0,protein transport/singaling
+MG_062_MONOMER,73903.7,58.97058824,3QNQ, or :A,AU,P47308,PTS system; fructose-specific IIABC component,TRUE,auto_root.mge,m,0.5,-,-1,"19,-3,-2","0,0,1",34.0,PDB-homolog,0,protein transport/singaling
+MG_063_MONOMER,33549.3,98.01980198,2JGV, or :B,AU,Q49396,1-phosphofructokinase; putative,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_064_MONOMER,146778,54.45672427,5XU1, or :B,AU,P47310,ABC transporter; permease protein; putative,TRUE,auto_root.mge,m,0.5,-,-1,"17,5,-43","0,0,1",23.0,PDB-homolog,0,protein transport/singaling
+MG_065_MONOMER,53450.5,51.28755365,5XU1, or :A,AU,P47311,ABC transporter; ATP-binding protein,,auto_root.mge,c,0.5,-,-1,"1,-1,0","0,0,1",0.0,PDB-homolog,0,protein transport/singaling
+MG_066_MONOMER,73598.9,99.69135802,4C7V, or :A,AU,P47312,transketolase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_067_MONOMER,57945.9,11.70872093,1LCY, or :B,AU,P47313,lipoprotein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"2.32e-16,-2e-17,40","0,0,1",33.0,PDB-homolog,0,lipoprotein
+MG_068_MONOMER,54631.2,10.32911392,1LCY, or :B,AU,P47314,lipoprotein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"2.32e-16,-2e-17,40","0,0,1",45.0,PDB-homolog,0,lipoprotein
+MG_069_MONOMER,96164.8,67.07048458,5IWS, or :A,AU,P47315,PTS system; glucose-specific IIABC component,TRUE,auto_root.mge,m,0.5,-,-1,"18,-6,4","0,0,1",30.0,PDB-homolog,0,metabolism
+MG_070_MONOMER,32374.3,89.43661972,5O61, or :BV,AU,P47316,ribosomal protein S2,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",132.0,PDB-homolog,0,translation
+MG_071_MONOMER,94827.8,99.77116705,6A69, or :A,AU,P47317,ATPase; P-type (transporting); HAD superfamily; subfamily IC,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",13.0,PDB-homolog,0,protein transport/singaling
+MG_072_MONOMER,91212.6,96.77419355,2IPC, or :D,AU,P47318,preprotein translocase; SecA subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,protein transport/singaling
+MG_073_MONOMER,75201.7,97.56097561,3uwx, or :B,AU,P47319,excinuclease ABC; B subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,DNA replication/maintenance
+MG_074_MONOMER,16243.9,3.36350365,5D0O, or :E,AU,P47320,related to MG075,,auto_root,e,0.0,-,-1,"0,0,0","0,0,1",50.0,PDB-homolog,0,host cell interaction
+MG_075_MONOMER,116052,2.925,6G04, or :A/0,AU,P47321,116 kDa surface antigen,TRUE,auto_root.mge,m,0.0,-,-1,"-22,29,1","-0.9,0.41,-0.15",10.0,PDB-homolog,0,host cell interaction
+MG_076_MONOMER,15866.7,29.04130435,6C26, or :3,AU,P47322,,TRUE,auto_root.mge,m,0.0,-,-1,"-22,29,1","-0.9,0.41,-0.15",19.0,PDB-homolog,0,MG-specific
+MG_077_MONOMER,45092.3,55.41719902,4tqu, or :N,AU,P47323,oligopeptide ABC transporter; permease protein,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",13.0,PDB-homolog,0,protein transport/singaling
+MG_078_MONOMER,40171.5,94.32047872,4tqu, or :M,AU,P47324,oligopeptide ABC transporter; permease protein,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",10.0,PDB-homolog,0,protein transport/singaling
+MG_079_MONOMER,45307.8,89.55223881,4tqu, or :T,AU,P47325,oligopeptide ABC transporter; ATP-binding protein,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,protein transport/singaling
+MG_080_MONOMER,98269.3,17.06485849,4tqu, or :S,AU,P47326,oligopeptide ABC transporter; ATP-binding protein,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",4.0,PDB-homolog,0,protein transport/singaling
+MG_081_MONOMER,14735.3,99.27007299,5ZET, or :J,AU,P47327,ribosomal protein L11,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",156.0,PDB-homolog,0,translation
+MG_082_MONOMER,24498.8,100.0,4REO, or :A,AU,P47328,ribosomal protein L1,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",128.0,PDB-homolog,0,translation
+MG_083_MONOMER,21833.3,98.41269841,4QT4, or :A,AU,P47329,peptidyl-tRNA hydrolase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",26.0,PDB-homolog,0,RNA synthesis/maturation
+MG_084_MONOMER,34256.3,100.0,3A2K, or :B,AU,P47330,tRNA(Ile)-lysidine synthetase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",2.0,PDB-homolog,0,RNA synthesis/maturation
+MG_085_MONOMER,34685.6,100.0,1KNX, or :A,AU,P47331,HPr(Ser) kinase/phosphatase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",5.0,PDB-homolog,0,metabolism
+MG_086_MONOMER,44058.7,77.7486911,5AZB, or :A,AU,P47332,prolipoprotein diacylglyceryl transferase,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",374.0,PDB-homolog,0,protein folding/maturation
+MG_087_MONOMER,15641.4,98.56115108,5NGM, or :Al,AU,P47333,ribosomal protein S12,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",170.0,PDB-homolog,0,translation
+MG_088_MONOMER,17897,100.0,1HUS, or :A,AU,P47334,ribosomal protein S7,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",190.0,PDB-homolog,0,translation
+MG_089_MONOMER,76166.1,99.85465116,2EFG, or :A,AU,P47335,translation elongation factor G,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,translation
+MG_090_MONOMER,24083.3,44.62211538,3R3T, or :B,AU,P47336,ribosomal protein S6,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",169.0,PDB-homolog,0,translation
+MG_091_MONOMER,17786.8,91.783125,5ODP, or :A,AU,P47337,single-strand binding protein family,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,DNA replication/maintenance
+MG_092_MONOMER,12463.4,67.55142857,5LI0, or :r,AU,P47338,ribosomal protein S18,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",131.0,PDB-homolog,0,translation
+MG_093_MONOMER,17380.4,97.33333333,1DIV, or :A,AU,P47339,ribosomal protein L9,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",167.0,PDB-homolog,0,translation
+MG_094_MONOMER,53698.2,95.94017094,4nmn, or :A,AU,P47340,replicative DNA helicase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,DNA replication/maintenance
+MG_095_MONOMER,44186.6,6.127889447,5CYB,,AU,P47341,lipoprotein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,33","0,0,1",366.0,PDB-homolog,0,lipoprotein
+MG_096_MONOMER,74430,10.72430769,4WIJ, or :B,AU,P47342,,,auto_root,e,0.0,-,-1,"0,0,0","0,0,1",21.0,PDB-homolog,0,cytokinesis/motility
+MG_097_MONOMER,27442.9,93.46938776,3ZOQ, or :A,AU,P47343,uracil-DNA glycosylase; putative,,auto_root.mge,c,0.0,-,-1,"17,-7,2","0.18,-0.04,-0.98",31.0,PDB-homolog,1,DNA replication/maintenance
+MG_098_MONOMER,53673.1,19.00125786,3AL0, or :C,AU,P47344,glutamyl-tRNA(Gln) and/or aspartyl-tRNA(Asn) amidotransferase; C subunit,TRUE,auto_root.mge,m,0.5,-,-1,"0,45,-11","-0.24,0.97,0.08",11.0,PDB-homolog,0,RNA synthesis/maturation
+MG_099_MONOMER,53035.7,99.16142558,3AL0, or :A,AU,P47345,glutamyl-tRNA(Gln) and/or aspartyl-tRNA(Asn) amidotransferase; A subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,RNA synthesis/maturation
+MG_100_MONOMER,54695.3,99.16142558,3AL0, or :B,AU,P47346,glutamyl-tRNA(Gln) and/or aspartyl-tRNA(Asn) amidotransferase; B subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",12.0,PDB-homolog,0,RNA synthesis/maturation
+MG_101_MONOMER,25811.6,99.54954955,4U0W, or :B,AU,P47347,Uncharacterized HTH-type transcriptional regulator,,auto_root.mge,c,0.0,-,-1,"-12,11,-35","0.95,0.15,-0.29",40.0,PDB-homolog,1,transcription
+MG_102_MONOMER,34674,100.0,3F8D, or :B,AU,P47348,thioredoxin-disulfide reductase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_103_MONOMER,32305.4,100.0,3HYI, or :A,AU,P47349,transcriptional regulator; putative,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",33.0,PDB-homolog,0,transcription
+MG_104_MONOMER,82340.5,88.55172414,5XGU, or :B,AU,P47350,ribonuclease R,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",34.0,PDB-homolog,0,RNA synthesis/maturation
+MG_105_MONOMER,22468.2,87.0,4RV7, or :C,AU,P47351,putative DNA integrity scanning protein,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",4.0,PDB-homolog,0,DNA replication/maintenance
+MG_106_MONOMER,22097.5,95.85492228,3U04, or :A,AU,P47352,peptide deformylase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,protein folding/maturation
+MG_107_MONOMER,22127.5,93.02857143,4YER, or :A,AU,P47353,guanylate kinase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_108_MONOMER,29587.8,99.23076923,5F1M, or :A,AU,P47354,Ser/Thr protein phosphatase 2C; putative,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",40.0,PDB-homolog,0,protein transport/singaling
+MG_109_MONOMER,44067.5,90.43927649,4X3F, or :C,AU,P47355,serine/threonine protein kinase; putative,TRUE,auto_root.mge,m,0.5,-,-1,"-42,22,-7","0.82,-0.57,-0.08",0.0,PDB-homolog,0,protein transport/singaling
+MG_110_MONOMER,31588.1,99.64028777,2YV5, or :A,AU,P47356,ribosome small subunit-dependent GTPase A,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",40.0,PDB-homolog,0,protein folding/maturation
+MG_111_MONOMER,49158.8,99.30715935,3FF1, or :B,AU,P47357,glucose-6-phosphate isomerase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_112_MONOMER,24100,97.51004785,3CU2, or :A,AU,P47358,ribulose-phosphate 3-epimerase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_113_MONOMER,51713.7,99.12280702,4EX5, or :B,AU,P47359,asparaginyl-tRNA synthetase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,RNA synthesis/maturation
+MG_114_MONOMER,26211.3,90.49661017,5D91,,AU,P47360,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,TRUE,auto_root.mge,m,0.5,-,-1,"11,1,-22","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_115_MONOMER,16985.5,97.9910828,5KOL, or :B,AU,P47361,competence/damage-inducible protein CinA domain protein,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,DNA replication/maintenance
+MG_116_MONOMER,28834.2,99.50199203,2YC3, or :A,AU,P47362,glycosyl transferase/terpenoid synthesis; putative,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",27.0,PDB-homolog,0,metabolism
+MG_117_MONOMER,24579.6,6.067757009,3FSL, or :A,AU,P47363,transcription factor; putative zinc-finger domain,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",35.0,PDB-homolog,0,transcription
+MG_118_MONOMER,38052.9,99.11764706,1WVG, or :A,BU1,P47364,UDP-glucose 4-epimerase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_119_MONOMER,62901.7,99.64539007,4fi3, or :C,AU,P47365,Monosaccharide (riboside/galactoside) ABC transporter; ATP-binding protein,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",87.0,PDB-homolog,0,protein transport/singaling
+MG_120_MONOMER,57723,18.22480769,4fi3, or :A,AU,P47366,Monosaccharide (riboside/galactoside) ABC transporter; permease protein,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",183.0,PDB-homolog,0,protein transport/singaling
+MG_121_MONOMER,32927,92.15,4fi3, or :B,AU,P47367,Monosaccharide (riboside/galactoside) ABC transporter; permease protein,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",194.0,PDB-homolog,0,protein transport/singaling
+MG_122_MONOMER,81985.9,98.44851904,4RUL, or :A,AU,P47368,DNA topoisomerase I,,auto_root.mge,c,0.0,-,-1,"9,-4,41","0.99,-0.12,0",138.0,PDB-homolog,1,DNA replication/maintenance
+MG_123_MONOMER,54895.4,42.66878981,3TM8, or :A,1,P47369,arginine deaminasse,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,-37","0,0.24,1",0.0,PDB-homolog,0,RNA synthesis/maturation
+MG_124_MONOMER,11125.8,99.9,4I6X, or :A,AU,P47370,thioredoxin,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",26.0,PDB-homolog,0,metabolism
+MG_125_MONOMER,32690.3,97.19298246,4ZEV, or :A,AU,P47371,Cof-like hydrolase; putative,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",22.0,PDB-homolog,0,metabolism
+MG_126_MONOMER,39328,99.42363112,2YY5, or :B,AU,P47372,tryptophanyl-tRNA synthetase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,RNA synthesis/maturation
+MG_127_MONOMER,16565.2,88.87655172,1S3C, or :A,AU,P47373,Spx subfamily protein,,auto_root.mge,c,0.5,-,-1,"-5,17,14","-0.63,0.69,-0.36",62.0,PDB-homolog,1,transcription
+MG_128_MONOMER,29199.6,99.61389961,2I2C, or :A,AU,P47374,inorganic polyphosphate/ATP-NAD kinase; probable,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",3.0,PDB-homolog,0,metabolism
+MG_129_MONOMER,13270.6,67.38632479,3BP3, or :B,AU,Q49397,Putative phosphotransferase enzyme glucose-specific IIB component,,auto_root,e,0.0,-,-1,"0,0,0","0,0,1",14.0,PDB-homolog,0,metabolism
+MG_130_MONOMER,55847.1,41.93801653,3HC1,,AU,P47376,ribonuclease Y; mRNA decay,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",54.0,PDB-homolog,0,RNA synthesis/maturation
+MG_131_MONOMER,,62.19324324,5X5Y, or :F,AU,P47377,hypothetical protein,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",2.0,PDB-homolog,0,uncharacterized
+MG_132_MONOMER,15586.8,98.48297872,3LB5, or :C,AU,P47378,purine nucleoside phosphoramidase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_133_MONOMER,30673.7,4.558712121,2KV5, or :A,AU,P47379,membrane protein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",7.0,PDB-homolog,0,protein transport/singaling
+MG_134_MONOMER,11386.3,98.802,1YBX, or :B,AU,P47380,DNA-binding protein; nucleoid-associated,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",12.0,PDB-homolog,0,DNA replication/maintenance
+MG_135_MONOMER,31644.8,13.51428571,4BW5, or :C,AU,P47381,membrane protein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",10.0,PDB-homolog,0,metabolism
+MG_136_MONOMER,56192.9,99.79591837,6BNI, or :A,AU,P47382,lysyl-tRNA synthetase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,RNA synthesis/maturation
+MG_137_MONOMER,46288.8,95.2970297,4MO2, or :B,AU,Q49398,UDP-galactopyranose mutase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_138_MONOMER,67936.9,99.83277592,2YWE, or :A,AU,P47384,Translation elongation factor 4,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",72.0,PDB-homolog,0,translation
+MG_139_MONOMER,64015,98.5940246,3ZQ4, or :D,AU,P47385,ribonuclease J,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,RNA synthesis/maturation
+MG_140_MONOMER,128718,62.44384546,4B3F, or :X,AU,P47386,putative ATP-dependent helicase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",12.0,PDB-homolog,0,DNA replication/maintenance
+MG_141_MONOMER,59379,77.96610169,5LM7, or :C,AU,P47387,transcription termination factor NusA,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",12.0,PDB-homolog,0,transcription
+MG_142_MONOMER,67887.5,79.80613893,1G7T, or :A,AU,P47388,translation initiation factor IF-2,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",14.0,PDB-homolog,0,translation
+MG_143_MONOMER,12907,100.0,1PA4, or :A/0,AU,P47389,ribosome-binding factor A,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",14.0,PDB-homolog,0,protein folding/maturation
+MG_144_MONOMER,30972.5,40.49175627,5tcx, or :A,AU,P47390,signal recognition particle; locates ribosome to membrane,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",33.0,PDB-homolog,0,translation
+MG_145_MONOMER,31090.9,99.25650558,2X0K, or :A,AU,P47391,riboflavin biosynthesis protein RibF,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",21.0,PDB-homolog,0,metabolism
+MG_146_MONOMER,47789.2,62.02830189,4HG0, or :A,AU,Q49399,UPF0053 protein,,auto_root,e,0.0,-,-1,"0,0,0","0,0,1",11.0,PDB-homolog,0,protein transport/singaling
+MG_147_MONOMER,42815.2,59.8448,3P5N, or :A,AU,P47393,membrane protein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",10.0,PDB-homolog,0,protein transport/singaling
+MG_148_MONOMER,47961.4,19.7801956,6el1, or :A,AU,P47394,PF09903 family; widely conserved; structural; putative cell motility; putative cell cycle; putative,TRUE,auto_root.mge,m,0.0,-,-1,"-1,-1,-3","0,0,1",10.0,PDB-homolog,0,uncharacterized
+MG_149_MONOMER,32241.8,48.84661922,5D0O, or :E,AU,P47395,lipoprotein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"58,44,76","0,0,1",13.0,PDB-homolog,0,lipoprotein
+MG_150_MONOMER,11961.3,92.45283019,4YBB, or :AJ,AU,P47396,ribosomal protein S10,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",160.0,PDB-homolog,0,translation
+MG_151_MONOMER,28302,84.04669261,5XYM, or :D,AU,P47397,ribosomal protein L3,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",182.0,PDB-homolog,0,translation
+MG_152_MONOMER,23507.8,100.0,6HA1, or :E,AU,P47398,ribosomal protein L4/L1 family,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",124.0,PDB-homolog,0,translation
+MG_153_MONOMER,11880.3,93.30283019,5MYJ, or :BW,AU,P47399,ribosomal protein L23,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",126.0,PDB-homolog,0,translation
+MG_154_MONOMER,31882.7,99.64912281,5XYM, or :C,AU,P47400,ribosomal protein L2,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",90.0,PDB-homolog,0,translation
+MG_155_MONOMER,9996.5,100.0,5MMM, or :s,AU,P47401,ribosomal protein S19,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",144.0,PDB-homolog,0,translation
+MG_156_MONOMER,16131,77.77777778,6HMA, or :Q,AU,P47402,ribosomal protein L22,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",121.0,PDB-homolog,0,translation
+MG_157_MONOMER,29613.3,99.62686567,5O61, or :C,AU,P47403,ribosomal protein S3,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",120.0,PDB-homolog,0,translation
+MG_158_MONOMER,15242.9,97.10144928,6ERI, or :AM,AU,P47404,ribosomal protein L16,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",99.0,PDB-homolog,0,translation
+MG_159_MONOMER,22885.4,50.949,3J79, or :3,AU,P47405,ribosomal protein L29,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",104.0,PDB-homolog,0,translation
+MG_160_MONOMER,9783.5,99.9,5NGM, or :Aq,AU,P47406,ribosomal protein S17,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",111.0,PDB-homolog,0,translation
+MG_161_MONOMER,13465.8,100.0,4Y4O, or :1O,AU,P47407,ribosomal protein L14,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",99.0,PDB-homolog,0,translation
+MG_162_MONOMER,12132.4,98.975,5XYM, or :U,AU,P47408,ribosomal protein L24,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",107.0,PDB-homolog,0,translation
+MG_163_MONOMER,20263.8,100.0,5XYM, or :F,AU,P47409,ribosomal protein L5,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",122.0,PDB-homolog,0,translation
+MG_164_MONOMER,6731,99.8,4Y4O, or :2n,AU,P47410,ribosomal protein S14,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",109.0,PDB-homolog,0,translation
+MG_165_MONOMER,15803.9,94.32624113,4Y4O, or :1h,AU,P47411,ribosomal protein S8,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",108.0,PDB-homolog,0,translation
+MG_166_MONOMER,20336.9,99.45652174,4Y4O, or :2H,AU,P47412,ribosomal protein L6,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",105.0,PDB-homolog,0,translation
+MG_167_MONOMER,12926.2,100.0,4Y4O, or :1S,AU,P47413,ribosomal protein L18,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",140.0,PDB-homolog,0,translation
+MG_168_MONOMER,23188.4,73.45971564,4YBB, or :AE,AU,P47414,ribosomal protein S5,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",126.0,PDB-homolog,0,translation
+MG_169_MONOMER,16500.5,99.33333333,6HMA, or :J,AU,P47415,ribosomal protein L15,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",117.0,PDB-homolog,0,translation
+MG_170_MONOMER,51845.1,91.15789474,5mg3, or :Y,AU,P47416,preprotein translocase; SecY subunit,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",10.0,PDB-homolog,0,protein transport/singaling
+MG_171_MONOMER,24249.2,97.6635514,2XB4, or :A,AU,P47417,adenylate kinase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",50.0,PDB-homolog,0,metabolism
+MG_172_MONOMER,27738.1,100.0,4FUK, or :B,AU,P47418,methionine aminopeptidase; type I,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",50.0,PDB-homolog,0,protein folding/maturation
+MG_173_MONOMER,8113.6,98.27571429,2N78, or :A/0,AU,P47419,translation initiation factor IF-1,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",44.0,PDB-homolog,0,translation
+MG_174_MONOMER,4428.5,99.8,4YBB, or :C5,AU,P47420,ribosomal protein L36,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",97.0,PDB-homolog,0,translation
+MG_175_MONOMER,13864.3,97.58064516,5NGM, or :Am,AU,P47421,ribosomal protein S13,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",135.0,PDB-homolog,0,translation
+MG_176_MONOMER,12632.7,100.0,4Y4O, or :1k,AU,P47422,ribosome 30S protein S11,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",118.0,PDB-homolog,0,translation
+MG_177_MONOMER,36703.6,100.0,5VI8, or :A,AU,P47423,DNA-directed RNA polymerase; alpha subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",29.0,PDB-homolog,0,transcription
+MG_178_MONOMER,13920.3,97.56097561,6DZI, or :O,AU,P47424,ribosomal protein L17,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",124.0,PDB-homolog,0,translation
+MG_179_MONOMER,30358.4,100.0,5jsz, or :A,AU,P47425,metal ion (cobalt) ABC transporter; ATP-binding protein; putative,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,protein transport/singaling
+MG_180_MONOMER,34385.3,94.73684211,5jsz, or :C,AU,P47426,metal ion (cobalt) ABC transporter; ATP-binding protein; putative,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",6.0,PDB-homolog,0,protein transport/singaling
+MG_181_MONOMER,47185.5,92.14285714,5jsz, or :B,AU,P47427,metal ion (cobalt) ABC transporter; permease protein,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",32.0,PDB-homolog,0,protein transport/singaling
+MG_182_MONOMER,27411.1,100.0,1VS3, or :B,AU,P47428,tRNA pseudouridine synthase A,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,RNA synthesis/maturation
+MG_183_MONOMER,70330.7,99.17627677,3CE2, or :A,AU,P47429,oligoendopeptidase F,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",76.0,PDB-homolog,0,protein folding/maturation
+MG_184_MONOMER,36867.1,48.47318612,2OKC, or :A,AU,Q49400,adenine-specific DNA modification methylase,,auto_root.mge,c,0.5,-,-1,"-22,-13,-25","-0.65,-0.15,0.75",0.0,PDB-homolog,0,DNA replication/maintenance
+MG_185_MONOMER,77261.3,99.85734665,4MFI, or :A,AU,P47431,lipoprotein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",11.0,PDB-homolog,0,lipoprotein
+MG_186_MONOMER,27729.5,67.4648,4TQU, or :Q,AU,P47432,Oligosaccharide or polyol ABC transporter; substrate binding protein,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,protein transport/singaling
+MG_187_MONOMER,66390.2,99.31623932,4TQU, or :S,AU,P47433,Oligosaccharide or polyol ABC transporter; ATP-binding protein,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",2.0,PDB-homolog,0,protein transport/singaling
+MG_188_MONOMER,36642.3,94.4343465,4TQU, or :N,AU,P47434,Oligosaccharide or polyol ABC transporter; permease protein,TRUE,auto_root.mge,m,0.5,-,-1,"-7,-5,2","0,0,1",6.0,PDB-homolog,0,protein transport/singaling
+MG_189_MONOMER,35050.7,95.18773585,4TQU, or :M,AU,P47435,Oligosaccharide or polyol ABC transporter; permease protein,TRUE,auto_root.mge,m,0.5,-,-1,"6,4,3","0,0,1",7.0,PDB-homolog,0,protein transport/singaling
+MG_190_MONOMER,36226.7,99.68553459,3DEV, or :B,AU,P22746,phosphoesterase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",20.0,PDB-homolog,0,metabolism
+MG_191_MONOMER,156672,93.55955679,6RUT, or :F,AU,P20796,MgPa adhesin,TRUE,auto_root.mge,tm,0.0,-,-1,"46,-7,-70","0.6,-0.1,-0.79",17.0,PDB-homolog,0,cytokinesis/motility
+MG_192_MONOMER,113331,75.68850902,6RUT, or :G,AU,P22747,P110 protein,TRUE,auto_root.mge,tm,0.0,-,-1,"-5,40,-79","-0.34,0.34,-0.88",15.0,PDB-homolog,0,cytokinesis/motility
+MG_194_MONOMER,38609.1,99.70674487,4P72, or :C,AU,P47436,phenylalanyl-tRNA synthetase; alpha subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",5.0,PDB-homolog,0,RNA synthesis/maturation
+MG_195_MONOMER,91201.5,99.87593052,4P72, or :A,AU,P47437,phenylalanyl-tRNA synthetase; beta subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,RNA synthesis/maturation
+MG_196_MONOMER,20921.6,93.92265193,5ME0, or :Y,AU,P47438,translation initiation factor IF-3,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",188.0,PDB-homolog,0,translation
+MG_197_MONOMER,6766,99.7,4YBB, or :C4,AU,P47439,ribosomal protein L35,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",99.0,PDB-homolog,0,translation
+MG_198_MONOMER,14361.1,100.0,5XYM, or :Q,AU,P47440,ribosomal protein L20,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",105.0,PDB-homolog,0,translation
+MG_199_MONOMER,26745.8,98.72340426,2D0B, or :A,AU,P47441,ribonuclease HIII; putative; frameshift,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",14.0,PDB-homolog,0,RNA synthesis/maturation
+MG_200_MONOMER,68164.6,94.00998336,3LZ8, or :A,AU,P47442,DnaJ domain protein,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",47.0,PDB-homolog,0,protein folding/maturation
+MG_201_MONOMER,24827.9,82.48847926,3A6M, or :B,AU,P47443,co-chaperone GrpE,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,protein folding/maturation
+MG_202_MONOMER,13513,34.11885246,2MDV, or :B/0,AU,P47444,acyl-CoA binding protein,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",42.0,PDB-homolog,0,metabolism
+MG_203_MONOMER,71383.1,99.68404423,4JUO, or :C,AU,P47445,DNA topoisomerase IV; B subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",17.0,PDB-homolog,0,DNA replication/maintenance
+MG_204_MONOMER,88140.2,89.62868118,1ZVU, or :A,AU,P47446,DNA topoisomerase IV; A subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,DNA replication/maintenance
+MG_205_MONOMER,39326.7,99.41690962,1STZ, or :C,AU,P47447,heat-inducible transcription repressor HrcA; putative,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,transcription
+MG_206_MONOMER,68509.5,37.52093802,3C65, or :A,AU,P47448,excinuclease ABC; C subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",7.0,PDB-homolog,0,DNA replication/maintenance
+MG_207_MONOMER,19161.8,97.50718563,5W8M, or :F,AU,P47449,Ser/Thr protein phosphatase 2A,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",28.0,PDB-homolog,0,metabolism
+MG_208_MONOMER,22535.1,97.95918367,2A6A, or :B,AU,P47450,glycoprotease,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,protein folding/maturation
+MG_209_MONOMER,34996,98.7012987,1V9F, or :A,AU,P47451,23S rRNA pseudouridine synthase; U955; U2504; U2580,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",19.0,PDB-homolog,0,RNA synthesis/maturation
+MG_210_MONOMER,20654.4,87.20552486,5DIR, or :A,AU,Q49401,prolipoprotein signal peptidase; signal peptidase II,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",29.0,PDB-homolog,0,protein folding/maturation
+MG_211_MONOMER,17284.3,53.47278912,4UG1, or :A,AU,P47453,DivIVA domain,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",30.0,PDB-homolog,0,cytokinesis/motility
+MG_212_MONOMER,30282.8,98.40895522,5KYM, or :A,AU,Q49402,1-acyl-sn-glycerol-3-phosphate acyltransferase; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",52.0,PDB-homolog,0,metabolism
+MG_213_MONOMER,54456.8,37.75414013,3W6J, or :A,AU,P47455,segregation and condensation protein A,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",31.0,PDB-homolog,0,cytokinesis/motility
+MG_214_MONOMER,23343.3,88.4057971,4I98, or :B,AU,P47456,segregation and condensation protein B,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,cytokinesis/motility
+MG_215_MONOMER,35454.6,99.07120743,1ZXX, or :A,AU,P47457,6-phosphofructokinase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",3.0,PDB-homolog,0,metabolism
+MG_216_MONOMER,56774.7,98.42519685,1E0T, or :B,AU,P47458,pyruvate kinase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",3.0,PDB-homolog,0,metabolism
+MG_217_MONOMER,44664.1,37.975,5IJO, or :Y,AU,P47459,P65 adhesin,,auto_root.mge,tc,0.0,-,-1,"0,0,0","0,0,1",16.0,PDB-homolog,0,cytokinesis/motility
+MG_218_MONOMER,215880,63.07080332,3JBH, or :G,AU,P47460,high molecular weight cytadherence accessory protein 2,,auto_root.mge,tc,0.0,-,-1,"0,0,0","0,0,1",40.0,PDB-homolog,0,cytokinesis/motility
+MG_219_MONOMER,16616.5,14.26621622,2W45, or :A,AU,P47461,,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",31.0,PDB-homolog,0,MG-specific
+MG_220_MONOMER,9924,31.53225806,5TFY, or :N,AU,Q49403,membrane-bound protein,,auto_root,e,0.0,-,-1,"0,0,0","0,0,1",7.0,PDB-homolog,0,MG-specific
+MG_221_MONOMER,16306.5,100.0,1N0E, or :G,AU,P47463,mraZ protein,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",4.0,PDB-homolog,0,cytokinesis/motility
+MG_222_MONOMER,35122.9,100.0,3TKA, or :A,AU,P47464,S-adenosyl-methyltransferase MraW,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",147.0,PDB-homolog,0,RNA synthesis/maturation
+MG_223_MONOMER,47823.6,100.0,4A2A, or :A,AU,P47465,cell division ring formation ,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",131.0,PDB-homolog,0,cytokinesis/motility
+MG_224_MONOMER,41417.4,89.43089431,2VXY, or :A,1,P47466,cell division protein FtsZ,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,cytokinesis/motility
+MG_225_MONOMER,54394,99.79550102,4DJK, or :A,AU,P47467,amino acid-polyamine-organocation (APC) permease,TRUE,auto_root.mge,m,0.5,-,-1,"1,0,-2","0,0,1",0.0,PDB-homolog,0,protein transport/singaling
+MG_226_MONOMER,54148.3,100.0,4DJK, or :A,AU,P47468,amino acid-polyamine-organocation (APC) permease,TRUE,auto_root.mge,m,0.5,-,-1,"1,0,-2","0,0,1",1.0,PDB-homolog,0,protein transport/singaling
+MG_227_MONOMER,32539.3,100.0,4DQ1, or :A,AU,P47469,thymidylate synthase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_228_MONOMER,18593.6,100.0,1ZDR, or :A,AU,P47470,dihydrofolate reductase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",2.0,PDB-homolog,0,metabolism
+MG_229_MONOMER,38592.8,100.0,2BQ1, or :I,AU,P47471,ribonucleoside-diphosphate reductase; beta chain,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",14.0,PDB-homolog,0,metabolism
+MG_230_MONOMER,17202.7,93.27712418,6EBQ, or :B,AU,P47472,ribonucleotide reductase stimulatory protein,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",68.0,PDB-homolog,0,metabolism
+MG_231_MONOMER,82062.6,100.0,2BQ1, or :E,AU,P47473,ribonucleoside-diphosphate reductase; alpha chain,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_232_MONOMER,11605.9,98.0,4YBB, or :DS,AU,P47474,ribosomal protein L21,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",110.0,PDB-homolog,0,translation
+MG_233_MONOMER,10785.5,96.96969697,4PEO, or :B,AU,P47475,widely conserved; ribosomal protein; putative,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",222.0,PDB-homolog,0,translation
+MG_234_MONOMER,11572.3,92.30769231,5NGM, or :AU,AU,P47476,ribosomal protein L27,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",142.0,PDB-homolog,0,translation
+MG_235_MONOMER,32205.1,96.90721649,4HNO, or :A,AU,P47477,apurinic endonuclease,,auto_root.mge,c,0.0,-,-1,"0,-8,18","-0.86,0.5,0.03",211.0,PDB-homolog,1,DNA replication/maintenance
+MG_236_MONOMER,16520,99.28571429,5NBC, or :B,AU,P47478,ferric uptake repressor,,auto_root.mge,c,0.0,-,-1,"0,-26,21","0.15,0.1,0.98",204.0,PDB-homolog,1,transcription
+MG_237_MONOMER,34572.1,100.0,1TD6, or :A,AU,P47479,transcriptional regulator; putative,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",4.0,PDB-homolog,0,transcription
+MG_238_MONOMER,50744.7,99.0990991,1W26, or :B,AU,P47480,trigger factor,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",48.0,PDB-homolog,0,protein folding/maturation
+MG_239_MONOMER,89615.3,66.79245283,3M6A, or :C,AU,P47481,ATP-dependent protease La,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,protein folding/maturation
+MG_240_MONOMER,39658.7,53.08971429,4YBR, or :A,AU,P47482,nicotinamide-nucleotide adenylyltransferase/conserved hypothetical protein,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_241_MONOMER,71944.2,7.145806452,2XWU, or :B,BU1,P47483,membrane protein; 241/242 homologs,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,protein transport/singaling
+MG_242_MONOMER,72744.8,4.745396825,5xam, or :A,AU,P47484,membrane protein; 241/242 homologs,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",4.0,PDB-homolog,0,protein transport/singaling
+MG_243_MONOMER,25884.9,4.911504425,6C14, or :C,AU,P47485,conserved hypothetical protein; authentic frameshift,TRUE,auto_root.mge,m,0.0,-,-1,"1,4,17","0,0,1",28.0,PDB-homolog,0,uncharacterized
+MG_244_MONOMER,81028.3,99.71550498,4C2T, or :A,AU,P47486,3-5' helicase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,DNA replication/maintenance
+MG_245_MONOMER,19355.4,100.0,1SBQ, or :B,AU,P47487,5-formyltetrahydrofolate cyclo-ligase; putative,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",26.0,PDB-homolog,0,metabolism
+MG_246_MONOMER,31409.2,99.28825623,1T71, or :A,AU,P47488,Ser/Thr protein phosphatase 2A,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",3.0,PDB-homolog,0,protein transport/singaling
+MG_247_MONOMER,26185.4,97.07112971,5XJ5, or :A,AU,P47489,membrane protein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_248_MONOMER,25187.5,100.0,5HX2, or :F,AU,P47490,tRNA methyltransferase (m1A22),,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",15.0,PDB-homolog,0,RNA synthesis/maturation
+MG_249_MONOMER,57103,75.05030181,5UAG, or :L,AU,P47491,RNA polymerase sigma factor RpoD,,auto_root.mge,c,0.5,-,-1,"27,14,3","0.46,-0.37,0.81",12.0,PDB-homolog,1,transcription
+MG_250_MONOMER,70316.8,72.32289951,2AU3, or :A,1,P47492,DNA primase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",45.0,PDB-homolog,0,DNA replication/maintenance
+MG_251_MONOMER,51364,99.10313901,1ATI, or :B,AU,P47493,glycyl-tRNA synthetase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,RNA synthesis/maturation
+MG_252_MONOMER,26962.6,100.0,1GZ0, or :G,AU,P47494,23S rRNA methyltransferase; G2251,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,RNA synthesis/maturation
+MG_253_MONOMER,48601.6,100.0,3TQO, or :A,AU,P47495,cysteinyl-tRNA synthetase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",33.0,PDB-homolog,0,RNA synthesis/maturation
+MG_254_MONOMER,75015.7,100.0,2OWO, or :A,AU,P47496,DNA ligase; NAD-dependent,,auto_root.mge,c,0.0,-,-1,"-1,10,1","-0.78,-0.37,0.51",40.0,PDB-homolog,1,DNA replication/maintenance
+MG_255_MONOMER,41881.8,20.9339726,4PL0, or :A,AU,P47497,cell division protein,TRUE,auto_root.mge,m,0.0,-,-1,"-10,2,-37","0,0,1",26.0,PDB-homolog,0,cytokinesis/motility
+MG_256_MONOMER,30043.7,22.546875,2Z73, or :A,AU,P47498,MG/MP only,TRUE,auto_root.mge,m,0.0,-,-1,"-10,2,-37","0,0,1",19.0,PDB-homolog,0,MG-specific
+MG_257_MONOMER,10953.6,78.27216495,5ZET, or :2,AU,P47499,ribosomal protein L31,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",135.0,PDB-homolog,0,translation
+MG_258_MONOMER,40621.4,99.44289694,5J3C, or :XY,AU,P47500,peptide chain release factor 1,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",232.0,PDB-homolog,0,translation
+MG_259_MONOMER,51877.1,37.71929825,1K7J, or :A,AU,Q49404,modification methylase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,translation
+MG_260_MONOMER,84000.1,100.0,4MFI, or :A,AU,P47502,lipoprotein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",17.0,PDB-homolog,0,protein transport/singaling
+MG_261_MONOMER,99317.8,95.76659039,5fkw, or :A,AU,Q49405,DNA polymerase III; alpha subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,DNA replication/maintenance
+MG_262_MONOMER,33084.4,99.65635739,6C33, or :A,AU,Q49406,polI-like 5'-3' exonuclease; putative,,auto_root.mge,c,0.0,-,-1,"25,17,16","0.8,0.54,-0.27",24.0,PDB-homolog,1,DNA replication/maintenance
+MG_263_MONOMER,32492.1,99.21340206,3DAO, or :B,AU,P47505,Cof-like hydrolase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",8.0,PDB-homolog,0,metabolism
+MG_264_MONOMER,22837.6,94.25555556,2F6R, or :A,AU,P47506,dephospho-CoA kinase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",20.0,PDB-homolog,0,metabolism
+MG_265_MONOMER,31863.8,100.0,1RKQ, or :A,AU,P47507,sugar phosphatase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_266_MONOMER,89612,99.87373737,5AH5, or :B,AU,P47508,leucyl-tRNA synthetase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",58.0,PDB-homolog,0,RNA synthesis/maturation
+MG_267_MONOMER,12874.4,89.22086957,4JKV, or :A,AU,P47509,acetyl transferase; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",92.0,PDB-homolog,0,MG-specific
+MG_268_MONOMER,26332.9,96.39473684,1ZM7, or :D,AU,P47510,deoxynucleoside kinase; putative,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",42.0,PDB-homolog,0,metabolism
+MG_269_MONOMER,39662.1,69.39647059,1I84, or :S,AU,Q49407,,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",16.0,PDB-homolog,0,MG-specific
+MG_270_MONOMER,38384.9,99.4047619,5IJ6, or :A,AU,P47512,lipoyltransferase/lipoate-protein ligase; putative,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",751.0,PDB-homolog,0,metabolism
+MG_271_MONOMER,49932.7,98.24945295,4DNA, or :A,AU,P47513,dihydrolipoamide dehydrogenase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",631.0,PDB-homolog,0,metabolism
+MG_272_MONOMER,41452.8,100.0,3DVA, or :I,AU,P47514,dihydrolipoamide acetyltransferase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",34.0,PDB-homolog,0,metabolism
+MG_273_MONOMER,35839.3,99.38650307,1UMD, or :B,AU,P47515,pyruvate dehydrogenase component E1; beta subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",101.0,PDB-homolog,0,metabolism
+MG_274_MONOMER,40092.7,97.76536313,2BFD, or :A,AU,P47516,pyruvate dehydrogenase component E1; alpha subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",100.0,PDB-homolog,0,metabolism
+MG_275_MONOMER,52986.2,98.32635983,1NHP, or :A,AU,Q49408,NADH oxidase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_276_MONOMER,19976.3,99.345,5YW5, or :A,AU,P47518,adenine phosphoribosyltransferase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_277_MONOMER,107046,97.11340206,5mg3, or :D,AU,Q49409,Protein-export membrane protein secDF,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",32.0,PDB-homolog,0,protein transport/singaling
+MG_278_MONOMER,83394,99.44444444,5IQR, or :8,AU,P47520,GTP diphosphokinase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_279_MONOMER,24887.7,87.59174312,5JEQ, or :A,AU,P47521,,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",40.0,PDB-homolog,0,uncharacterized
+MG_280_MONOMER,29566.4,57.6,5JEQ, or :A,AU,P47522,sensory rhodopsin II transducer motif,TRUE,auto_root.mge,m,0.0,-,-1,"-7,0,10","0,0,1",40.0,PDB-homolog,0,uncharacterized
+MG_281_MONOMER,61977.3,71.94244604,4NZR, or :M,AU,P47523,protein M,TRUE,auto_root.mge,m,0.0,-,-1,"1,0,39","0,0,1",46.0,PDB-homolog,0,host cell interaction
+MG_282_MONOMER,18162.5,98.13664596,1GRJ, or :A,AU,P47524,transcription elongation factor GreA,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",53.0,PDB-homolog,0,transcription
+MG_283_MONOMER,55124.5,100.0,4WI1, or :A,AU,P47525,prolyl-tRNA synthetase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,RNA synthesis/maturation
+MG_284_MONOMER,15019.1,37.63484848,2O8X, or :C,AU,P47526,,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",10.0,PDB-homolog,0,MG-specific
+MG_285_MONOMER,39307.2,6.334870317,3ISY, or :A,AU,P47527,,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",15.0,PDB-homolog,0,MG-specific
+MG_286_MONOMER,22927.3,10.15255102,3ZG1, or :B,AU,P47528,,,auto_root,e,0.0,-,-1,"0,0,0","0,0,1",30.0,PDB-homolog,0,MG-specific
+MG_287_MONOMER,9643.3,99.1,4H2W, or :C,AU,P47529,acyl carrier protein,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",23.0,PDB-homolog,0,metabolism
+MG_288_MONOMER,,15.21666667,4WIJ, or :B,AU,P47530,protein L,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,uncharacterized
+MG_289_MONOMER,41327,93.47826087,2ONK, or :E,AU,Q49410,phosphonate ABC transporter; substrate binding protein (P37); putative,,auto_root.mge,e,0.5,-,-1,"0,0,0","0,0,1",32.0,PDB-homolog,0,protein transport/singaling
+MG_290_MONOMER,27633.7,96.32653061,2ONK, or :A,AU,P47532,phosphonate ABC transporter; ATP-binding protein; putative,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,protein transport/singaling
+MG_291_MONOMER,61772.4,49.62430939,2ONK, or :C,AU,P47533,phosphonate ABC transporter; permease protein (P69); putative,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,protein transport/singaling
+MG_292_MONOMER,102626,100.0,3WQY, or :A,AU,P47534,alanyl-tRNA synthetase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,RNA synthesis/maturation
+MG_293_MONOMER,28540.2,99.59016393,3QVQ, or :B,AU,P47535,glycerophosphoryl diester phosphodiesterase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_294_MONOMER,50973.3,98.31223629,1PW4, or :A,AU,Q49411,major facilitator superfamily (MFS) protein,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",124.0,PDB-homolog,0,protein transport/singaling
+MG_295_MONOMER,41329,100.0,2DER, or :A,AU,P47537,tRNA U34 sulfurtransferase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",35.0,PDB-homolog,0,RNA synthesis/maturation
+MG_296_MONOMER,15317.5,100.0,2I15, or :A,AU,P47538,cell division/septation,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",7.0,PDB-homolog,0,cytokinesis/motility
+MG_297_MONOMER,38673.1,97.39884393,2OG2, or :A,AU,P47539,signal recognition particle receptor,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",10.0,PDB-homolog,0,cytokinesis/motility
+MG_298_MONOMER,110701,99.49307536,4AD8, or :A,1,P47540,chromosome segregation protein SMC,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",13.0,PDB-homolog,0,DNA replication/maintenance
+MG_299_MONOMER,35096.5,99.6875,2AF4, or :C,AU,P47541,phosphate acetyltransferase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_300_MONOMER,44660.9,99.513382,1PHP, or :A,AU,P47542,phosphoglycerate kinase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",92.0,PDB-homolog,0,metabolism
+MG_301_MONOMER,37097.7,100.0,5LD5, or :C,AU,P47543,glyceraldehyde-3-phosphate dehydrogenase; type I,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",3.0,PDB-homolog,0,metabolism
+MG_302_MONOMER,35736.5,86.75078864,5X3X, or :Q,AU,P47544,metal ion (cobalt) ABC transporter; permease protein; putative,TRUE,auto_root.mge,m,0.5,-,-1,"4,4,-17","0,0,1",3.0,PDB-homolog,0,protein transport/singaling
+MG_303_MONOMER,40785.8,79.83193277,5X3X, or :A,BU1,P47545,metal ion (cobalt) ABC transporter; ATP-binding protein; putative,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",27.0,PDB-homolog,0,protein transport/singaling
+MG_304_MONOMER,30708,99.62962963,5X3X, or :B,BU1,P47546,metal ion (cobalt) ABC transporter; ATP-binding protein; putative,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,protein transport/singaling
+MG_305_MONOMER,64864.3,97.81512605,5TKY, or :A,AU,P47547,chaperone,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",29.0,PDB-homolog,0,protein folding/maturation
+MG_306_MONOMER,44074.3,24.41832061,4kpp, or :A,AU,P47548,membrane protein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",14.0,PDB-homolog,0,protein transport/singaling
+MG_307_MONOMER,130951,1.174766355,4JWO, or :A,AU,P47549,lipoprotein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"-1,1,3","0,0,1",25.0,PDB-homolog,0,lipoprotein
+MG_308_MONOMER,46872.8,84.87804878,5SUQ, or :A,AU,P52271,ATP-dependent RNA helicase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",13.0,PDB-homolog,0,RNA synthesis/maturation
+MG_309_MONOMER,137072,5.329469388,1qgk, or :A,AU,P47551,lipoprotein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",17.0,PDB-homolog,0,lipoprotein
+MG_310_MONOMER,30374.9,98.13432836,5Z7X, or :A,AU,Q49412,hydrolase; Putative esterase/lipase 1,,auto_root,e,0.0,-,-1,"0,0,0","0,0,1",48.0,PDB-homolog,0,metabolism
+MG_311_MONOMER,23760.5,98.53658537,4YBB, or :BD,AU,P47553,ribosomal protein S4,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",111.0,PDB-homolog,0,translation
+MG_312_MONOMER,130345,3.911325724,4DCZ, or :B,AU,Q49413,high molecular weight cytadherence accessory protein 1,,auto_root.mge,tc,0.0,-,-1,"0,0,0","0,0,1",43.0,PDB-homolog,0,cytokinesis/motility
+MG_313_MONOMER,32776.4,46.22299652,4HUQ, or :S,AU,Q49414,membrane protein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",19.0,PDB-homolog,0,cytokinesis/motility
+MG_314_MONOMER,50573.3,27.92099323,6DVW, or :B,AU,Q49415,cytadherence ,TRUE,auto_root.mge,m,0.0,-,-1,"-7,16,-13","0,0,1",23.0,PDB-homolog,0,cytokinesis/motility
+MG_315_MONOMER,33689.3,100.0,1JR3, or :D,AU,Q49416,DNA polymerase III; delta subunit; putative,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",7.0,PDB-homolog,0,DNA replication/maintenance
+MG_316_MONOMER,42263.7,0.945257453,5aym, or :A,AU,P47558,DNA internalization-related competence protein ComEC/Rec2,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,DNA replication/maintenance
+MG_317_MONOMER,68162.2,9.461101836,3DB7, or :A,AU,Q57081,high molecular weight cytadherence accessory protein 3,,auto_root.mge,tc,0.0,-,-1,"0,0,0","0,0,1",29.0,PDB-homolog,0,cytokinesis/motility
+MG_318_MONOMER,31963.4,42.66,3VOU, or :A,AU,Q49417,P32 adhesin,TRUE,auto_root.mge,tm,0.0,-,-1,"0,0,0","0,0,1",32.0,PDB-homolog,0,cytokinesis/motility
+MG_319_MONOMER,20555.9,84.06404494,5TCX, or :A,AU,P47561,cytadherence; putative,TRUE,auto_root.mge,m,0.0,-,-1,"2,4,11","0,0,1",45.0,PDB-homolog,0,cytokinesis/motility
+MG_320_MONOMER,31891.5,97.8041958,4PGR, or :A,AU,P47562,membrane protein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"2,4,11","0,0,1",25.0,PDB-homolog,0,cytokinesis/motility
+MG_321_MONOMER,101510,80.29978587,4tqu, or :Q,AU,P47563,oligopeptide ABC transporter; substrate binding protein,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,protein transport/singaling
+MG_322_MONOMER,61053.6,99.46236559,4j7c, or :I,AU,P47564,potassium uptake protein,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,protein transport/singaling
+MG_323_MONOMER,25493.6,95.59471366,4j7c, or :B,AU,P47565,potassium uptake protein,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",8.0,PDB-homolog,0,protein transport/singaling
+MG_324_MONOMER,39256.4,98.8700565,3Q6D, or :B,AU,P47566,aminopeptidase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",218.0,PDB-homolog,0,protein folding/maturation
+MG_325_MONOMER,6240.4,92.26792453,5MYJ, or :B5,AU,P47567,ribosomal protein L33,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",142.0,PDB-homolog,0,translation
+MG_326_MONOMER,33226.7,99.66101695,1PZX, or :B,AU,P47568,degV family protein,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",8.0,PDB-homolog,0,metabolism
+MG_327_MONOMER,30699.7,95.52238806,4CCW, or :A,AU,Q49418,hydrolase; Putative esterase/lipase 2,,auto_root,e,0.0,-,-1,"0,0,0","0,0,1",38.0,PDB-homolog,0,metabolism
+MG_328_MONOMER,88220.8,65.87222222,6FSA, or :B,AU,Q49419,coiled coil putative structural protein involved in cytoskeleton,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",21.0,PDB-homolog,0,cytokinesis/motility
+MG_329_MONOMER,50236.9,97.76785714,4DCU, or :A,AU,P47571,GTP-binding protein engA,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",11.0,PDB-homolog,0,protein folding/maturation
+MG_330_MONOMER,24371.2,99.9,1CKE, or :A,AU,P47572,cytidylate kinase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",29.0,PDB-homolog,0,metabolism
+MG_331_MONOMER,24555.4,28.93207547,2KOG, or :A,AU,P47573,predicted dolichyl-diphosphooligosaccharide-protein glycosyltransferase,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",48.0,PDB-homolog,0,protein folding/maturation
+MG_332_MONOMER,26963.8,100.0,1KON, or :A,AU,P47574,glucose-1-phosphate adenylyltransferase; putative,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",28.0,PDB-homolog,0,metabolism
+MG_333_MONOMER,21630.6,99.9,3W77, or :B,AU,P47575,FMN-dependent NADH-azoreductase; putative,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_334_MONOMER,94484.3,99.16367981,1GAX, or :B,AU,P47576,valyl-tRNA synthetase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",34.0,PDB-homolog,0,RNA synthesis/maturation
+MG_335_MONOMER,21835.3,99.37696335,1PUI, or :A,AU,P47577,GTP-binding protein engB; putative,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",21.0,PDB-homolog,0,protein folding/maturation
+MG_336_MONOMER,46245.6,98.03921569,1JF9, or :A,AU,Q49420,cysteine desulfurase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_337_MONOMER,15720.3,100.0,5UFT, or :A,AU,P47579,iron-sulfur cluster assembly protein,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",11.0,PDB-homolog,0,metabolism
+MG_338_MONOMER,139784,0.840944882,4mnd, or :A,AU,P47580,lipoprotein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",8.0,PDB-homolog,0,lipoprotein
+MG_339_MONOMER,34799.2,98.10725552,4PPF, or :A,AU,P47581,recombination protein; strand exchange,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",11.0,PDB-homolog,0,DNA replication/maintenance
+MG_340_MONOMER,145147,98.83900929,3IYD, or :D,AU,P47582,DNA-directed RNA polymerase; beta subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,transcription
+MG_341_MONOMER,155958,98.41726619,5TW1, or :C,AU,P47583,DNA-directed RNA polymerase; beta subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",3.0,PDB-homolog,0,transcription
+MG_342_MONOMER,19128.1,99.30535714,1RLI, or :B,AU,P47584,NADPH-dependent FMN reductase domain protein,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",34.0,PDB-homolog,0,metabolism
+MG_343_MONOMER,40461.9,26.37398844,6BXO, or :A,AU,P47585,MG/MP only,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",34.0,PDB-homolog,0,MG-specific
+MG_344_MONOMER,31463.5,99.26739927,4CCW, or :A,AU,Q49421,hydrolase; Putative esterase/lipase 3,,auto_root,e,0.0,-,-1,"0,0,0","0,0,1",14.0,PDB-homolog,0,metabolism
+MG_345_MONOMER,101302,100.0,1FFY, or :A,AU,P47587,isoleucyl-tRNA synthetase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",53.0,PDB-homolog,0,RNA synthesis/maturation
+MG_346_MONOMER,18755.7,93.97590361,1GZ0, or :G,AU,P47588,23S rRNA methyltransferase; U2552,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,RNA synthesis/maturation
+MG_347_MONOMER,24556.7,98.94857143,2FCA, or :A,AU,P47589,tRNA (guanine-N(7)-)-methyltransferase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,RNA synthesis/maturation
+MG_348_MONOMER,34627.2,25.97173913,4FYB, or :A,AU,P47590,lipoprotein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",37.0,PDB-homolog,0,lipoprotein
+MG_349_MONOMER,46843.6,61.38613861,5WTN, or :A,AU,P47591,Replication initiation/membrane attachment protein,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",3.0,PDB-homolog,0,DNA replication/maintenance
+MG_350_MONOMER,36077,40.66881029,2Q9U, or :A,AU,P47592,transporter; substrate binding,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",84.0,PDB-homolog,0,protein transport/singaling
+MG_351_MONOMER,21273.7,89.67391304,5LS0, or :B,AU,P47593,inorganic pyrophosphatase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_352_MONOMER,19195.3,98.79518072,2FCO, or :A,AU,Q49422,Holliday junction endonuclease,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,DNA replication/maintenance
+MG_353_MONOMER,12367.6,85.15045872,6N2L, or :A,AU,P47595,DNA-binding protein HU; putative,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,DNA replication/maintenance
+MG_354_MONOMER,15703.7,100.0,1TM9, or :A/1,AU,P47596,,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",23.0,PDB-homolog,0,MG-specific
+MG_355_MONOMER,80666.7,99.85994398,6AZY, or :A,AU,P47597,ATP-dependent Clp protease; ATPase subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",5.0,PDB-homolog,0,protein folding/maturation
+MG_356_MONOMER,32249.7,95.97535714,4R78, or :A,AU,Q49423,choline/ethanolamine kinase; putative,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",57.0,PDB-homolog,0,metabolism
+MG_357_MONOMER,44159.8,99.49109415,4H0P, or :B,AU,P47599,acetate kinase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_358_MONOMER,23540.1,96.09756098,7OA5, or :A,AU,Q49424,Holliday junction DNA helicase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",26.0,PDB-homolog,0,DNA replication/maintenance
+MG_359_MONOMER,35000.1,96.32052117,3pfi, or :A,AU,Q49425,Holliday junction DNA helicase RuvB,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",4.0,PDB-homolog,0,DNA replication/maintenance
+MG_360_MONOMER,46907.5,86.13138686,5YUY, or :F,AU,Q49426,ImpB/MucB/SamB family protein,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",15.0,PDB-homolog,0,DNA replication/maintenance
+MG_361_MONOMER,18261.5,100.0,4V9O, or :C5,AU,P36263,ribosomal protein L10,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",134.0,PDB-homolog,0,translation
+MG_362_MONOMER,13060.2,99.08114754,4V9O, or :A6,AU,P36255,ribosomal protein L7/L12,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",134.0,PDB-homolog,0,translation
+MG_363_MONOMER,6622.8,98.14736842,5MYJ, or :B4,AU,P47603,ribosomal protein L32,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",125.0,PDB-homolog,0,translation
+MG_364_MONOMER,25988.4,10.79732143,2KS1, or :B,AU,P47604,Replication initiation/membrane attachment protein,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",19.0,PDB-homolog,0,DNA replication/maintenance
+MG_365_MONOMER,34604.4,100.0,3Q0I, or :A,AU,P47605,methionyl-tRNA formyltransferase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",15.0,PDB-homolog,0,RNA synthesis/maturation
+MG_366_MONOMER,77186.2,30.82938531,5OKI, or :B,AU,P47606,phosphomethylpyrimidine kinase; thiamine biosynthesis,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",6.0,PDB-homolog,0,metabolism
+MG_367_MONOMER,29965.5,84.35114504,3C4B,,AU,P47607,ribonuclease III,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,RNA synthesis/maturation
+MG_368_MONOMER,36502.2,100.0,1VI1, or :B,AU,Q49427,fatty acid/phospholipid synthesis protein PlsX,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_369_MONOMER,62478.8,37.52244165,3PNL, or :B,AU,P47609,DAK2 phosphatase domain protein,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_370_MONOMER,37575.9,99.69040248,1V9F, or :A,AU,P47610,23S rRNA pseudouridine synthase; U1911; U1915; U1917,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",9.0,PDB-homolog,0,RNA synthesis/maturation
+MG_371_MONOMER,36673.1,98.7654321,5IPP, or :B,AU,Q49428,DHH family protein,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",12.0,PDB-homolog,0,metabolism
+MG_372_MONOMER,44176.5,98.7012987,4KR6, or :B,AU,P47612,thiamine biosynthesis/tRNA modification protein ThiI,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,RNA synthesis/maturation
+MG_373_MONOMER,31776.5,85.32384342,3SYY, or :A,AU,P47613,exonuclease/recombinase (viral origin),,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",221.0,PDB-homolog,0,DNA replication/maintenance
+MG_374_MONOMER,31092.4,99.9,2B30, or :A,AU,P47614,haloacid dehalogenase-like hydrolase; sugar phosphatase; putative,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",205.0,PDB-homolog,0,metabolism
+MG_375_MONOMER,65036.9,99.64539007,1QF6, or :A,AU,P47615,threonyl-tRNA synthetase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,RNA synthesis/maturation
+MG_376_MONOMER,11858.8,99.03846154,2HQL, or :D,AU,P47616,single-stranded DNA binding,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,DNA replication/maintenance
+MG_377_MONOMER,22462.8,99.9,1ZXJ, or :B,AU,P47617,chaperone/trigger factor; by structural homology,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",32.0,PDB-homolog,0,protein folding/maturation
+MG_378_MONOMER,61475,99.44134078,4R3Z, or :B,AU,P47618,arginyl-tRNA synthetase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",34.0,PDB-homolog,0,RNA synthesis/maturation
+MG_379_MONOMER,68808.8,100.0,2ZXI, or :B,AU,P47619,tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,RNA synthesis/maturation
+MG_380_MONOMER,22172,63.29269663,2FCJ, or :A,AU,P47620,methyltransferase GidB,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",30.0,PDB-homolog,0,RNA synthesis/maturation
+MG_381_MONOMER,25313.4,27.83807339,3T1T, or :A,AU,P47621,,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",34.0,PDB-homolog,0,MG-specific
+MG_382_MONOMER,23994,98.96197183,3W34, or :B,AU,P47622,uridine kinase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_383_MONOMER,28003.5,96.77419355,1KQP, or :B,AU,P47623,NH(3)-dependent NAD+ synthetase; putative,,auto_root.mge,c,0.5,-,-1,"-19,37,27","0.75,-0.01,0.66",0.0,PDB-homolog,0,metabolism
+MG_384_MONOMER,47607.7,99.76905312,1UDX, or :A,AU,P47624,GTPase1 Obg,,auto_root.mge,c,0.0,-,-1,"-15,47,24","0.75,-0.01,0.66",14.0,PDB-homolog,1,protein folding/maturation
+MG_385_MONOMER,27361.1,99.57627119,3QVQ, or :B,AU,P47625,glycerophosphoryl diester phosphodiesterase family protein,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_386_MONOMER,181582,2.673762376,4DCZ, or :B,AU,Q49429,P200 protein,,auto_root.mge,tc,0.0,-,-1,"0,0,0","0,0,1",15.0,PDB-homolog,0,cytokinesis/motility
+MG_387_MONOMER,33535.5,96.55172414,1EGA, or :A,AU,P47627,GTP-binding protein Era,,auto_root.mge,c,0.0,-,-1,"1,-11,-33","-0.83,0.54,0.14",23.0,PDB-homolog,1,protein folding/maturation
+MG_388_MONOMER,17567.5,96.75324675,1OZ9, or :A,AU,P47628,Putative metalloprotease,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",16.0,PDB-homolog,0,RNA synthesis/maturation
+MG_389_MONOMER,14430.9,14.31023622,5OR7, or :C,AU,P47629,,,auto_root,e,0.0,-,-1,"0,0,0","0,0,1",33.0,PDB-homolog,0,MG-specific
+MG_390_MONOMER,75448.6,99.6969697,4RY2, or :B,AU,Q49430,toxin ABC transporter; ATP-binding/permease protein,TRUE,auto_root.mge,m,0.5,-,-1,"0,1,-38","0,0,1",0.0,PDB-homolog,0,protein transport/singaling
+MG_391_MONOMER,48735,93.51230425,4ZLA, or :E,AU,P47631,cytosol aminopeptidase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",3.0,PDB-homolog,0,protein folding/maturation
+MG_392_MONOMER,58439,99.63167587,5DA8, or :a,AU,P47632,chaperonin,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",3.0,PDB-homolog,0,protein folding/maturation
+MG_393_MONOMER,12028.6,92.63454545,1PCQ, or :Q,AU,P47633,chaperonin; 10 kDa,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",87.0,PDB-homolog,0,protein folding/maturation
+MG_394_MONOMER,44563.4,98.76847291,4J5U, or :A,AU,P47634,serine hydroxymethyltransferase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",3.0,PDB-homolog,0,metabolism
+MG_395_MONOMER,60000.9,11.34694656,5zvj, or :A,AU,P47635,lipoprotein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",9.0,PDB-homolog,0,lipoprotein
+MG_396_MONOMER,16893.3,100.0,6MU0, or :A,AU,P47636,ribose 5-phosphate isomerase B,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_397_MONOMER,66850.7,95.40636042,4UXV, or :A,AU,P47637,Cell division inhibitor,,auto_root,e,0.0,-,-1,"0,0,0","0,0,1",47.0,PDB-homolog,0,cytokinesis/motility
+MG_398_MONOMER,15151,100.0,5T4O, or :H,AU,P47638,ATP synthase F1; epsilon subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",2.0,PDB-homolog,0,metabolism
+MG_399_MONOMER,52548.5,100.0,5T4O, or :F,AU,P47639,ATP synthase F1; beta subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",2.0,PDB-homolog,0,metabolism
+MG_400_MONOMER,32235.3,100.0,5T4O, or :G,AU,P47640,ATP synthase F1; gamma subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",23.0,PDB-homolog,0,metabolism
+MG_401_MONOMER,57029.5,96.91119691,5T4O, or :C,AU,P47641,ATP synthase F1; alpha subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",6.0,PDB-homolog,0,metabolism
+MG_402_MONOMER,20873.6,98.86363636,5T4O, or :L,AU,P47642,ATP synthase F1; delta subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",89.0,PDB-homolog,0,metabolism
+MG_403_MONOMER,24230.1,82.60961538,5T4O, or :I,AU,P47643,ATP synthase F0; B subunit,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,99","-0.04,-0.19,-0.98",125.0,PDB-homolog,0,metabolism
+MG_404_MONOMER,10602.3,78.11764706,5T4O, or :M,AU,P47644,ATP synthase F0; C subunit,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",35.0,PDB-homolog,0,metabolism
+MG_405_MONOMER,32617.5,90.4109589,5T4O, or :K,AU,P47645,ATP synthase F0; A subunit,TRUE,auto_root.mge,m,0.5,-,-1,"-1,-11,5","-0.04,-0.19,-0.98",152.0,PDB-homolog,0,metabolism
+MG_406_MONOMER,17771.6,39.5164557,5J4I, or :B,AU,Q49431,,TRUE,auto_root.mge,m,0.0,-,-1,"4,-1,-53","0,0,1",18.0,PDB-homolog,0,MG-specific
+MG_407_MONOMER,49460.6,96.72489083,4MKS, or :B,AU,P47647,enolase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_408_MONOMER,18042.3,100.0,3BQH, or :A,AU,P47648,methionine-S-sulfoxide reductase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",39.0,PDB-homolog,0,protein folding/maturation
+MG_409_MONOMER,27042.2,97.58222222,4Q25, or :B,AU,P47649,phosphate transport system regulatory protein PhoU; putative,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,protein transport/singaling
+MG_410_MONOMER,37194.9,83.28267477,3NH6, or :A,AU,P47650,phosphate ABC transporter; ATP-binding protein,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,protein transport/singaling
+MG_411_MONOMER,72594.9,45.32201835,2ONK, or :C,AU,P47651,phosphate ABC transporter; permease protein PstA,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",26.0,PDB-homolog,0,protein transport/singaling
+MG_412_MONOMER,41725.6,93.80530504,5WNN, or :B,AU,P47652,phosphate ABC transporter; substrate-binding protein,,auto_root.mge,e,0.5,-,-1,"0,0,0","0,0,1",33.0,PDB-homolog,0,protein transport/singaling
+MG_414_MONOMER,119270,3.254826255,2N2A, or :B/0,AU,P47653,,,auto_root,e,0.0,-,-1,"0,0,0","0,0,1",7.0,PDB-homolog,0,MG-specific
+MG_417_MONOMER,15147.8,100.0,5NGM, or :Ai,AU,P47656,ribosomal protein S9,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",157.0,PDB-homolog,0,translation
+MG_418_MONOMER,16294.8,100.0,5MYJ, or :BM,AU,P47657,ribosomal protein L13,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",113.0,PDB-homolog,0,translation
+MG_419_MONOMER,68484.5,57.89849246,1JR3, or :A,AU,P47658,DNA polymerase III; subunit gamma and tau,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,DNA replication/maintenance
+MG_421_MONOMER,105772,98.42767296,3uwx, or :A,AU,P47660,excinuclease ABC; A subunit,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",25.0,PDB-homolog,0,DNA replication/maintenance
+MG_422_MONOMER,97917.4,17.21137725,5IJO, or :Y,AU,P47661,,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",46.0,PDB-homolog,0,MG-specific
+MG_423_MONOMER,63210.3,100.0,3ZQ4, or :D,AU,P47662,metallo-beta-lactamase superfamily protein,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",42.0,PDB-homolog,0,RNA synthesis/maturation
+MG_424_MONOMER,10185,100.0,1A32, or :A,AU,P47663,ribosomal protein S15,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",187.0,PDB-homolog,0,translation
+MG_425_MONOMER,50881.6,82.18262806,5IVL, or :A,AU,P47664,ATP-dependent RNA helicase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,RNA synthesis/maturation
+MG_426_MONOMER,7485.8,99.9,2JZ6, or :A/0,AU,P47665,ribosomal protein L28,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",135.0,PDB-homolog,0,translation
+MG_427_MONOMER,15416.5,99.9,1LQL, or :H,AU,P47666,osmotically inducible peroxidase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,host cell interaction
+MG_428_MONOMER,19887,96.97894737,4NQW, or :A,AU,P47667,LuxR bacterial regulatory protein; putative,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,transcription
+MG_429_MONOMER,63642.9,99.3006993,2xdf, or :A,AU,P47668,PTS system; E1,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_430_MONOMER,56927.1,99.60552268,4QAX, or :A,AU,P47669,2;3-bisphosphoglycerate-independent phosphoglycerate mutase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",62.0,PDB-homolog,0,metabolism
+MG_431_MONOMER,27158.1,99.59016393,3M9Y, or :A,AU,P47670,triosephosphate isomerase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_432_MONOMER,44973.6,23.02311558,3HLU, or :B,AU,Q49432,membrane protein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",15.0,PDB-homolog,0,protein transport/singaling
+MG_433_MONOMER,33892.3,100.0,4PC3, or :C,AU,P47246,translation elongation factor Ts,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,translation
+MG_434_MONOMER,26734.7,99.58847737,2VA1, or :A,AU,P47672,uridylate kinase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",3.0,PDB-homolog,0,metabolism
+MG_435_MONOMER,21332.6,99.45355191,1EH1, or :A,AU,P47673,ribosome recycling factor,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",31.0,PDB-homolog,0,translation
+MG_437_MONOMER,42993.8,94.20654912,4Q2G,,AU,Q49433,phosphatidate cytidylyltransferase,TRUE,auto_root.mge,m,0.5,-,-1,"-14,-6,-7","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_438_MONOMER,43738.1,100.0,1YDX, or :A,AU,Q49434,type I restriction modification DNA specificity domain protein,,auto_root.mge,c,0.0,-,-1,"-8,1,2","0.28,0.41,0.87",18.0,PDB-homolog,1,DNA replication/maintenance
+MG_439_MONOMER,30123.4,7.593382353,5CYB, or :A,AU,P47677,lipoprotein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",20.0,PDB-homolog,0,lipoprotein
+MG_440_MONOMER,28757.3,2.897674419,3ZBI, or :g,AU,P47678,lipoprotein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,-6,31","0,0,1",7.0,PDB-homolog,0,lipoprotein
+MG_441_MONOMER,15951.9,5.317647059,2KWX, or :D,AU,P47679,,TRUE,auto_root.mge,m,0.0,-,-1,"24,-18,28","0,-0.85,0.52",5.0,PDB-homolog,0,MG-specific
+MG_442_MONOMER,30896.6,96.66666667,6G15, or :A,AU,Q49435,ribosomal biogenesis GTPase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",16.0,PDB-homolog,0,protein folding/maturation
+MG_443_MONOMER,44286.1,22.44151899,4w6v, or :A,AU,P47681,membrane protein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",19.0,PDB-homolog,0,protein transport/singaling
+MG_444_MONOMER,13846.1,96.63865546,6HMA, or :N,AU,P47682,ribosomal protein L19,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",108.0,PDB-homolog,0,translation
+MG_445_MONOMER,26292.2,99.13419913,4MCD, or :A,AU,P47683,tRNA (guanine-N1)-methyltransferase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,RNA synthesis/maturation
+MG_446_MONOMER,10783.8,93.68421053,6HA1, or :p,AU,P47684,ribosomal protein S16,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",127.0,PDB-homolog,0,translation
+MG_447_MONOMER,61494,97.98903108,4Z3N, or :A,AU,P47685,multidrug efflux pump,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",24.0,PDB-homolog,0,protein transport/singaling
+MG_448_MONOMER,17103.3,97.33333333,3HCG, or :D,AU,P47686,methionine-R-sulfoxide reductase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",19.0,PDB-homolog,0,protein folding/maturation
+MG_449_MONOMER,,87.71929825,3BU2, or :C,AU,P47687,conserved hypothetical protein; authentic frameshift,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",2.0,PDB-homolog,0,uncharacterized
+MG_450_MONOMER,32647.8,99.65517241,2DT8, or :A,AU,P47688,degV family protein,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",237.0,PDB-homolog,0,uncharacterized
+MG_451_MONOMER,42990.2,99.74619289,2C78, or :A,AU,P13927,translation elongation factor Tu,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,translation
+MG_452_MONOMER,29448.3,5.915708812,2KS1, or :B,AU,P47690,membrane protein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",83.0,PDB-homolog,0,protein transport/singaling
+MG_453_MONOMER,32513.9,99.65753425,5J49, or :B,AU,P47691,UTP-glucose-1-phosphate uridylyltransferase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",3.0,PDB-homolog,0,metabolism
+MG_454_MONOMER,17376.1,90.23225806,6D9N, or :A,AU,P47692,thiol-dependent peroxidase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,host cell interaction
+MG_455_MONOMER,44818.2,99.24242424,1JIL, or :A,AU,P47693,tyrosyl-tRNA synthetase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,RNA synthesis/maturation
+MG_456_MONOMER,38168,25.28263473,6B85, or :A,AU,P47694,,TRUE,auto_root.mge,m,0.0,-,-1,"-4,17,-42","0,0,1",7.0,PDB-homolog,0,MG-specific
+MG_457_MONOMER,75798.8,63.39031339,6AZ0, or :B,AU,P47695,ATP-dependent metalloprotease FtsH,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,protein folding/maturation
+MG_458_MONOMER,19759.1,99.9,3ACD, or :A,AU,P47696,hypoxanthine phosphoribosyltransferase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",2.0,PDB-homolog,0,metabolism
+MG_459_MONOMER,19029,98.22485207,1T0A, or :C,AU,Q49436,putative 2-C-methyl-D-erythritol-2;4-cyclodiphosphate synthase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",14.0,PDB-homolog,0,metabolism
+MG_460_MONOMER,33966.1,99.67948718,4Q3N, or :A,AU,P47698,L-lactate dehydrogenase/malate dehydrogenase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,metabolism
+MG_461_MONOMER,49807.1,98.82352941,2Q14, or :D,AU,P47699,HD domain protein,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",57.0,PDB-homolog,0,metabolism
+MG_462_MONOMER,55196.4,99.58677686,6B1Z, or :A,AU,P47700,glutamyl-tRNA synthetase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",56.0,PDB-homolog,0,RNA synthesis/maturation
+MG_463_MONOMER,29954.3,99.22779923,3TPZ, or :B,AU,P47701,dimethyladenosine transferase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",46.0,PDB-homolog,0,RNA synthesis/maturation
+MG_464_MONOMER,43276.2,76.1038961,5MG3, or :C,AU,P47702,inner-membrane protein insertion factor,TRUE,auto_root.mge,m,0.5,-,-1,"20,-21,21","0,0,1",9.0,PDB-homolog,0,protein folding/maturation
+MG_465_MONOMER,14805.4,92.87578125,6d1r, or :A,AU,P47703,ribonuclease P protein component,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",14.0,PDB-homolog,0,RNA synthesis/maturation
+MG_466_MONOMER,5706.7,95.54583333,4YBB, or :D3,AU,P47704,ribosomal protein L34,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",116.0,PDB-homolog,0,translation
+MG_467_MONOMER,34678.4,74.91961415,5XU1, or :A,AU,P47705,salivaricin A ABC transporter; ATP-binding protein,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",10.0,PDB-homolog,0,protein transport/singaling
+MG_468_MONOMER,198492,39.94054964,5XU1, or :M,AU,Q49460,salivaricin A ABC transporter; permease protein,TRUE,auto_root.mge,m,0.5,-,-1,"7,13,25","0,0,1",0.0,PDB-homolog,0,protein transport/singaling
+MG_469_MONOMER,50762.2,98.85583524,3R8F, or :A,AU,P35888,chromosomal replication initiator protein DnaA,,auto_root.mge,c,0.5,-,-1,"8,35,42","0.44,0.84,0.32",0.0,PDB-homolog,0,DNA replication/maintenance
+MG_470_MONOMER,29967.8,99.62825279,5IF9, or :A,AU,P47706,CobQ/CobB/MinD/ParA nucleotide binding domain,,auto_root.mge,c,0.0,-,-1,"-22,-14,-15","-0.2,-0.68,0.71",61.0,PDB-homolog,1,cytokinesis/motility
+MG_473_MONOMER,5759.9,99.8,5MYJ, or :B5,AU,Q9ZB82,ribosomal protein L33 type 2,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",127.0,PDB-homolog,0,translation
+MG_474_MONOMER,14258.6,74.33070866,5TCX, or :A,AU,Q9ZB81,protein export/possible structural role,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",13.0,PDB-homolog,0,protein transport/singaling
+MG_476_MONOMER,8543.5,99.7,5mg3, or :G,AU,P58061,preprotein translocase; SecG subunit,TRUE,auto_root.mge,m,0.5,-,-1,"0,0,0","0,0,1",1.0,PDB-homolog,0,protein transport/singaling
+MG_477_MONOMER,10472.5,97.68,1G2R, or :A,AU,Q2MHT0,transcription termination factor,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",7.0,PDB-homolog,0,transcription
+MG_478_MONOMER,17776.1,38.13636364,3J09, or :A,AU,Q9ZB80,,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",19.0,PDB-homolog,0,MG-specific
+MG_480_MONOMER,25225.7,5.07260274,2K29, or :A/0,AU,P56723,structural; putative Cell cycle; putative,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",37.0,PDB-homolog,0,MG-specific
+MG_481_MONOMER,7638.1,88.17741935,5NGM, or :Au,AU,P57085,30S ribosomal protein S21,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",167.0,PDB-homolog,0,translation
+MG_482_MONOMER,12780.8,99.02368421,3GWM, or :A,AU,Q9ZB79,holo-(acyl-carrier-protein) synthase,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",0.0,PDB-homolog,0,metabolism
+MG_491_MONOMER,39388.4,41.04046243,4XNG, or :A,AU,Q9ZB78,cell adhesion; homology to dksA; RNA polymerase binding; putative,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",35.0,PDB-homolog,0,cytokinesis/motility
+MG_494_MONOMER,17493.3,2.875333333,1JH3, or :A/0,AU,Q9ZB77,cell-division inhibitor; putative protease; putative,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",12.0,PDB-homolog,0,cytokinesis/motility
+MG_498_MONOMER,32749.1,95.77464789,1K82, or :C,AU,P55825,formamidopyrimidine-DNA glycosylase,,auto_root.mge,c,0.0,-,-1,"-4,9,-14","-0.92,-0.38,0.04",20.0,PDB-homolog,1,DNA replication/maintenance
+MG_505_MONOMER,16063.8,99.27536232,1NU0, or :B,AU,Q9ZB76,putative holliday junction resolvase,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",15.0,PDB-homolog,0,DNA replication/maintenance
+MG_515_MONOMER,30844,32.16468401,3x29, or :A,AU,Q9ZB74,,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",318.0,PDB-homolog,0,MG-specific
+MG_516_MONOMER,8281,48.29589041,5I0I, or :G,AU,Q49310,UPF0154,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",15.0,PDB-homolog,0,uncharacterized
+MG_517_MONOMER,40136.6,66.79530792,3BCV, or :B,AU,Q9ZB73,glycosyl transferase; group 2 family protein,,auto_root.mge,c,0.0,-,-1,"0,0,0","0,0,1",23.0,PDB-homolog,0,metabolism
+MG_521_MONOMER,25092.9,95.69419643,3P5N, or :A,AU,Q9ZB72,membrane protein; putative,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",5.0,PDB-homolog,0,protein transport/singaling
+MG_522_MONOMER,10104.7,91.95340909,6HA1, or :t,AU,P55750,ribosomal protein S20,,auto_root.mge,c,0.5,-,-1,"0,0,0","0,0,1",148.0,PDB-homolog,0,translation
+MG_524_MONOMER,17172.1,85.88993289,4X89, or :A,AU,Q9ZB71,,TRUE,auto_root.mge,m,0.0,-,-1,"0,0,0","0,0,1",42.0,PDB-homolog,0,uncharacterized
+MG_525_MONOMER,76810.7,5.228915663,2JWA, or :A/1,AU,P47655,,,auto_root,e,0.0,-,-1,"0,0,0","0,0,1",9.0,PDB-homolog,0,MG-specific
+MG_526_MONOMER,32069.5,80.28169014,5XU1, or :B,AU,Q9ZB70,salivaricin A ABC transporter; ATP-binding protein,,auto_root.mge,c,0.5,-,-1,"5,-1,36","-0.06,-0.01,-1",25.0,PDB-homolog,0,protein transport/singaling
+MGrrnA16S,,-1,4V69, or :AA,AU,,rRNA,,root.mge,c,,,-1,,,,,0,PDB-homolog,0,translation
+MGrrnA23S,,-1,4V69, or :BB,AU,,rRNA,,root.mge,c,,,-1,,,,,0,PDB-homolog,0,translation
+MGrrnA5S,,-1,4V69, or :BA,AU,,rRNA,,root.mge,c,,,-1,,,,,17,PDB-homolog,0,translation
+tRNA,,-1,6TNA,,AU,,tRNA,,root.mge,c,,,-1,,,,,451,PDB-homolog,0,translation
+tRNA-aminoacylated,,-1,6TNA,,AU,,tRNA,,root.mge,c,,,-1,,,,,1198,PDB-homolog,0,translation
+MG_0001,,-1,4WFM, or :A,AU,,sRNA,,root.mge,c,,,-1,,,,,1,PDB-homolog,0,RNA synthesis/maturation
+MG_0002,,-1,4V2S, or :Q,AU,,sRNA,,root.mge,c,,,-1,,,,,15,PDB-homolog,0,RNA synthesis/maturation
+MG_0003,,-1,3DHS, or :A,AU,,sRNA,,root.mge,c,,,-1,,,,,0,PDB-homolog,0,RNA synthesis/maturation
+MG_0004,,-1,2CZJ, or :B,AU,,sRNA,,root.mge,c,,,-1,,,,,7,PDB-homolog,0,translation
