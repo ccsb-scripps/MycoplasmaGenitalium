@@ -8,7 +8,7 @@ Repository covering the ccsb work on the mycoplasma genitalium modelling project
 
 
 The repository consist in the following folders :
-* cellPACKgpu_Data : the copy of the data folder that is used by cellPACKgpu to load and generate the final 3D models.
+* cellPACK_Data : the copy of the data folder that is used by cellPACKgpu to load and generate the final 3D models.
     * lattices
     * palettes
     * proteins
