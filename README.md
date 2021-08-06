@@ -4,7 +4,7 @@ Repository covering the ccsb work on the mycoplasma genitalium modelling project
 
 
 ![mesoscope](https://github.com/ccsb-scripps/MycoplasmaGenitalium/blob/main/Models/CaptureMesoscope.PNG)
-
+Recipes and models are available on Mesoscope in the list of available example (Load->New Recipe->From Example->Mycoplasma Genitalium
 
 
 The repository consist in the following folders :
@@ -20,7 +20,7 @@ The repository consist in the following folders :
     * README
 * Models : Exampe of generated models with cellPACKgpu in different file formats. cif and bcif can be directly loaded in [molstar](https://molstar.org/)
     * Model at Beads resolution in pdb format (.pdb) 
-    * Model at Atomic resolution in cif (.zip) and bcif format ( convertion done with molstar )
+    * Model at Atomic resolution in cif (.zip) and bcif format ( convertion done with molstar ). See one example using a [bcif file in molstar](https://molstar.org/viewer/?structure-url=https://ghcdn.rawgit.org/ccsb-scripps/MycoplasmaGenitalium/main/Models/cellpack_atom_instances_149_curated.bcif&structure-url-format=mmcif&structure-url-is-binary=1). Switch the representation to spacefill and add a clipping plane. Or open the following [premade molstar scene with membrane](https://molstar.org/viewer/?snapshot-url=https://ghcdn.rawgit.org/ccsb-scripps/MycoplasmaGenitalium/main/Models/mol-star_state_1189.molx&snapshot-url-type=molx) and [without](https://molstar.org/viewer/?snapshot-url=https://ghcdn.rawgit.org/ccsb-scripps/MycoplasmaGenitalium/main/Models/mol-star_state_1189_no_membrane.molx&snapshot-url-type=molx).
     * Model in cellpack binary format (.bin)
     * Lipids Membrane model in cif and bcif format
     * Bundle in zip format for mesoscope
