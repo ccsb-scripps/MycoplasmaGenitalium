@@ -4,7 +4,7 @@ Repository covering the ccsb work on the mycoplasma genitalium modelling project
 
 
 ![mesoscope](https://github.com/ccsb-scripps/MycoplasmaGenitalium/blob/main/Models/CaptureMesoscope.PNG)
-Recipes and models are available on Mesoscope in the list of available example (Load->New Recipe->From Example->Mycoplasma Genitalium
+Recipes and models are available on [Mesoscope](https://mesoscope.scripps.edu/beta/) in the list of available example (Load->New Recipe->From Example->Mycoplasma Genitalium
 
 
 The repository consist in the following folders :
