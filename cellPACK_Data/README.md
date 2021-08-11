@@ -4,7 +4,7 @@ You will find in this folder a copy of the data folder that come with cellPACKgp
  * palettes : differents color palette to be used in cellPACKgpu or in mesoscope
  * recipes : the two recipes used for MycoplasmaGenitalium
  * proteins : all the cif/pdb files for each ingredients for both recipes
-
-### Walkthrough for cellPACKgpu
+ * cellPACK interface.pdf : User interface overview
+ * cellPACK walkthrough.pdf : QuickStart and How to use cellPACKgpu to explore and build Mycoplasma genitalium models.
 
 
