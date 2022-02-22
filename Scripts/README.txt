@@ -14,7 +14,7 @@ Option 1: change the frame number will change the copy number and retrieve the d
 Option 2: generate the 'curated' recipe or 'auto' recipe by changing 'use_method' at the beginning of the script
 
 ******
-To run WC-MG-CellPACK-input_LatticeNucucleoid.py you need:
+To run WC-MG-CellPACK-input_LatticeNucleoid.py you need:
 - WC-MG-CellPACK-functions
 - Input folder with: protein_data.json, genes_data.json, simulation-1.h5, getSeriesData_monomers1.json, getSeriesData_complex1.json, S3K-Transcription units.csv
 - Output folder 
