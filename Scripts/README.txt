@@ -1,7 +1,7 @@
 Script : Python's script integrating data from the WC computational model and structural information for MG proteins (in input_files folder). It generates: csv table used to make recipe in mesoscope, csv table used to make lattice-based models of supercoiled mycoplasma nucleoids with NucleoidLattice by Davaid S. Goodsell
 
 WC-MG-CellPACK-RecipeBuilder-short.py: create csv table with a draft recipe readable by Mesoscope
-WC-MG-CellPACK-input_LatticeNucucleoid.py: create csv table with data used by LatticeNucleoids to build MG nucleoid models
+WC-MG-CellPACK-input_LatticeNucleoid.py: create csv table with data used by LatticeNucleoids to build MG nucleoid models
 WC-MG-CellPACK-functions.py: custom functions to run the scripts above
 
 ******
