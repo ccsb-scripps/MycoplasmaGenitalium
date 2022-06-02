@@ -1,7 +1,10 @@
 # MycoplasmaGenitalium
 Modelling of Mycoplasma genitalium
-Repository covering the ccsb work on the mycoplasma genitalium modelling project based on the [WC computational model](https://doi.org/10.1016/j.cell.2012.05.044).
 
+[Maritan M, Autin L, Karr J, Covert MW, Olson AJ, Goodsell DS. Building Structural Models of a Whole Mycoplasma Cell. J Mol Biol. 2022 Jan 30;434(2):167351. doi: 10.1016/j.jmb.2021.167351. Epub 2021 Nov 10. PMID: 34774566; PMCID: PMC8752489.](https://pubmed.ncbi.nlm.nih.gov/34774566/)
+
+
+Repository covering the ccsb work on the mycoplasma genitalium modelling project based on the [WC computational model](https://doi.org/10.1016/j.cell.2012.05.044). 
 
 ![mesoscope](https://github.com/ccsb-scripps/MycoplasmaGenitalium/blob/main/Models/CaptureMesoscope.PNG)
 Recipes and models are available on [Mesoscope](https://mesoscope.scripps.edu/beta/) in the list of available example (Load->New Recipe->From Example->Mycoplasma Genitalium
